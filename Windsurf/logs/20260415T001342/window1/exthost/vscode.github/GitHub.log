@@ -1,4 +1,0 @@
-2026-04-15 00:13:47.162 [info] Log level: Info
-2026-04-15 00:13:47.891 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: Request failed due to following response errors:
- - Could not resolve to a Repository with the name 'jvmdevelop/abot'.
-2026-04-15 00:13:56.097 [info] Log level: Info

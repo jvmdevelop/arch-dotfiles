@@ -1,9 +1,0 @@
-2026-02-25 08:10:28.387 [info] Constructor: scheduling initial write
-2026-02-25 08:10:28.414 [info] fetchAndWrite: lease returned 0 tools across 0 clients
-2026-02-25 08:10:28.414 [info] fetchAndWrite clients: 
-2026-02-25 08:10:28.415 [info] Incremental write: 0 changed, 1 removed, 0 unchanged
-2026-02-25 08:10:29.016 [info] Lease change event received
-2026-02-25 08:10:29.016 [info] Lease change event received
-2026-02-25 08:10:29.117 [info] fetchAndWrite: lease returned 0 tools across 0 clients
-2026-02-25 08:10:29.118 [info] fetchAndWrite clients: 
-2026-02-25 08:10:29.118 [info] Incremental write: 0 changed, 0 removed, 0 unchanged

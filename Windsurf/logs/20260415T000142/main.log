@@ -1,9 +1,0 @@
-2026-04-15 00:01:42.795 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"713633ecc8341194e9a7106526de3569","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum/backend","external":"file:///home/dieno/projects/lyceum/backend","path":"/home/dieno/projects/lyceum/backend","scheme":"file"}}}
-2026-04-15 00:01:42.798 [info] update#setState idle
-2026-04-15 00:01:58.573 [info] Extension host with pid 124021 exited with code: 0, signal: unknown.
-2026-04-15 00:01:58.588 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"c39e0a8ffd9374195900ed9ddd1b78bf","uri":{"$mid":1,"fsPath":"/home/dieno/projects/abot","external":"file:///home/dieno/projects/abot","path":"/home/dieno/projects/abot","scheme":"file"}}}
-2026-04-15 00:02:12.800 [info] update#setState checking for updates
-2026-04-15 00:02:13.013 [info] update#setState available for download
-2026-04-15 00:03:04.119 [info] Extension host with pid 125883 exited with code: 0, signal: unknown.
-2026-04-15 00:03:04.210 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"c39e0a8ffd9374195900ed9ddd1b78bf","uri":{"$mid":1,"fsPath":"/home/dieno/projects/abot","external":"file:///home/dieno/projects/abot","path":"/home/dieno/projects/abot","scheme":"file"}}}
-2026-04-15 00:03:04.227 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

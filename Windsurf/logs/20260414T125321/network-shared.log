@@ -1,4 +1,0 @@
-2026-04-14 13:24:53.838 [error] #46: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_RESET
-2026-04-14 13:30:02.749 [error] #53: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
-2026-04-14 13:44:06.397 [error] #68: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
-2026-04-14 14:05:09.958 [error] #100: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED

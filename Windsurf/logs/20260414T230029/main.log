@@ -1,9 +1,0 @@
-2026-04-14 23:00:29.145 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"6b30f5ffcf42be62b066df08abc88923","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum","external":"file:///home/dieno/projects/lyceum","path":"/home/dieno/projects/lyceum","scheme":"file"}}}
-2026-04-14 23:00:29.150 [info] update#setState idle
-2026-04-14 23:00:48.685 [info] Extension host with pid 101499 exited with code: 0, signal: unknown.
-2026-04-14 23:00:48.705 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"713633ecc8341194e9a7106526de3569","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum/backend","external":"file:///home/dieno/projects/lyceum/backend","path":"/home/dieno/projects/lyceum/backend","scheme":"file"}}}
-2026-04-14 23:00:59.152 [info] update#setState checking for updates
-2026-04-14 23:00:59.412 [info] update#setState available for download
-2026-04-14 23:03:49.711 [info] Extension host with pid 102636 exited with code: 0, signal: unknown.
-2026-04-14 23:03:49.804 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"713633ecc8341194e9a7106526de3569","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum/backend","external":"file:///home/dieno/projects/lyceum/backend","path":"/home/dieno/projects/lyceum/backend","scheme":"file"}}}
-2026-04-14 23:03:49.819 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

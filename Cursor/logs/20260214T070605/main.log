@@ -1,6 +1,0 @@
-2026-02-14 07:06:05.537 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.4.36/c541a4fcb16275391048fa5a468cba599d5514b3600b0ff1333b01b3da4f9594/stable
-2026-02-14 07:06:05.538 [info] update#setState idle
-2026-02-14 07:06:10.262 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
-2026-02-14 07:06:35.541 [info] update#setState checking for updates
-2026-02-14 07:06:35.787 [info] update#setState available for download
-2026-02-14 07:07:49.245 [info] Extension host with pid 125994 exited with code: 0, signal: unknown.

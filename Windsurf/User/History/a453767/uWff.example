@@ -1,6 +1,0 @@
-# HuggingFace API Token
-# Get your token from: https://huggingface.co/settings/tokens
-HF_TOKEN=hf_your_token_here
-
-# Optional: Set log level (trace, debug, info, warn, error)
-RUST_LOG=info
