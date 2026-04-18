@@ -1,0 +1,28 @@
+2026-04-14 12:53:21.182 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"835ba68726837b1fca767b07084978f9","uri":{"$mid":1,"fsPath":"/home/dieno/projects/legis-entropy-","external":"file:///home/dieno/projects/legis-entropy-","path":"/home/dieno/projects/legis-entropy-","scheme":"file"}}}
+2026-04-14 12:53:21.186 [info] update#setState idle
+2026-04-14 12:53:34.124 [info] Extension host with pid 100835 exited with code: 0, signal: unknown.
+2026-04-14 12:53:34.135 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"64821a484a091f852969226e6f77833c","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum/frontend","external":"file:///home/dieno/projects/lyceum/frontend","path":"/home/dieno/projects/lyceum/frontend","scheme":"file"}}}
+2026-04-14 12:53:51.188 [info] update#setState checking for updates
+2026-04-14 12:53:51.562 [info] update#setState available for download
+2026-04-14 13:59:41.340 [info] Extension host with pid 103654 exited with code: 0, signal: unknown.
+2026-04-14 13:59:41.846 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"5428cb3728266ee560e8fd868577c787","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum","external":"file:///home/dieno/projects/lyceum","path":"/home/dieno/projects/lyceum","scheme":"file"}}}
+2026-04-14 13:59:41.864 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 103638]: crashed with code 15 and reason 'killed'
+2026-04-14 13:59:41.864 [error] === UTILITY PROCESS CRASH REPORT ===
+2026-04-14 13:59:41.864 [error] Time: 2026-04-14T08:59:41.864Z
+2026-04-14 13:59:41.864 [error] PID: 103638, Exit Code: 15 (Unknown exit code (15)), Reason: killed
+2026-04-14 13:59:41.864 [error] Process Type: fileWatcher
+2026-04-14 13:59:41.864 [error] Process ID: 1
+2026-04-14 13:59:41.864 [error] Entry Point: vs/platform/files/node/watcher/watcherMain
+2026-04-14 13:59:41.864 [error] Main Process Memory: RSS=296MB, Heap=16MB, External=4MB
+2026-04-14 13:59:41.864 [error] System Information:
+2026-04-14 13:59:41.864 [error]   - Node Version: v22.22.0
+2026-04-14 13:59:41.864 [error]   - Platform: linux_x64
+2026-04-14 13:59:41.864 [error]   - Electron Version: 39.5.2
+2026-04-14 13:59:41.864 [error] Active Utility Processes: 2 processes
+2026-04-14 13:59:41.864 [error] Sample Processes:
+2026-04-14 13:59:41.864 [error]   - shared-process (PID: 100811)
+2026-04-14 13:59:41.864 [error]   - pty-host (PID: 100936)
+2026-04-14 13:59:41.864 [error] === END UTILITY PROCESS CRASH REPORT ===
+2026-04-14 14:17:40.162 [info] Extension host with pid 134667 exited with code: 0, signal: unknown.
+2026-04-14 14:17:40.209 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"5428cb3728266ee560e8fd868577c787","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum","external":"file:///home/dieno/projects/lyceum","path":"/home/dieno/projects/lyceum","scheme":"file"}}}
+2026-04-14 14:17:40.229 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

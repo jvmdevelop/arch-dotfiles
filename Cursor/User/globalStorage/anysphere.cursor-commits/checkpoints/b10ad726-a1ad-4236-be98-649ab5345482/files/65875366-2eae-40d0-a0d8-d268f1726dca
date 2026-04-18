@@ -1,0 +1,46 @@
+use le_common::{init_metrics, init_tracing, load_settings};
+use le_proto::le::v1::{
+    conflict_service_server::{ConflictService, ConflictServiceServer},
+    ConfidenceScore, ConflictFeatures, DetectConflictRequest, DetectConflictResponse,
+};
+use tonic::{transport::Server, Request, Response, Status};
+use tracing::info;
+
+struct ConflictSvc;
+
+#[tonic::async_trait]
+impl ConflictService for ConflictSvc {
+    async fn detect(
+        &self,
+        _request: Request<DetectConflictRequest>,
+    ) -> Result<Response<DetectConflictResponse>, Status> {
+        Ok(Response::new(DetectConflictResponse {
+            conflict: false,
+            confidence: Some(ConfidenceScore { value: 0.0 }),
+            features: Some(ConflictFeatures {
+                temporal_overlap: 0.0,
+                hierarchy_conflict: 0.0,
+                semantic_similarity: 0.0,
+            }),
+            explanation: "not implemented".to_string(),
+        }))
+    }
+}
+
+#[tokio::main]
+async fn main() -> anyhow::Result<()> {
+    init_tracing();
+    let _metrics = init_metrics()?;
+
+    let settings = load_settings()?;
+    let addr = format!("{}:{}", settings.service.host, settings.service.port).parse()?;
+
+    info!(%addr, "starting conflict-service");
+
+    Server::builder()
+        .add_service(ConflictServiceServer::new(ConflictSvc))
+        .serve(addr)
+        .await?;
+
+    Ok(())
+}

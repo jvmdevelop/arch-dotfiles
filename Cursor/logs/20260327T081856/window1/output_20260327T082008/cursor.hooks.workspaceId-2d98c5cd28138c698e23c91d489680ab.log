@@ -1,0 +1,23 @@
+[2026-03-27T13:20:08.265Z] Initializing Cursor Hooks Service...
+[2026-03-27T13:20:08.265Z] Claude user config path: /home/dieno/.claude/settings.json
+[2026-03-27T13:20:08.265Z] Project config path (legis-entropy): /home/dieno/legis-entropy/.cursor/hooks.json
+[2026-03-27T13:20:08.265Z] Claude project config path (legis-entropy): /home/dieno/legis-entropy/.claude/settings.json
+[2026-03-27T13:20:08.265Z] Claude project local config path (legis-entropy): /home/dieno/legis-entropy/.claude/settings.local.json
+[2026-03-27T13:20:08.266Z] User config path: /home/dieno/.cursor/hooks.json
+[2026-03-27T13:20:08.266Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2026-03-27T13:20:08.266Z] Reloading hooks configuration...
+[2026-03-27T13:20:08.267Z] No Claude user settings found
+[2026-03-27T13:20:12.252Z] No enterprise hooks configuration found
+[2026-03-27T13:20:12.256Z] No user hooks configuration found
+[2026-03-27T13:20:12.258Z] ERROR: Failed to parse project hooks configuration
+[2026-03-27T13:20:12.258Z] No project hooks configuration found
+[2026-03-27T13:20:12.258Z] Reloading hooks configuration...
+[2026-03-27T13:20:12.258Z] Refreshing team hooks...
+[2026-03-27T13:20:12.258Z] Cursor Hooks Service initialized successfully
+[2026-03-27T13:20:12.266Z] No Claude user settings found
+[2026-03-27T13:20:13.103Z] No enterprise hooks configuration found
+[2026-03-27T13:20:13.105Z] No user hooks configuration found
+[2026-03-27T13:20:13.106Z] ERROR: Failed to parse project hooks configuration
+[2026-03-27T13:20:13.106Z] No project hooks configuration found
+[2026-03-27T13:42:57.138Z] Refreshing team hooks...
+[2026-03-27T13:42:57.176Z] Refreshing team hooks...

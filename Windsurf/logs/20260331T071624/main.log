@@ -1,0 +1,10 @@
+2026-03-31 07:16:24.525 [error] Invalid path provided: /home/dieno/projects/legis-entropy, ENOENT: no such file or directory, stat '/home/dieno/projects/legis-entropy'
+2026-03-31 07:16:24.549 [info] WindsurfWindowsMainManager: Window will load {"windowId":1}
+2026-03-31 07:16:24.551 [info] update#setState idle
+2026-03-31 07:16:34.267 [info] Extension host with pid 129445 exited with code: 0, signal: unknown.
+2026-03-31 07:16:34.277 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"7e32582a79c2af7d95d96f6a850c19ae","uri":{"$mid":1,"fsPath":"/home/dieno/projects/legis-entropy-/java_backend","external":"file:///home/dieno/projects/legis-entropy-/java_backend","path":"/home/dieno/projects/legis-entropy-/java_backend","scheme":"file"}}}
+2026-03-31 07:16:54.551 [info] update#setState checking for updates
+2026-03-31 07:16:54.791 [info] update#setState available for download
+2026-03-31 07:17:01.369 [info] Extension host with pid 130918 exited with code: 0, signal: unknown.
+2026-03-31 07:17:01.398 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"7e32582a79c2af7d95d96f6a850c19ae","uri":{"$mid":1,"fsPath":"/home/dieno/projects/legis-entropy-/java_backend","external":"file:///home/dieno/projects/legis-entropy-/java_backend","path":"/home/dieno/projects/legis-entropy-/java_backend","scheme":"file"}}}
+2026-03-31 07:17:01.414 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

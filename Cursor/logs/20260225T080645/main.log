@@ -1,0 +1,11 @@
+2026-02-25 08:06:45.414 [error] Invalid path provided: /home/dieno/projects/race-it, ENOENT: no such file or directory, stat '/home/dieno/projects/race-it'
+2026-02-25 08:06:45.447 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.5.25/c541a4fcb16275391048fa5a468cba599d5514b3600b0ff1333b01b3da4f9594/stable
+2026-02-25 08:06:45.447 [info] update#setState idle
+2026-02-25 08:06:51.301 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2026-02-25 08:06:57.019 [info] Extension host with pid 17560 exited with code: 0, signal: unknown.
+2026-02-25 08:06:58.020 [error] Extension host with pid 17560 still exists, forcefully killing it...
+2026-02-25 08:07:00.749 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2026-02-25 08:07:17.788 [info] update#setState checking for updates
+2026-02-25 08:07:18.001 [info] update#setState idle
+2026-02-25 08:10:15.373 [info] Extension host with pid 18819 exited with code: 0, signal: unknown.
+2026-02-25 08:10:15.485 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 18798]: crashed with code 15 and reason 'killed'

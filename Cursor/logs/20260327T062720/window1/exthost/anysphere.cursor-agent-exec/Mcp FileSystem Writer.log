@@ -1,0 +1,47 @@
+2026-03-27 06:27:27.437 [info] Constructor: scheduling initial write
+2026-03-27 06:27:27.447 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 06:27:28.032 [info] Lease change event received
+2026-03-27 06:27:28.033 [info] Lease change event received
+2026-03-27 06:27:28.134 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 06:27:28.491 [info] Lease change event received
+2026-03-27 06:27:28.492 [info] Lease change event received
+2026-03-27 06:27:28.543 [info] Lease change event received
+2026-03-27 06:27:28.646 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 06:27:28.681 [info] Lease change event received
+2026-03-27 06:27:28.699 [info] Lease change event received
+2026-03-27 06:27:28.799 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:11:08.295 [info] Constructor: scheduling initial write
+2026-03-27 07:11:08.356 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:11:08.408 [info] Lease change event received
+2026-03-27 07:11:08.408 [info] Lease change event received
+2026-03-27 07:11:08.512 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:11:09.055 [info] Lease change event received
+2026-03-27 07:11:09.058 [info] Lease change event received
+2026-03-27 07:11:09.114 [info] Lease change event received
+2026-03-27 07:11:09.218 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:11:09.660 [info] Lease change event received
+2026-03-27 07:11:09.678 [info] Lease change event received
+2026-03-27 07:11:09.810 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:11:24.302 [info] Lease change event received
+2026-03-27 07:11:24.311 [info] Lease change event received
+2026-03-27 07:11:24.416 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:11:28.212 [info] Lease change event received
+2026-03-27 07:11:28.223 [info] Lease change event received
+2026-03-27 07:11:28.328 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:14:09.590 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:18:39.099 [info] Lease change event received
+2026-03-27 07:18:39.108 [info] Lease change event received
+2026-03-27 07:18:39.211 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:18:43.209 [info] Lease change event received
+2026-03-27 07:18:43.219 [info] Lease change event received
+2026-03-27 07:18:43.323 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-03-27 07:18:51.668 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:23:06.187 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:29:09.041 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:33:30.301 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:35:50.684 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:44:19.758 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:44:51.242 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:46:15.757 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:47:07.134 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}
+2026-03-27 07:47:31.310 [info] MCP filesystem sync check {"mcpFileSystemMeta":{"synced":true,"expectedServers":0,"actualServers":0,"serversMissing":0,"serversStale":0,"toolMismatches":0,"source":"workbench_lease","configuredServers":0,"configuredServersBucket":"0"},"mcpFsStructuredLogOptIn":true}

@@ -1,0 +1,17 @@
+[2026-03-27T13:19:00.728Z] Initializing Cursor Hooks Service...
+[2026-03-27T13:19:00.728Z] Claude user config path: /home/dieno/.claude/settings.json
+[2026-03-27T13:19:00.729Z] No workspace folder found, project hooks will not be available
+[2026-03-27T13:19:00.729Z] User config path: /home/dieno/.cursor/hooks.json
+[2026-03-27T13:19:00.729Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2026-03-27T13:19:00.729Z] Reloading hooks configuration...
+[2026-03-27T13:19:00.731Z] No Claude user settings found
+[2026-03-27T13:19:04.478Z] No enterprise hooks configuration found
+[2026-03-27T13:19:04.479Z] No user hooks configuration found
+[2026-03-27T13:19:04.479Z] No workspace project hooks configuration paths found
+[2026-03-27T13:19:04.480Z] Reloading hooks configuration...
+[2026-03-27T13:19:04.480Z] Refreshing team hooks...
+[2026-03-27T13:19:04.480Z] Cursor Hooks Service initialized successfully
+[2026-03-27T13:19:04.482Z] No Claude user settings found
+[2026-03-27T13:19:05.309Z] No enterprise hooks configuration found
+[2026-03-27T13:19:05.310Z] No user hooks configuration found
+[2026-03-27T13:19:05.310Z] No workspace project hooks configuration paths found

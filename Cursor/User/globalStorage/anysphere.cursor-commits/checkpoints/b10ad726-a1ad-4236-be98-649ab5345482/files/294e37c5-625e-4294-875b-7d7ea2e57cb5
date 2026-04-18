@@ -1,0 +1,44 @@
+use le_common::{init_metrics, init_tracing, load_settings};
+use le_proto::le::v1::{
+    embedding_service_server::{EmbeddingService, EmbeddingServiceServer},
+    EmbedRequest, EmbedResponse, EmbeddingVector,
+};
+use tonic::{transport::Server, Request, Response, Status};
+use tracing::info;
+
+struct EmbeddingSvc;
+
+#[tonic::async_trait]
+impl EmbeddingService for EmbeddingSvc {
+    async fn embed(
+        &self,
+        request: Request<EmbedRequest>,
+    ) -> Result<Response<EmbedResponse>, Status> {
+        let req = request.into_inner();
+        let mut embeddings = Vec::with_capacity(req.docs.len());
+        for _ in req.docs {
+            embeddings.push(EmbeddingVector {
+                values: vec![0.0; 768],
+            });
+        }
+        Ok(Response::new(EmbedResponse { embeddings }))
+    }
+}
+
+#[tokio::main]
+async fn main() -> anyhow::Result<()> {
+    init_tracing();
+    let _metrics = init_metrics()?;
+
+    let settings = load_settings()?;
+    let addr = format!("{}:{}", settings.service.host, settings.service.port).parse()?;
+
+    info!(%addr, "starting embedding-service");
+
+    Server::builder()
+        .add_service(EmbeddingServiceServer::new(EmbeddingSvc))
+        .serve(addr)
+        .await?;
+
+    Ok(())
+}

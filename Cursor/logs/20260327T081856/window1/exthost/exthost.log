@@ -1,0 +1,1676 @@
+2026-03-27 08:19:02.450 [info] Extension host with pid 371949 started
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] process.resourcesPath: /usr/share/cursor/resources
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] process.execPath: /usr/share/cursor/cursor
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-03-27 08:19:02.450 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-03-27 08:19:02.450 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.450 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-03-27 08:19:02.450 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.450 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-03-27 08:19:02.450 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 6.19.9-arch1-1
+2026-03-27 08:19:02.450 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-03-27 08:19:02.469 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent, startup: true, activationEvent: '*'
+2026-03-27 08:19:02.657 [info] Extension host with pid 371988 started
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] process.resourcesPath: /usr/share/cursor/resources
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] process.execPath: /usr/share/cursor/cursor
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-03-27 08:19:02.657 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-03-27 08:19:02.657 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.657 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-03-27 08:19:02.657 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.657 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-03-27 08:19:02.657 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 6.19.9-arch1-1
+2026-03-27 08:19:02.657 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-03-27 08:19:02.676 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: true, activationEvent: '*'
+2026-03-27 08:19:02.779 [info] Extension host with pid 371987 started
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] process.resourcesPath: /usr/share/cursor/resources
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] process.execPath: /usr/share/cursor/cursor
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-03-27 08:19:02.779 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-03-27 08:19:02.779 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.779 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-03-27 08:19:02.779 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.779 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-03-27 08:19:02.779 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 6.19.9-arch1-1
+2026-03-27 08:19:02.779 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-03-27 08:19:02.792 [info] Eager extensions activated
+2026-03-27 08:19:02.796 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:02.848 [info] Extension host with pid 371986 started
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] process.resourcesPath: /usr/share/cursor/resources
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] process.execPath: /usr/share/cursor/cursor
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-03-27 08:19:02.848 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-03-27 08:19:02.848 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.848 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-03-27 08:19:02.848 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:19:02.848 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-03-27 08:19:02.848 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 6.19.9-arch1-1
+2026-03-27 08:19:02.848 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-03-27 08:19:02.861 [info] Eager extensions activated
+2026-03-27 08:19:02.863 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:02.989 [info] ExtensionService#_doActivateExtension anysphere.cursor-polyfills-remote, startup: true, activationEvent: '*'
+2026-03-27 08:19:03.020 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-27 08:19:03.051 [info] Extension activated success: anysphere.cursor-agent — 540ms (code loading: 515ms, activate call: 3ms, activate resolved: 22ms)
+2026-03-27 08:19:03.058 [info] Extension activated success: anysphere.cursor-polyfills-remote — 30ms (code loading: 30ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:19:03.058 [info] Extension activated success: vscode.git-base — 4ms (code loading: 4ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:19:03.061 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-27 08:19:03.126 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-27 08:19:03.175 [info] ExtensionService#_doActivateExtension anysphere.cursor-socket, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:03.185 [info] Extension activated success: anysphere.cursor-always-local — 382ms (code loading: 376ms, activate call: 6ms, activate resolved: 0ms)
+2026-03-27 08:19:03.187 [info] Extension activated success: anysphere.cursor-socket — 3ms (code loading: 3ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:19:03.202 [info] Extension activated success: vscode.github — 35ms (code loading: 28ms, activate call: 2ms, activate resolved: 5ms)
+2026-03-27 08:19:03.226 [info] Extension activated success: anysphere.cursor-retrieval — 355ms (code loading: 339ms, activate call: 4ms, activate resolved: 12ms)
+2026-03-27 08:19:03.257 [info] ExtensionService#_doActivateExtension anysphere.cursor-checkout, startup: true, activationEvent: '*'
+2026-03-27 08:19:03.266 [info] Extension activated success: vscode.git — 170ms (code loading: 65ms, activate call: 5ms, activate resolved: 100ms)
+2026-03-27 08:19:03.270 [info] Eager extensions activated
+2026-03-27 08:19:03.284 [info] Extension activated success: anysphere.cursor-checkout — 7ms (code loading: 6ms, activate call: 0ms, activate resolved: 1ms)
+2026-03-27 08:19:03.287 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:03.313 [info] Extension activated success: anysphere.cursor-agent-exec — 621ms (code loading: 573ms, activate call: 15ms, activate resolved: 33ms)
+2026-03-27 08:19:03.314 [info] Eager extensions activated
+2026-03-27 08:19:03.434 [info] ExtensionService#_doActivateExtension anysphere.cursor-commits, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:03.603 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:03.651 [info] ExtensionService#_doActivateExtension anysphere.cursor-explorer, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:03.655 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:03.841 [info] ExtensionService#_doActivateExtension anysphere.cursor-resolver-helper, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:03.973 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:04.028 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:04.031 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:19:04.057 [info] Extension activated success: cursor.cursor-browser-automation — 149ms (code loading: 147ms, activate call: 1ms, activate resolved: 1ms)
+2026-03-27 08:19:04.059 [info] Extension activated success: anysphere.cursor-commits — 171ms (code loading: 169ms, activate call: 0ms, activate resolved: 2ms)
+2026-03-27 08:19:04.059 [info] Extension activated success: anysphere.cursor-deeplink — 48ms (code loading: 48ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:19:04.059 [info] [ExtHostCursorExplorerProviderService] ExplorerProvider registered in ext host
+2026-03-27 08:19:04.060 [info] Extension activated success: anysphere.cursor-explorer — 3ms (code loading: 3ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:19:04.061 [info] Extension activated success: anysphere.cursor-resolver-helper — 133ms (code loading: 132ms, activate call: 1ms, activate resolved: 0ms)
+2026-03-27 08:19:04.062 [info] Extension activated success: anysphere.cursor-shadow-workspace — 56ms (code loading: 55ms, activate call: 1ms, activate resolved: 0ms)
+2026-03-27 08:19:04.062 [info] Extension activated success: vscode.debug-auto-launch — 2ms (code loading: 2ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:19:04.073 [info] Extension activated success: vscode.merge-conflict — 28ms (code loading: 24ms, activate call: 2ms, activate resolved: 2ms)
+2026-03-27 08:19:04.075 [info] [ExtHostCursorExplorerProviderService] Main thread provider registration acknowledged
+2026-03-27 08:19:04.087 [info] Extension activated success: anysphere.cursor-mcp — 212ms (code loading: 185ms, activate call: 0ms, activate resolved: 27ms)
+2026-03-27 08:19:05.093 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.095 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.096 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.253 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.255 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.256 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.451 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.665 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.674 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:05.766 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:06.025 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:06.511 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:07.391 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:10.403 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:12.614 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:13.474 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:16.444 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:25.390 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:25.425 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:28.394 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:35.181 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:37.437 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:40.423 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:40.828 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:43.477 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:46.039 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:46.455 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:52.489 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:55.242 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:19:55.459 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:03.649 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:04.431 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:05.455 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-27 08:20:05.457 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-27 08:20:05.457 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-27 08:20:05.458 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-27 08:20:05.458 [info] Extension host with pid 371988 exiting with code 0
+2026-03-27 08:20:05.460 [info] Extension host with pid 371986 exiting with code 0
+2026-03-27 08:20:05.460 [info] [ExtHostCursorExplorerProviderService] ExplorerProvider unregistered in ext host
+2026-03-27 08:20:05.471 [info] Extension host with pid 371987 exiting with code 0
+2026-03-27 08:20:05.478 [error] [ExtHostCursorExplorerProviderService] Main thread provider unregistration failed Canceled
+2026-03-27 08:20:05.478 [info] Extension host with pid 371949 exiting with code 0
+2026-03-27 08:20:09.853 [info] Extension host with pid 387269 started
+2026-03-27 08:20:09.853 [info] Skipping acquiring lock for /home/dieno/.config/Cursor/User/workspaceStorage/2d98c5cd28138c698e23c91d489680ab.
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] process.resourcesPath: /usr/share/cursor/resources
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] process.execPath: /usr/share/cursor/cursor
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-03-27 08:20:09.853 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-03-27 08:20:09.853 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:09.853 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-03-27 08:20:09.853 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:09.853 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-03-27 08:20:09.853 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 6.19.9-arch1-1
+2026-03-27 08:20:09.853 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-03-27 08:20:09.873 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent, startup: true, activationEvent: '*'
+2026-03-27 08:20:10.225 [info] ExtensionService#_doActivateExtension anysphere.cursor-polyfills-remote, startup: true, activationEvent: '*'
+2026-03-27 08:20:10.239 [info] Extension host with pid 387293 started
+2026-03-27 08:20:10.239 [info] Skipping acquiring lock for /home/dieno/.config/Cursor/User/workspaceStorage/2d98c5cd28138c698e23c91d489680ab.
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] process.resourcesPath: /usr/share/cursor/resources
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] process.execPath: /usr/share/cursor/cursor
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-03-27 08:20:10.239 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-03-27 08:20:10.239 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.239 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-03-27 08:20:10.239 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.239 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-03-27 08:20:10.239 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 6.19.9-arch1-1
+2026-03-27 08:20:10.239 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-03-27 08:20:10.249 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-27 08:20:10.262 [info] Extension activated success: anysphere.cursor-agent — 358ms (code loading: 348ms, activate call: 3ms, activate resolved: 7ms)
+2026-03-27 08:20:10.263 [info] Extension activated success: anysphere.cursor-polyfills-remote — 24ms (code loading: 24ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:20:10.279 [info] Extension activated success: vscode.git-base — 4ms (code loading: 3ms, activate call: 1ms, activate resolved: 0ms)
+2026-03-27 08:20:10.287 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: true, activationEvent: '*'
+2026-03-27 08:20:10.289 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-27 08:20:10.335 [info] Extension host with pid 387291 started
+2026-03-27 08:20:10.335 [info] Skipping acquiring lock for /home/dieno/.config/Cursor/User/workspaceStorage/2d98c5cd28138c698e23c91d489680ab.
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] process.resourcesPath: /usr/share/cursor/resources
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] process.execPath: /usr/share/cursor/cursor
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-03-27 08:20:10.335 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-03-27 08:20:10.335 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.335 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-03-27 08:20:10.335 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.335 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-03-27 08:20:10.335 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 6.19.9-arch1-1
+2026-03-27 08:20:10.335 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-03-27 08:20:10.344 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-27 08:20:10.355 [info] Eager extensions activated
+2026-03-27 08:20:10.357 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:10.377 [info] Extension host with pid 387292 started
+2026-03-27 08:20:10.377 [info] Skipping acquiring lock for /home/dieno/.config/Cursor/User/workspaceStorage/2d98c5cd28138c698e23c91d489680ab.
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] process.resourcesPath: /usr/share/cursor/resources
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] process.execPath: /usr/share/cursor/cursor
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-03-27 08:20:10.377 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-03-27 08:20:10.377 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.377 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-03-27 08:20:10.377 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-03-27 08:20:10.377 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-03-27 08:20:10.377 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 6.19.9-arch1-1
+2026-03-27 08:20:10.377 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-03-27 08:20:10.391 [info] Eager extensions activated
+2026-03-27 08:20:10.421 [info] Extension activated success: vscode.github — 37ms (code loading: 31ms, activate call: 2ms, activate resolved: 4ms)
+2026-03-27 08:20:10.467 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:10.470 [info] Extension activated success: vscode.git — 149ms (code loading: 55ms, activate call: 4ms, activate resolved: 90ms)
+2026-03-27 08:20:10.472 [info] Eager extensions activated
+2026-03-27 08:20:10.515 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:10.649 [info] ExtensionService#_doActivateExtension anysphere.cursor-commits, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:10.817 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:10.833 [info] ExtensionService#_doActivateExtension anysphere.cursor-socket, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:10.839 [info] Extension activated success: anysphere.cursor-retrieval — 477ms (code loading: 462ms, activate call: 3ms, activate resolved: 12ms)
+2026-03-27 08:20:10.852 [info] Extension activated success: anysphere.cursor-always-local — 375ms (code loading: 366ms, activate call: 9ms, activate resolved: 0ms)
+2026-03-27 08:20:10.861 [info] Extension activated success: anysphere.cursor-socket — 4ms (code loading: 3ms, activate call: 1ms, activate resolved: 0ms)
+2026-03-27 08:20:10.887 [info] ExtensionService#_doActivateExtension anysphere.cursor-explorer, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:10.888 [info] ExtensionService#_doActivateExtension anysphere.cursor-checkout, startup: true, activationEvent: '*'
+2026-03-27 08:20:10.891 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:10.913 [info] ExtHostSearch [cursorIgnore] internal fileSearch start reason=cursorIgnoreCheck roots=1 include=**/.cursorignore maxResults=0 numThreads=(default) folderQueries=[{"cwd":"/home/dieno/legis-entropy","disregardIgnoreFiles":false,"disregardParentIgnoreFiles":true,"disregardGlobalIgnoreFiles":true,"ignoreSymlinks":false,"rgNoIgnore":false,"rgNoIgnoreParent":true,"rgNoIgnoreGlobal":true,"rgFollow":true}]
+2026-03-27 08:20:10.919 [info] ExtHostSearch /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg --files --hidden --case-sensitive --no-require-git -g '**/.cursorignore' -g '!**/.git' -g '!**/.svn' -g '!**/.hg' -g '!**/.DS_Store' -g '!**/Thumbs.db' -g '!**/node_modules' -g '!**/bower_components' -g '!**/*.code-search' --no-ignore-parent --follow --no-config --no-ignore-global
+ - cwd: /home/dieno/legis-entropy
+ - Sibling clauses: {}
+2026-03-27 08:20:10.947 [info] Extension activated success: anysphere.cursor-checkout — 6ms (code loading: 5ms, activate call: 1ms, activate resolved: 0ms)
+2026-03-27 08:20:10.949 [info] ExtHostSearch Search finished. Stats: {"cmdTime":35,"fileWalkTime":35,"directoriesWalked":0,"filesWalked":0,"cmdResultCount":0}
+2026-03-27 08:20:10.950 [info] ExtHostSearch [cursorIgnore] internal fileSearch done in 37ms limitHit=false failed=false resultCount=0 cmdTime=35 fileWalkTime=35 providerTime=(unknown)
+2026-03-27 08:20:11.007 [info] Extension activated success: anysphere.cursor-agent-exec — 687ms (code loading: 600ms, activate call: 17ms, activate resolved: 70ms)
+2026-03-27 08:20:11.007 [info] Eager extensions activated
+2026-03-27 08:20:11.197 [info] ExtensionService#_doActivateExtension anysphere.cursor-resolver-helper, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:11.370 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:11.435 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:11.437 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-27 08:20:11.471 [info] Extension activated success: cursor.cursor-browser-automation — 136ms (code loading: 134ms, activate call: 1ms, activate resolved: 1ms)
+2026-03-27 08:20:11.477 [info] Extension activated success: anysphere.cursor-commits — 169ms (code loading: 167ms, activate call: 1ms, activate resolved: 1ms)
+2026-03-27 08:20:11.478 [info] Extension activated success: anysphere.cursor-deeplink — 70ms (code loading: 70ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:20:11.479 [info] [ExtHostCursorExplorerProviderService] ExplorerProvider registered in ext host
+2026-03-27 08:20:11.479 [info] Extension activated success: anysphere.cursor-explorer — 3ms (code loading: 3ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:20:11.482 [info] Extension activated success: anysphere.cursor-resolver-helper — 173ms (code loading: 172ms, activate call: 0ms, activate resolved: 1ms)
+2026-03-27 08:20:11.483 [info] Extension activated success: anysphere.cursor-shadow-workspace — 66ms (code loading: 65ms, activate call: 1ms, activate resolved: 0ms)
+2026-03-27 08:20:11.483 [info] Extension activated success: vscode.debug-auto-launch — 2ms (code loading: 2ms, activate call: 0ms, activate resolved: 0ms)
+2026-03-27 08:20:11.497 [info] Extension activated success: vscode.merge-conflict — 20ms (code loading: 15ms, activate call: 3ms, activate resolved: 2ms)
+2026-03-27 08:20:11.499 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-27 08:20:11.517 [info] [ExtHostCursorExplorerProviderService] Main thread provider registration acknowledged
+2026-03-27 08:20:11.529 [info] Extension activated success: anysphere.cursor-mcp — 356ms (code loading: 306ms, activate call: 1ms, activate resolved: 49ms)
+2026-03-27 08:20:11.539 [info] Extension activated success: vscode.emmet — 24ms (code loading: 16ms, activate call: 8ms, activate resolved: 0ms)
+2026-03-27 08:20:11.602 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-27 08:20:11.637 [info] Extension activated success: vscode.github-authentication — 21ms (code loading: 17ms, activate call: 2ms, activate resolved: 2ms)
+2026-03-27 08:20:12.883 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:12.884 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:12.885 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:12.885 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:12.886 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:12.886 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:12.886 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:13.272 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:13.279 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:13.458 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:13.497 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:13.535 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:13.691 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:14.094 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:15.119 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:16.371 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:18.093 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:18.888 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:21.064 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:21.571 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:24.130 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:27.100 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:27.102 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:31.913 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:33.142 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:36.112 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:37.969 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:38.167 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:38.170 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:38.670 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:45.123 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:52.604 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:54.071 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:20:57.070 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:02.942 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:03.078 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:09.070 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:09.668 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:12.078 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:15.077 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:23.292 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:24.091 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:33.021 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:33.085 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:40.882 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:42.087 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:53.435 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:21:54.141 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:03.774 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:06.124 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:08.795 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:09.117 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:12.167 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:15.135 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:25.168 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:27.124 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:39.127 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:39.711 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:42.170 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:22:45.137 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:23:11.525 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:23:12.170 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:23:33.060 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:23:33.139 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:24:11.667 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:24:12.180 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:25:10.148 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:25:10.641 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:25:12.180 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:25:15.258 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:25:18.640 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:25:21.199 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:26:12.187 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:26:15.267 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:26:48.238 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:27:12.231 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:27:39.234 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:27:54.287 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:28:12.214 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:29:12.317 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:29:15.252 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:30:12.245 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:30:15.294 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:30:21.338 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:30:30.756 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:31:12.287 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:31:38.034 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:31:39.366 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:32:12.301 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:32:15.308 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:33:12.349 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:34:12.354 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:35:12.334 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:35:15.367 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:35:21.373 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:35:51.375 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:35:57.828 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:36:06.429 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:36:12.369 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:36:18.408 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:36:30.392 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:37:12.375 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:38:12.385 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:38:15.456 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:38:51.402 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:38:57.397 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:39:12.420 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:40:12.437 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:40:15.420 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:40:21.415 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:41:12.509 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:41:15.861 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:42:12.515 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:42:26.131 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:42:27.449 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:42:28.133 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:42:30.449 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:42:51.506 [error] ConnectError: [unauthenticated] User is unauthorized
+	at l (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036152)
+	at u (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:4036548)
+	at next (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2275732)
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242894
+	at async /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:242778
+	at async Object.unary (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2274019)
+	at async Object.submitLogs (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:3748054)
+2026-03-27 08:45:42.293 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-27 08:45:42.295 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-27 08:45:42.296 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-27 08:45:42.296 [info] Extension host with pid 387293 exiting with code 0
+2026-03-27 08:45:42.296 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-27 08:45:42.299 [info] [ExtHostCursorExplorerProviderService] ExplorerProvider unregistered in ext host
+2026-03-27 08:45:42.300 [info] Extension host with pid 387292 exiting with code 0
+2026-03-27 08:45:42.301 [info] Extension host with pid 387291 exiting with code 0
+2026-03-27 08:45:42.318 [error] [ExtHostCursorExplorerProviderService] Main thread provider unregistration failed Canceled
+2026-03-27 08:45:42.319 [error] Canceled: Canceled
+	at new sPt (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:48:120260)
+	at ou._remoteCall (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:48:127752)
+	at r.<computed>.a.charCodeAt.r.<computed> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:48:123886)
+	at T8e._doExecuteCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:49898)
+	at T8e.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:49334)
+	at t.registerCommand.description (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:48598)
+	at T8e._executeContributedCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:50468)
+	at T8e._doExecuteCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:49467)
+	at T8e.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:49334)
+	at Object.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:214:140997)
+	at MLe.N [as value] (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:111473)
+	at L._deliver (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:2961)
+	at L._deliverQueue (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:3052)
+	at L.fire (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:3389)
+	at Object.v [as dispose] (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:180772)
+	at /usr/share/cursor/resources/app/extensions/git/dist/main.js:2:187137
+	at Array.forEach (<anonymous>)
+	at R.dispose (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:187124)
+	at SMe.<anonymous> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:10091)
+	at SMe.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:10187)
+	at SMe.<anonymous> (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:113950)
+	at SMe.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:10187)
+	at mi (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:706)
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:20533
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:1019
+	at Object.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1256)
+	at G5s._deactivate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:15377)
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:12648
+	at Array.map (<anonymous>)
+	at G5s._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:12636)
+	at G5s.terminate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:12990)
+	at hgt.terminate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:1617)
+	at Rr (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:680:7948)
+	at MessagePortMain.<anonymous> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:680:4377)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959) setContext undefined
+2026-03-27 08:45:42.320 [error] Canceled: Canceled
+	at new sPt (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:48:120260)
+	at ou._remoteCall (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:48:127752)
+	at r.<computed>.a.charCodeAt.r.<computed> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:48:123886)
+	at T8e._doExecuteCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:49898)
+	at T8e.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:49334)
+	at t.registerCommand.description (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:48598)
+	at T8e._executeContributedCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:50468)
+	at T8e._doExecuteCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:49467)
+	at T8e.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:49334)
+	at Object.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:214:140997)
+	at set hasGitHubRepositories (/usr/share/cursor/resources/app/extensions/github/dist/extension.js:2:270497)
+	at /usr/share/cursor/resources/app/extensions/github/dist/extension.js:2:271447
+	at MLe.value (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:592526)
+	at L._deliver (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:2961)
+	at L._deliverQueue (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:3052)
+	at L.fire (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:3389)
+	at Object.v [as dispose] (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:180772)
+	at /usr/share/cursor/resources/app/extensions/git/dist/main.js:2:187137
+	at Array.forEach (<anonymous>)
+	at R.dispose (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:187124)
+	at SMe.<anonymous> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:10091)
+	at SMe.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:10187)
+	at SMe.<anonymous> (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:113950)
+	at SMe.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:10187)
+	at mi (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:706)
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:20533
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:1019
+	at Object.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1256)
+	at G5s._deactivate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:15377)
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:12648
+	at Array.map (<anonymous>)
+	at G5s._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:12636)
+	at G5s.terminate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:12990)
+	at hgt.terminate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:1617)
+	at Rr (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:680:7948)
+	at MessagePortMain.<anonymous> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:680:4377)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959) setContext undefined
+2026-03-27 08:45:42.320 [info] Extension host with pid 387269 exiting with code 0

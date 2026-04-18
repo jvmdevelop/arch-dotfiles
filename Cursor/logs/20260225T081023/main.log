@@ -1,0 +1,9 @@
+2026-02-25 08:10:23.378 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.5.25/c541a4fcb16275391048fa5a468cba599d5514b3600b0ff1333b01b3da4f9594/stable
+2026-02-25 08:10:23.378 [info] update#setState idle
+2026-02-25 08:10:53.990 [info] update#setState checking for updates
+2026-02-25 08:10:54.190 [info] update#setState idle
+2026-02-25 08:11:38.824 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2026-02-25 08:59:45.946 [info] Extension host with pid 19906 exited with code: 0, signal: unknown.
+2026-02-25 08:59:45.948 [info] Extension host with pid 19905 exited with code: 0, signal: unknown.
+2026-02-25 08:59:46.004 [info] Extension host with pid 19884 exited with code: 0, signal: unknown.
+2026-02-25 08:59:46.316 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 19843]: crashed with code 15 and reason 'killed'

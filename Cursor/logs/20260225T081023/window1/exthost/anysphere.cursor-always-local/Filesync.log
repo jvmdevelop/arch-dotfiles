@@ -1,0 +1,76 @@
+2026-02-25 08:10:28.970 [error] Failed to check if file sync is enabled for user {}
+2026-02-25 08:10:28.970 [error] Failed to fetch fsConfig File sync is disabled
+2026-02-25 08:10:28.970 [error] Failed to fetch fsConfig File sync is disabled
+2026-02-25 08:10:29.142 [info] [registerEventListeners] Registering event listeners
+2026-02-25 08:10:29.838 [error] Failed to check if file sync is enabled for user {}
+2026-02-25 08:10:29.838 [error] Failed to fetch fsConfig File sync is disabled
+2026-02-25 08:10:29.838 [error] Failed to fetch fsConfig File sync is disabled
+2026-02-25 08:11:47.517 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-25 08:11:48.145 [info] Fetched fsConfig in 626.1264959999971ms
+2026-02-25 08:11:48.145 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-25 08:13:30.384 [info] Uploaded file src/main/java/com/jvmd/walto_backend/model/DAAuth.java modelVersion=1 in 262.6845509999839ms
+2026-02-25 08:13:30.384 [info] Handled visible editors change in 420.0969359999872ms
+2026-02-25 08:13:34.266 [info] Handled visible editors change in 0.02861999999731779ms
+2026-02-25 08:13:38.269 [info] Uploaded file src/main/java/com/jvmd/walto_backend/model/DonationEvent.java modelVersion=1 in 268.0792720000027ms
+2026-02-25 08:13:38.269 [info] Handled visible editors change in 373.7340050000057ms
+2026-02-25 08:13:40.585 [info] Handled visible editors change in 0.06292999998549931ms
+2026-02-25 08:16:03.626 [info] Uploaded file src/main/java/com/jvmd/walto_backend/model/DATokenResponse.java modelVersion=2 in 660.5687990000006ms
+2026-02-25 08:16:22.332 [info] Uploaded file src/main/java/com/jvmd/walto_backend/service/DAService.java modelVersion=2 in 211.63599699997576ms
+2026-02-25 08:21:34.604 [info] Uploaded file src/main/java/com/jvmd/walto_backend/service/PaymentService.java modelVersion=2 in 990.4170069999527ms
+2026-02-25 08:32:43.757 [info] Uploaded file frontend/package.json modelVersion=2 in 750.0610599999782ms
+2026-02-25 08:33:03.734 [info] Uploaded file .vscode/settings.json modelVersion=2 in 209.00337099982426ms
+2026-02-25 08:33:03.735 [info] Uploaded file .vscode/settings.json modelVersion=2 in 208.99096799991094ms
+2026-02-25 08:33:03.788 [info] Uploaded file .vscode/settings.json modelVersion=2 in 217.28781499993056ms
+2026-02-25 08:33:03.792 [info] Uploaded file .vscode/settings.json modelVersion=2 in 219.0386020001024ms
+2026-02-25 08:43:09.968 [info] Handled visible editors change in 0.08535600011236966ms
+2026-02-25 08:43:13.480 [info] Uploaded file frontend/tailwind.config.js modelVersion=1 in 5830.206601000158ms
+2026-02-25 08:43:13.480 [info] Handled visible editors change in 6267.047481999965ms
+2026-02-25 08:47:37.608 [info] Uploaded file frontend/app/globals.css modelVersion=2 in 206.15120999980718ms
+2026-02-25 08:47:45.836 [info] Uploaded file frontend/app/page.tsx modelVersion=2 in 204.8490430000238ms
+2026-02-25 08:48:09.699 [info] Handled visible editors change in 0.2490410003811121ms
+2026-02-25 08:48:17.300 [info] Handled visible editors change in 0.020854000002145767ms
+2026-02-25 08:48:21.548 [info] Handled visible editors change in 0.23789899982511997ms
+2026-02-25 08:48:35.892 [info] Handled visible editors change in 0.06541100004687905ms
+2026-02-25 08:49:31.489 [info] Uploaded file frontend/app/globals.css modelVersion=1 in 303.8484040000476ms
+2026-02-25 08:49:31.489 [info] Handled visible editors change in 372.0053220000118ms
+2026-02-25 08:49:32.662 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-25 08:49:33.343 [info] Fetched fsConfig in 680.2820439999923ms
+2026-02-25 08:49:33.343 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-25 08:49:33.343 [info] File sync enabled status: true
+2026-02-25 08:49:33.343 [info] Starting sync of visible tabs
+2026-02-25 08:49:33.343 [info] Synced all visible tabs in 0.24590700026601553ms
+2026-02-25 08:49:33.453 [info] Starting sync of visible tabs
+2026-02-25 08:49:33.668 [info] Uploaded file frontend/app/globals.css modelVersion=1 in 212.08399800024927ms
+2026-02-25 08:49:33.669 [info] Synced all visible tabs in 216.24649500008672ms
+2026-02-25 08:49:33.680 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-25 08:49:33.921 [info] Fetched fsConfig in 240.74439799971879ms
+2026-02-25 08:49:33.921 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-25 08:50:26.826 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-25 08:50:27.068 [info] Fetched fsConfig in 241.72182600013912ms
+2026-02-25 08:50:27.068 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-25 08:50:27.069 [info] File sync enabled status: true
+2026-02-25 08:50:27.069 [info] Starting sync of visible tabs
+2026-02-25 08:50:27.213 [info] Synced file frontend/app/globals.css modelVersion=2 in 211.44964300002903ms
+2026-02-25 08:50:27.312 [info] Uploaded file frontend/app/globals.css modelVersion=2 in 229.51722199982032ms
+2026-02-25 08:50:27.312 [info] Synced all visible tabs in 244.10762300016358ms
+2026-02-25 08:50:33.767 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-25 08:50:33.982 [info] Fetched fsConfig in 214.92584500042722ms
+2026-02-25 08:50:33.982 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-25 08:50:33.982 [info] File sync enabled status: true
+2026-02-25 08:50:33.982 [info] Starting sync of visible tabs
+2026-02-25 08:50:33.982 [info] Synced all visible tabs in 0.053322999738156796ms
+2026-02-25 08:51:16.986 [info] Synced file frontend/app/globals.css modelVersion=3 in 454.08559300005436ms
+2026-02-25 08:51:17.354 [info] Synced file frontend/app/globals.css modelVersion=3 in 238.0799600002356ms
+2026-02-25 08:51:48.295 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-25 08:51:48.509 [info] Fetched fsConfig in 213.5303759998642ms
+2026-02-25 08:51:48.509 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-25 08:51:48.509 [info] File sync enabled status: true
+2026-02-25 08:51:48.509 [info] Starting sync of visible tabs
+2026-02-25 08:51:48.509 [info] Synced all visible tabs in 0.15975899994373322ms
+2026-02-25 08:51:56.862 [info] Synced file frontend/app/globals.css modelVersion=4 in 220.35634800000116ms
+2026-02-25 08:51:58.844 [info] Synced file frontend/app/globals.css modelVersion=5 in 273.11433999985456ms
+2026-02-25 08:52:00.904 [info] Synced file frontend/app/globals.css modelVersion=6 in 218.71241200016811ms
+2026-02-25 08:56:58.604 [info] Uploaded file frontend/lib/donationTypes.ts modelVersion=2 in 289.95149400038645ms
+2026-02-25 08:57:17.970 [info] Uploaded file frontend/app/page.tsx modelVersion=2 in 221.161439999938ms
+2026-02-25 08:57:25.185 [info] Synced file frontend/app/page.tsx modelVersion=3 in 577.3544740001671ms
+2026-02-25 08:57:33.284 [info] Uploaded file frontend/app/globals.css modelVersion=6 in 205.56082999985665ms

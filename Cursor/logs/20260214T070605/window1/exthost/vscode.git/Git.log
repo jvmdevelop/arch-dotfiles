@@ -1,0 +1,63 @@
+2026-02-14 07:06:09.857 [info] [main] Log level: Info
+2026-02-14 07:06:09.857 [info] [main] Validating found git in: "/usr/bin/git"
+2026-02-14 07:06:09.857 [info] [main] Using git "2.53.0" from "/usr/bin/git"
+2026-02-14 07:06:09.857 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-14 07:06:09.857 [info] > git rev-parse --show-toplevel [9ms] (getRepositoryRoot)
+2026-02-14 07:06:10.081 [info] > git config --get remote.origin.url [15ms] 
+2026-02-14 07:06:10.083 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [2ms] 
+2026-02-14 07:06:10.091 [info] [Model][openRepository] Opened repository: /home/dieno/projects/race-it
+2026-02-14 07:06:10.091 [info] [Model][openRepository] Opened repository (kind): repository
+2026-02-14 07:06:10.095 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-14 07:06:10.106 [info] > git config --get commit.template [5ms] 
+2026-02-14 07:06:10.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms] 
+2026-02-14 07:06:10.116 [info] > git status -z -uall [6ms]
+2026-02-14 07:06:10.121 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms] 
+2026-02-14 07:06:10.418 [info] > git rev-parse --show-toplevel [14ms] 
+2026-02-14 07:06:10.418 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [280ms] 
+2026-02-14 07:06:10.463 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [16ms] 
+2026-02-14 07:06:10.463 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2026-02-14 07:06:10.463 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [21ms] 
+2026-02-14 07:06:10.463 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2026-02-14 07:06:10.463 [info] > git log --skip=0 --max-count=1 --pretty=format:%H [24ms] 
+2026-02-14 07:06:10.463 [info] > git rev-parse --show-toplevel [27ms] 
+2026-02-14 07:06:10.463 [info] > git --no-optional-locks status [35ms] (GitProvider.getGitStatusRaw)
+2026-02-14 07:06:10.463 [info] > git config --get --local branch.master.vscode-merge-base [41ms] 
+2026-02-14 07:06:10.463 [warning] [Git][config] git config failed: Failed to execute git
+2026-02-14 07:06:10.467 [info] > git config --get commit.template [58ms] 
+2026-02-14 07:06:10.486 [info] > git reflog master --grep-reflog=branch: Created from *. [19ms] 
+2026-02-14 07:06:10.490 [info] > git rev-parse --abbrev-ref HEAD [28ms] (GitProvider.getCurrentBranch)
+2026-02-14 07:06:10.490 [info] > git rev-parse --abbrev-ref HEAD [31ms] (GitProvider.getCurrentBranch)
+2026-02-14 07:06:10.490 [info] > git rev-parse --abbrev-ref HEAD [33ms] (GitProvider.getCurrentBranch)
+2026-02-14 07:06:10.490 [info] > git rev-parse --abbrev-ref HEAD [36ms] (GitProvider.getCurrentBranch)
+2026-02-14 07:06:10.490 [info] > git rev-parse --abbrev-ref HEAD [38ms] (GitProvider.getCurrentBranch)
+2026-02-14 07:06:10.490 [info] > git rev-parse --show-toplevel [41ms] 
+2026-02-14 07:06:10.510 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [21ms] 
+2026-02-14 07:06:10.510 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2026-02-14 07:06:10.510 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2026-02-14 07:06:10.513 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms] 
+2026-02-14 07:06:10.527 [info] > git status -z -uall [10ms]
+2026-02-14 07:06:10.528 [info] > git rev-parse --verify origin/master [2ms] 
+2026-02-14 07:06:10.529 [info] > git rev-parse --verify origin/master [5ms] 
+2026-02-14 07:06:10.529 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms] 
+2026-02-14 07:06:10.537 [info] > git --git-dir /home/dieno/projects/race-it/.git --work-tree /home/dieno/projects/race-it rev-parse --git-common-dir [1ms] 
+2026-02-14 07:06:10.558 [info] > git rev-parse --show-toplevel [6ms] (findGitRoot)
+2026-02-14 07:06:10.569 [info] > git rev-parse --show-toplevel [21ms] (findGitRoot)
+2026-02-14 07:06:10.618 [info] > git remote get-url --push origin [4ms] 
+2026-02-14 07:06:10.619 [info] > git rev-parse --show-toplevel [2ms] 
+2026-02-14 07:06:10.645 [info] > git rev-parse --show-toplevel [2ms] (findGitRoot)
+2026-02-14 07:06:10.879 [info] > git rev-parse --show-toplevel [4ms] 
+2026-02-14 07:06:11.418 [info] > git check-ignore -v -z --stdin [46ms]
+2026-02-14 07:06:19.845 [info] > git config --global user.name [2ms] 
+2026-02-14 07:06:19.853 [info] > git config --global user.email [2ms] 
+2026-02-14 07:06:19.853 [info] [main] Stored git author name in global state: jvmd <jvmdevelop@gmail.com>
+2026-02-14 07:06:49.470 [info] > git rev-parse --show-toplevel [1ms] (getGitRepoPathForWorkspacePath)
+2026-02-14 07:06:49.475 [info] > git config --get remote.origin.url [0ms] (getGitRemoteUrl)
+2026-02-14 07:06:49.495 [info] > git rev-parse --abbrev-ref HEAD [8ms] (getGitBranchForRepoPath)
+2026-02-14 07:06:49.495 [info] > git --no-optional-locks status --short --branch [13ms] (getGitStatusForRepoPath)
+2026-02-14 07:06:49.508 [info] > git config --get remote.origin.url [1ms] (getGitRemoteUrl)
+2026-02-14 07:07:40.191 [info] > git rev-parse --show-toplevel [5ms] 
+2026-02-14 07:07:40.192 [info] > git rev-parse --show-toplevel [1ms] 
+2026-02-14 07:07:43.287 [info] > git --no-optional-locks status --short --branch [10ms] (getGitStatusForRepoPath)
+2026-02-14 07:07:43.287 [info] > git rev-parse --abbrev-ref HEAD [17ms] (GitProvider.getCurrentBranch)
+2026-02-14 07:07:43.287 [info] > git log --skip=0 --max-count=1 --pretty=format:%H [21ms] 
+2026-02-14 07:07:43.288 [info] > git rev-parse --abbrev-ref HEAD [7ms] (getGitBranchForRepoPath)

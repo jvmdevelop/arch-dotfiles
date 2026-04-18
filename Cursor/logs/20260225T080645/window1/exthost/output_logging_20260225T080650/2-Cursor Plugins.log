@@ -1,0 +1,14 @@
+[2026-02-25T13:06:51.078Z] marketplace listEnabledPlugins completed in 4.9ms (0 plugins)
+[2026-02-25T13:06:51.078Z] loadFromMarketplaceSource completed in 4.9ms (0 plugins loaded)
+[2026-02-25T13:06:51.079Z] loadAllEnabledPlugins: no installed plugins metadata found (5.8ms)
+[2026-02-25T13:06:53.247Z] marketplace listEnabledPlugins completed in 2173.4ms (0 plugins)
+[2026-02-25T13:06:53.247Z] loadFromMarketplaceSource completed in 2173.4ms (0 plugins loaded)
+[2026-02-25T13:06:53.247Z] loadAllPlugins completed in 2174.1ms (claude=true, marketplace=2 sources, total=0 plugins)
+[2026-02-25T13:06:53.247Z] Plugins reload completed: 0 plugins loaded
+[2026-02-25T13:06:53.259Z] marketplace listEnabledPlugins completed in 0.2ms (0 plugins)
+[2026-02-25T13:06:53.259Z] loadFromMarketplaceSource completed in 0.2ms (0 plugins loaded)
+[2026-02-25T13:06:53.260Z] loadAllEnabledPlugins: no installed plugins metadata found (1.7ms)
+[2026-02-25T13:06:54.016Z] marketplace listEnabledPlugins completed in 757.6ms (0 plugins)
+[2026-02-25T13:06:54.016Z] loadFromMarketplaceSource completed in 757.6ms (0 plugins loaded)
+[2026-02-25T13:06:54.016Z] loadAllPlugins completed in 757.7ms (claude=true, marketplace=2 sources, total=0 plugins)
+[2026-02-25T13:06:54.016Z] Plugins reload completed: 0 plugins loaded

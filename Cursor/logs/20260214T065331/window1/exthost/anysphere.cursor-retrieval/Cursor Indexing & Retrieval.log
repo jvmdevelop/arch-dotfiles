@@ -1,0 +1,94 @@
+2026-02-14 06:53:37.065 [warning] Failed to get symbolic ref: Failed to execute git
+2026-02-14 06:53:37.065 [warning] Failed to get symbolic ref: Failed to execute git
+2026-02-14 06:53:37.065 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-02-14 06:53:37.065 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-02-14 06:53:37.065 [info] Using existing keys for an index
+2026-02-14 06:53:37.065 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-02-14 06:53:37.065 [info] Using existing keys for an index
+2026-02-14 06:53:37.065 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-02-14 06:53:37.065 [info] Starting RepoIndexWatcher for repo: bb6366f2-040e-4771-a9e2-26fffd7a7530, owner: google-oauth2|user_01KHDTCZGHEXF94HRQVBT2TYPT
+2026-02-14 06:53:37.065 [info] Setting global status from status tracker: synced
+2026-02-14 06:53:37.065 [info] Doing a startup handshake.
+2026-02-14 06:53:37.066 [info] Picked default branch from method 1.
+2026-02-14 06:53:37.067 [info] Picked default branch from method 1.
+2026-02-14 06:53:37.379 [info] Finished computing merkle tree in 256.691644 ms.
+2026-02-14 06:53:37.842 [info] Doing the initial handshake with hash: bb4dc7504023de07215b4ab2bdfe2b176e8f5148d41fde0b5ab4df781ae00fa9
+2026-02-14 06:53:37.882 [info] Computed simhash vector of length: 256
+2026-02-14 06:53:37.882 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-14 06:53:37.892 [info] Found 1 git remote(s) in workspace
+2026-02-14 06:53:37.895 [info] Handshake start
+2026-02-14 06:53:38.622 [info] Handshake timing: 727.9545590000007, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"c310dbc5-0a24-4073-a1dc-bccdfba3426a","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-14 06:53:38.622 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"c310dbc5-0a24-4073-a1dc-bccdfba3426a","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-14 06:53:38.622 [info] Starting fast remote sync.
+2026-02-14 06:53:38.624 [info] Total num embeddable files: 41
+2026-02-14 06:53:38.625 [info] Root hash: bb4dc7504023de07215b4ab2bdfe2b176e8f5148d41fde0b5ab4df781ae00fa9
+2026-02-14 06:53:38.625 [info] In the out of sync case.
+2026-02-14 06:53:38.626 [info] Waiting on semaphore to be released 1
+2026-02-14 06:53:38.827 [info] Waiting on semaphore to be released 1
+2026-02-14 06:53:39.029 [info] Waiting on semaphore to be released 1
+2026-02-14 06:53:39.029 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-14 06:53:39.227 [info] Waiting on semaphore to be released 1
+2026-02-14 06:53:39.431 [info] Waiting on semaphore to be released 1
+2026-02-14 06:53:39.630 [info] Waiting on semaphore to be released 1
+2026-02-14 06:53:39.831 [info] setting numJobsToGo to 4
+2026-02-14 06:53:39.831 [info] [startSync]: numJobs: 4
+2026-02-14 06:53:39.833 [info] Uploading 4 files.
+2026-02-14 06:53:39.834 [info] Total number of files to embed: 41
+2026-02-14 06:53:39.834 [info] Not aborted
+2026-02-14 06:53:39.835 [info] Starting while loop.
+2026-02-14 06:53:39.840 [info] syncing batch of 2 files and 16459 bytes
+2026-02-14 06:53:42.347 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./export_presets.cfg
+2026-02-14 06:53:42.348 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./project.godot
+2026-02-14 06:53:42.350 [info] syncing batch of 2 files and 9394 bytes
+2026-02-14 06:53:44.497 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./ui/MainMenu.tscn
+2026-02-14 06:53:44.498 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./game/cars/Hud.gd
+2026-02-14 06:53:44.503 [info] Found 1 git remote(s) in workspace
+2026-02-14 06:53:44.705 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-14 06:53:45.113 [info] Finished indexing repository.
+2026-02-14 06:53:45.113 [info] Indexing job successfully done or aborted.
+2026-02-14 06:56:59.775 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/dieno/projects/race-it/.gitmodules')
+2026-02-14 06:58:19.057 [info] multiCodebaseIndexingJob dispose
+2026-02-14 06:58:19.057 [info] Aborting indexing job.
+2026-02-14 06:58:19.057 [info] Setting global status from status tracker: synced
+2026-02-14 06:58:19.057 [info] Doing a startup handshake.
+2026-02-14 06:58:19.076 [info] Finished computing merkle tree in 16.26841700001387 ms.
+2026-02-14 06:58:19.077 [info] Doing the initial handshake with hash: 887535644cce50b7ffce2794fb48b05c46795919b059dc3513dd8f9a91c1d0c9
+2026-02-14 06:58:19.077 [info] Computed simhash vector of length: 256
+2026-02-14 06:58:19.078 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-14 06:58:19.078 [info] Found 1 git remote(s) in workspace
+2026-02-14 06:58:19.080 [info] Handshake start
+2026-02-14 06:58:19.285 [info] Handshake timing: 206.07964299997548, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"c310dbc5-0a24-4073-a1dc-bccdfba3426a","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-14 06:58:19.285 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"c310dbc5-0a24-4073-a1dc-bccdfba3426a","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-14 06:58:19.285 [info] Starting fast remote sync.
+2026-02-14 06:58:19.285 [info] Total num embeddable files: 43
+2026-02-14 06:58:19.285 [info] Root hash: 887535644cce50b7ffce2794fb48b05c46795919b059dc3513dd8f9a91c1d0c9
+2026-02-14 06:58:19.285 [info] In the out of sync case.
+2026-02-14 06:58:19.286 [info] Waiting on semaphore to be released 1
+2026-02-14 06:58:19.486 [info] Waiting on semaphore to be released 1
+2026-02-14 06:58:19.688 [info] Waiting on semaphore to be released 1
+2026-02-14 06:58:19.688 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-14 06:58:19.885 [info] Waiting on semaphore to be released 1
+2026-02-14 06:58:20.086 [info] Waiting on semaphore to be released 1
+2026-02-14 06:58:20.285 [info] Waiting on semaphore to be released 1
+2026-02-14 06:58:20.487 [info] Waiting on semaphore to be released 1
+2026-02-14 06:58:20.687 [info] Waiting on semaphore to be released 1
+2026-02-14 06:58:20.890 [info] setting numJobsToGo to 6
+2026-02-14 06:58:20.890 [info] [startSync]: numJobs: 6
+2026-02-14 06:58:20.891 [info] Uploading 6 files.
+2026-02-14 06:58:20.893 [info] Total number of files to embed: 43
+2026-02-14 06:58:20.893 [info] Not aborted
+2026-02-14 06:58:20.893 [info] Starting while loop.
+2026-02-14 06:58:20.903 [info] syncing batch of 2 files and 10946 bytes
+2026-02-14 06:58:23.343 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./project.godot
+2026-02-14 06:58:23.343 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./autoload/GameConfig.gd
+2026-02-14 06:58:23.344 [info] syncing batch of 4 files and 9604 bytes
+2026-02-14 06:58:25.365 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./game/cars/Hud.gd
+2026-02-14 06:58:25.365 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./game/cars/input/VehicleInputProvider.gd
+2026-02-14 06:58:25.365 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./.godot/editor/script_editor_cache.cfg
+2026-02-14 06:58:25.365 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./.godot/editor/editor_layout.cfg
+2026-02-14 06:58:25.367 [info] Found 1 git remote(s) in workspace
+2026-02-14 06:58:25.563 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-14 06:58:25.988 [info] Finished indexing repository.
+2026-02-14 06:58:25.988 [info] Indexing job successfully done or aborted.
+2026-02-14 07:00:08.584 [info] multiCodebaseIndexingJob dispose
+2026-02-14 07:00:08.584 [info] Aborting indexing job.

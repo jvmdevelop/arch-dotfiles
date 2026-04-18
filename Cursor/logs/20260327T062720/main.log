@@ -1,0 +1,84 @@
+2026-03-27 06:27:21.009 [error] Invalid path provided: /home/dieno/projects/walto-backend, ENOENT: no such file or directory, stat '/home/dieno/projects/walto-backend'
+2026-03-27 06:27:21.037 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/2.7.0-pre.148.patch.0/c541a4fcb16275391048fa5a468cba599d5514b3600b0ff1333b01b3da4f9594/stable
+2026-03-27 06:27:21.037 [info] update#setState idle
+2026-03-27 06:27:27.638 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2026-03-27 06:27:49.227 [info] update#setState checking for updates
+2026-03-27 06:27:49.424 [info] update#setState idle
+2026-03-27 07:11:01.777 [info] Extension host with pid 313495 exited with code: 0, signal: unknown.
+2026-03-27 07:11:01.782 [info] Extension host with pid 313494 exited with code: 0, signal: unknown.
+2026-03-27 07:11:01.783 [info] Extension host with pid 313493 exited with code: 0, signal: unknown.
+2026-03-27 07:11:01.814 [info] Extension host with pid 313457 exited with code: 0, signal: unknown.
+2026-03-27 07:11:07.739 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2026-03-27 07:14:09.556 [info] [PowerMainService] Started wakelock id=0 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:14:27.505 [info] [PowerMainService] Stopping wakelock id=0 owner=window:1 reason="agent-loop" heldForMs=17949
+2026-03-27 07:18:51.012 [info] [PowerMainService] Started wakelock id=1 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:20:14.333 [info] [PowerMainService] Stopping wakelock id=1 owner=window:1 reason="agent-loop" heldForMs=83321
+2026-03-27 07:20:17.390 [info] [PowerMainService] Started wakelock id=2 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:22:16.191 [info] [PowerMainService] Stopping wakelock id=2 owner=window:1 reason="agent-loop-resumed" heldForMs=118801
+2026-03-27 07:23:06.160 [info] [PowerMainService] Started wakelock id=3 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:26:21.010 [info] [PowerMainService] Stopping wakelock id=3 owner=window:1 reason="agent-loop" heldForMs=194850
+2026-03-27 07:26:39.665 [info] [PowerMainService] Started wakelock id=4 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:27:06.356 [info] [PowerMainService] Stopping wakelock id=4 owner=window:1 reason="agent-loop-resumed" heldForMs=26691
+2026-03-27 07:27:08.153 [info] [PowerMainService] Started wakelock id=5 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:27:19.457 [info] [PowerMainService] Stopping wakelock id=5 owner=window:1 reason="agent-loop-resumed" heldForMs=11304
+2026-03-27 07:27:23.209 [info] [PowerMainService] Started wakelock id=6 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:27:33.976 [info] [PowerMainService] Stopping wakelock id=6 owner=window:1 reason="agent-loop-resumed" heldForMs=10767
+2026-03-27 07:27:35.788 [info] [PowerMainService] Started wakelock id=7 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:27:48.485 [info] [PowerMainService] Stopping wakelock id=7 owner=window:1 reason="agent-loop-resumed" heldForMs=12697
+2026-03-27 07:27:48.825 [info] update#setState checking for updates
+2026-03-27 07:27:49.027 [info] update#setState idle
+2026-03-27 07:28:00.809 [info] [PowerMainService] Started wakelock id=8 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:28:17.921 [info] [PowerMainService] Stopping wakelock id=8 owner=window:1 reason="agent-loop-resumed" heldForMs=17112
+2026-03-27 07:29:08.368 [info] [PowerMainService] Started wakelock id=9 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:30:35.724 [info] [PowerMainService] Stopping wakelock id=9 owner=window:1 reason="agent-loop" heldForMs=87356
+2026-03-27 07:33:30.285 [info] [PowerMainService] Started wakelock id=10 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:34:53.467 [info] [PowerMainService] Stopping wakelock id=10 owner=window:1 reason="agent-loop" heldForMs=83182
+2026-03-27 07:35:50.649 [info] [PowerMainService] Started wakelock id=11 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:38:02.611 [info] [PowerMainService] Stopping wakelock id=11 owner=window:1 reason="agent-loop" heldForMs=131962
+2026-03-27 07:38:04.538 [info] [PowerMainService] Started wakelock id=12 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:39:16.718 [info] [PowerMainService] Stopping wakelock id=12 owner=window:1 reason="agent-loop-resumed" heldForMs=72180
+2026-03-27 07:39:34.153 [info] [PowerMainService] Started wakelock id=13 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:39:53.619 [info] [PowerMainService] Stopping wakelock id=13 owner=window:1 reason="agent-loop-resumed" heldForMs=19466
+2026-03-27 07:41:05.325 [info] [PowerMainService] Started wakelock id=14 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:41:38.613 [info] [PowerMainService] Stopping wakelock id=14 owner=window:1 reason="agent-loop-resumed" heldForMs=33288
+2026-03-27 07:41:44.268 [info] [PowerMainService] Started wakelock id=15 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:42:27.835 [info] [PowerMainService] Stopping wakelock id=15 owner=window:1 reason="agent-loop-resumed" heldForMs=43567
+2026-03-27 07:42:38.207 [info] [PowerMainService] Started wakelock id=16 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:43:18.681 [info] [PowerMainService] Stopping wakelock id=16 owner=window:1 reason="agent-loop-resumed" heldForMs=40474
+2026-03-27 07:44:19.727 [info] [PowerMainService] Started wakelock id=17 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:44:30.150 [info] [PowerMainService] Stopping wakelock id=17 owner=window:1 reason="agent-loop" heldForMs=10423
+2026-03-27 07:44:50.540 [info] [PowerMainService] Started wakelock id=18 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:44:57.024 [info] [PowerMainService] Stopping wakelock id=18 owner=window:1 reason="agent-loop" heldForMs=6484
+2026-03-27 07:45:06.176 [info] [PowerMainService] Started wakelock id=19 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:45:12.924 [info] [PowerMainService] Stopping wakelock id=19 owner=window:1 reason="agent-loop-resumed" heldForMs=6748
+2026-03-27 07:45:31.381 [info] [PowerMainService] Started wakelock id=20 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:46:00.130 [info] [PowerMainService] Stopping wakelock id=20 owner=window:1 reason="agent-loop-resumed" heldForMs=28749
+2026-03-27 07:46:15.736 [info] [PowerMainService] Started wakelock id=21 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:47:00.671 [info] [PowerMainService] Stopping wakelock id=21 owner=window:1 reason="agent-loop" heldForMs=44935
+2026-03-27 07:47:07.087 [info] [PowerMainService] Started wakelock id=22 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:47:07.705 [info] [PowerMainService] Stopping wakelock id=22 owner=window:1 reason="agent-loop" heldForMs=618
+2026-03-27 07:47:31.241 [info] [PowerMainService] Started wakelock id=23 owner=window:1 reason="agent-loop" activeCount=1
+2026-03-27 07:48:09.323 [info] [PowerMainService] Stopping wakelock id=23 owner=window:1 reason="agent-loop" heldForMs=38082
+2026-03-27 07:48:11.343 [info] [PowerMainService] Started wakelock id=24 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:50:03.871 [info] [PowerMainService] Stopping wakelock id=24 owner=window:1 reason="agent-loop-resumed" heldForMs=112528
+2026-03-27 07:50:18.114 [info] [PowerMainService] Started wakelock id=25 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:51:25.296 [info] [PowerMainService] Stopping wakelock id=25 owner=window:1 reason="agent-loop-resumed" heldForMs=67182
+2026-03-27 07:51:49.934 [info] [PowerMainService] Started wakelock id=26 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:54:32.696 [info] [PowerMainService] Stopping wakelock id=26 owner=window:1 reason="agent-loop-resumed" heldForMs=162762
+2026-03-27 07:55:08.863 [info] [PowerMainService] Started wakelock id=27 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:55:28.298 [info] [PowerMainService] Stopping wakelock id=27 owner=window:1 reason="agent-loop-resumed" heldForMs=19435
+2026-03-27 07:55:35.176 [info] [PowerMainService] Started wakelock id=28 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:56:49.148 [info] [PowerMainService] Stopping wakelock id=28 owner=window:1 reason="agent-loop-resumed" heldForMs=73972
+2026-03-27 07:56:58.724 [info] [PowerMainService] Started wakelock id=29 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:58:05.978 [info] [PowerMainService] Stopping wakelock id=29 owner=window:1 reason="agent-loop-resumed" heldForMs=67254
+2026-03-27 07:58:14.780 [info] [PowerMainService] Started wakelock id=30 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 07:58:36.410 [info] [PowerMainService] Stopping wakelock id=30 owner=window:1 reason="agent-loop-resumed" heldForMs=21630
+2026-03-27 08:03:59.762 [info] [PowerMainService] Started wakelock id=31 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 08:04:28.368 [info] [PowerMainService] Stopping wakelock id=31 owner=window:1 reason="agent-loop-resumed" heldForMs=28606
+2026-03-27 08:04:43.192 [info] [PowerMainService] Started wakelock id=32 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-03-27 08:05:53.205 [info] [PowerMainService] Stopping wakelock id=32 owner=window:1 reason="agent-loop-resumed" heldForMs=70013
+2026-03-27 08:06:16.834 [info] Extension host with pid 328577 exited with code: 0, signal: unknown.
+2026-03-27 08:06:16.835 [info] Extension host with pid 328576 exited with code: 0, signal: unknown.
+2026-03-27 08:06:16.835 [info] Extension host with pid 328575 exited with code: 0, signal: unknown.
+2026-03-27 08:06:16.869 [info] Extension host with pid 328554 exited with code: 0, signal: unknown.
+2026-03-27 08:06:17.218 [error] [UtilityProcess id: 1:726bd548fbe129e724b91d7c4b4456ee, type: fileWatcher, pid: 328534]: crashed with code 15 and reason 'killed'

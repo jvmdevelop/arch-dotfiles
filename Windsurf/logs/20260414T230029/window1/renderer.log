@@ -1,0 +1,65 @@
+2026-04-14 23:00:30.004 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2026-04-14 23:00:30.145 [info] Started local extension host with pid 101499.
+2026-04-14 23:00:30.422 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-04-14 23:00:30.600 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at J6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-04-14 23:00:31.540 [info] [DiffZone] Watching repo: scm0
+2026-04-14 23:00:31.540 [info] [DiffZone] No historyProvider for scm0
+2026-04-14 23:00:31.543 [info] [DiffZone] No revision for scm0
+2026-04-14 23:00:31.641 [info] [DiffZone] Revision for scm0: c7359b9, prev: none
+2026-04-14 23:00:33.137 [info] [perf] Render performance baseline is 16ms
+2026-04-14 23:00:34.453 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-14 23:00:49.333 [info] Started local extension host with pid 102636.
+2026-04-14 23:00:49.383 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2026-04-14 23:00:49.772 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-04-14 23:00:49.956 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at J6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-04-14 23:00:52.159 [info] [perf] Render performance baseline is 17ms
+2026-04-14 23:00:53.640 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-14 23:02:54.780 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)

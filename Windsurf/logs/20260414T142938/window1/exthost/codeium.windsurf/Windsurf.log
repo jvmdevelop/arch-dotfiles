@@ -1,0 +1,11 @@
+2026-04-14 14:29:47.879 [info] (Windsurf) 2026-04-14 14:29:47.878 [INFO]: [windsurf#terminal] Shell integration DETECTED for unknown
+2026-04-14 14:29:48.407 [info] (Windsurf) 2026-04-14 14:29:48.406 [INFO]: [windsurf#terminal] Shell integration DETECTED for managed
+2026-04-14 14:29:48.472 [info] 2026/04/14 14:29:48 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+2026-04-14 14:29:48.488 [info] I0414 14:29:48.487925 153640 main.go:604] Setting GOMAXPROCS to 4
+2026-04-14 14:29:48.488 [info] I0414 14:29:48.488071 153640 main.go:819] Starting language server process with pid 153640
+2026-04-14 14:29:48.488 [info] I0414 14:29:48.488652 153640 server.go:359] Language server will attempt to listen on host 127.0.0.1
+2026-04-14 14:29:48.488 [info] I0414 14:29:48.488832 153640 server.go:366] Language server listening on random port at 39113
+2026-04-14 14:29:50.501 [info] I0414 14:29:50.500382 153640 server.go:500] Created extension server client at port 39441
+2026-04-14 14:29:50.553 [info] (Windsurf) 2026-04-14 14:29:50.553 [INFO]: Language server started
+2026-04-14 14:29:50.577 [info] (Windsurf) 2026-04-14 14:29:50.577 [INFO]: LS lspClient started successfully
+2026-04-14 14:31:26.254 [info] (Windsurf) 2026-04-14 14:31:26.253 [INFO]: Shutting down all 0 managed language servers

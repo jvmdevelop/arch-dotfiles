@@ -1,0 +1,20 @@
+2026-02-13 13:03:02.379 [info] Scheduling write operation
+2026-02-13 13:03:02.379 [info] Fetching MCP state from lease
+2026-02-13 13:03:02.420 [info] Writing 0 MCP server(s) to disk {"serverCount":0,"servers":[]}
+2026-02-13 13:03:02.420 [info] Clearing mcps directory {"mcpsPath":"/home/dieno/.cursor/projects/home-dieno-projects-race-it/mcps"}
+2026-02-13 13:03:02.433 [info] MCP file system write complete: 0 server(s), 0 tool(s), 0 resource(s), 0 prompt(s) {"serverCount":0,"totalTools":0,"totalResources":0,"totalPrompts":0}
+2026-02-13 13:03:02.986 [info] MCP lease changed, triggering onLeaseChanged
+2026-02-13 13:03:03.086 [info] Scheduling write operation
+2026-02-13 13:03:03.086 [info] Waiting for previous write to complete
+2026-02-13 13:03:03.086 [info] Fetching MCP state from lease
+2026-02-13 13:03:03.088 [info] Writing 0 MCP server(s) to disk {"serverCount":0,"servers":[]}
+2026-02-13 13:03:03.088 [info] Clearing mcps directory {"mcpsPath":"/home/dieno/.cursor/projects/home-dieno-projects-race-it/mcps"}
+2026-02-13 13:03:03.089 [info] MCP file system write complete: 0 server(s), 0 tool(s), 0 resource(s), 0 prompt(s) {"serverCount":0,"totalTools":0,"totalResources":0,"totalPrompts":0}
+2026-02-13 13:03:03.315 [info] MCP lease changed, triggering onLeaseChanged
+2026-02-13 13:03:03.317 [info] MCP lease changed, triggering onLeaseChanged
+2026-02-13 13:03:03.416 [info] Scheduling write operation
+2026-02-13 13:03:03.416 [info] Waiting for previous write to complete
+2026-02-13 13:03:03.417 [info] Fetching MCP state from lease
+2026-02-13 13:03:03.433 [info] Writing 0 MCP server(s) to disk {"serverCount":0,"servers":[]}
+2026-02-13 13:03:03.433 [info] Clearing mcps directory {"mcpsPath":"/home/dieno/.cursor/projects/home-dieno-projects-race-it/mcps"}
+2026-02-13 13:03:03.434 [info] MCP file system write complete: 0 server(s), 0 tool(s), 0 resource(s), 0 prompt(s) {"serverCount":0,"totalTools":0,"totalResources":0,"totalPrompts":0}

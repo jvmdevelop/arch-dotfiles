@@ -1,0 +1,14 @@
+[2026-02-14T12:06:08.169Z] Initializing Cursor Hooks Service...
+[2026-02-14T12:06:08.169Z] Claude user config path: /home/dieno/.claude/settings.json
+[2026-02-14T12:06:08.169Z] Project config path: /home/dieno/projects/race-it/.cursor/hooks.json
+[2026-02-14T12:06:08.169Z] Claude project config path: /home/dieno/projects/race-it/.claude/settings.json
+[2026-02-14T12:06:08.169Z] Claude project local config path: /home/dieno/projects/race-it/.claude/settings.local.json
+[2026-02-14T12:06:08.169Z] User config path: /home/dieno/.cursor/hooks.json
+[2026-02-14T12:06:08.169Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2026-02-14T12:06:08.169Z] Reloading hooks configuration...
+[2026-02-14T12:06:08.171Z] No Claude user settings found
+[2026-02-14T12:06:08.181Z] No enterprise hooks configuration found
+[2026-02-14T12:06:08.185Z] No user hooks configuration found
+[2026-02-14T12:06:08.202Z] No project hooks configuration found
+[2026-02-14T12:06:08.203Z] Refreshing team hooks...
+[2026-02-14T12:06:08.203Z] Cursor Hooks Service initialized successfully

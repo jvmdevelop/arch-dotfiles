@@ -1,0 +1,357 @@
+[2026-02-25T13:10:28.388Z] Initializing Cursor Hooks Service...
+[2026-02-25T13:10:28.388Z] Claude user config path: /home/dieno/.claude/settings.json
+[2026-02-25T13:10:28.388Z] Project config path: /home/dieno/projects/walto-backend/.cursor/hooks.json
+[2026-02-25T13:10:28.388Z] Claude project config path: /home/dieno/projects/walto-backend/.claude/settings.json
+[2026-02-25T13:10:28.388Z] Claude project local config path: /home/dieno/projects/walto-backend/.claude/settings.local.json
+[2026-02-25T13:10:28.389Z] User config path: /home/dieno/.cursor/hooks.json
+[2026-02-25T13:10:28.389Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2026-02-25T13:10:28.390Z] Reloading hooks configuration...
+[2026-02-25T13:10:28.394Z] No Claude user settings found
+[2026-02-25T13:10:31.769Z] No enterprise hooks configuration found
+[2026-02-25T13:10:31.771Z] No user hooks configuration found
+[2026-02-25T13:10:31.773Z] No project hooks configuration found
+[2026-02-25T13:10:31.773Z] Refreshing team hooks...
+[2026-02-25T13:10:31.773Z] Cursor Hooks Service initialized successfully
+[2026-02-25T13:11:44.010Z] Reloading hooks configuration...
+[2026-02-25T13:11:44.012Z] No Claude user settings found
+[2026-02-25T13:11:44.678Z] No enterprise hooks configuration found
+[2026-02-25T13:11:44.680Z] No user hooks configuration found
+[2026-02-25T13:11:44.681Z] No project hooks configuration found
+[2026-02-25T13:11:45.884Z] Refreshing team hooks...
+[2026-02-25T13:11:45.909Z] Refreshing team hooks...
+[2026-02-25T13:11:52.902Z] Reloading hooks configuration...
+[2026-02-25T13:11:52.906Z] No Claude user settings found
+[2026-02-25T13:11:53.555Z] No enterprise hooks configuration found
+[2026-02-25T13:11:53.556Z] No user hooks configuration found
+[2026-02-25T13:11:53.557Z] No project hooks configuration found
+[2026-02-25T13:14:23.362Z] Reloading hooks configuration...
+[2026-02-25T13:14:23.363Z] No Claude user settings found
+[2026-02-25T13:14:24.111Z] No enterprise hooks configuration found
+[2026-02-25T13:14:24.113Z] No user hooks configuration found
+[2026-02-25T13:14:24.116Z] No project hooks configuration found
+[2026-02-25T13:14:56.209Z] Reloading hooks configuration...
+[2026-02-25T13:14:56.212Z] No Claude user settings found
+[2026-02-25T13:14:57.132Z] No enterprise hooks configuration found
+[2026-02-25T13:14:57.134Z] No user hooks configuration found
+[2026-02-25T13:14:57.137Z] No project hooks configuration found
+[2026-02-25T13:15:08.723Z] Reloading hooks configuration...
+[2026-02-25T13:15:08.726Z] No Claude user settings found
+[2026-02-25T13:15:09.416Z] No enterprise hooks configuration found
+[2026-02-25T13:15:09.417Z] No user hooks configuration found
+[2026-02-25T13:15:09.419Z] No project hooks configuration found
+[2026-02-25T13:15:19.292Z] Reloading hooks configuration...
+[2026-02-25T13:15:19.294Z] No Claude user settings found
+[2026-02-25T13:15:19.985Z] No enterprise hooks configuration found
+[2026-02-25T13:15:19.986Z] No user hooks configuration found
+[2026-02-25T13:15:19.987Z] No project hooks configuration found
+[2026-02-25T13:15:36.440Z] Reloading hooks configuration...
+[2026-02-25T13:15:36.441Z] No Claude user settings found
+[2026-02-25T13:15:37.100Z] No enterprise hooks configuration found
+[2026-02-25T13:15:37.101Z] No user hooks configuration found
+[2026-02-25T13:15:37.102Z] No project hooks configuration found
+[2026-02-25T13:16:53.848Z] Reloading hooks configuration...
+[2026-02-25T13:16:53.853Z] No Claude user settings found
+[2026-02-25T13:16:54.480Z] No enterprise hooks configuration found
+[2026-02-25T13:16:54.481Z] No user hooks configuration found
+[2026-02-25T13:16:54.483Z] No project hooks configuration found
+[2026-02-25T13:20:04.346Z] Reloading hooks configuration...
+[2026-02-25T13:20:04.350Z] No Claude user settings found
+[2026-02-25T13:20:05.045Z] No enterprise hooks configuration found
+[2026-02-25T13:20:05.046Z] No user hooks configuration found
+[2026-02-25T13:20:05.048Z] No project hooks configuration found
+[2026-02-25T13:22:18.894Z] Reloading hooks configuration...
+[2026-02-25T13:22:18.897Z] No Claude user settings found
+[2026-02-25T13:22:19.511Z] No enterprise hooks configuration found
+[2026-02-25T13:22:19.512Z] No user hooks configuration found
+[2026-02-25T13:22:19.513Z] No project hooks configuration found
+[2026-02-25T13:22:36.740Z] Reloading hooks configuration...
+[2026-02-25T13:22:36.742Z] No Claude user settings found
+[2026-02-25T13:22:37.592Z] No enterprise hooks configuration found
+[2026-02-25T13:22:37.622Z] No user hooks configuration found
+[2026-02-25T13:22:37.628Z] No project hooks configuration found
+[2026-02-25T13:27:58.140Z] Reloading hooks configuration...
+[2026-02-25T13:27:58.142Z] No Claude user settings found
+[2026-02-25T13:27:58.798Z] No enterprise hooks configuration found
+[2026-02-25T13:27:58.803Z] No user hooks configuration found
+[2026-02-25T13:27:58.804Z] No project hooks configuration found
+[2026-02-25T13:30:15.870Z] Reloading hooks configuration...
+[2026-02-25T13:30:15.873Z] No Claude user settings found
+[2026-02-25T13:30:16.783Z] No enterprise hooks configuration found
+[2026-02-25T13:30:16.784Z] No user hooks configuration found
+[2026-02-25T13:30:16.785Z] No project hooks configuration found
+[2026-02-25T13:30:58.922Z] Reloading hooks configuration...
+[2026-02-25T13:30:58.929Z] No Claude user settings found
+[2026-02-25T13:30:59.603Z] No enterprise hooks configuration found
+[2026-02-25T13:30:59.604Z] No user hooks configuration found
+[2026-02-25T13:30:59.605Z] No project hooks configuration found
+[2026-02-25T13:31:11.240Z] Reloading hooks configuration...
+[2026-02-25T13:31:11.243Z] No Claude user settings found
+[2026-02-25T13:31:11.895Z] No enterprise hooks configuration found
+[2026-02-25T13:31:11.897Z] No user hooks configuration found
+[2026-02-25T13:31:11.898Z] No project hooks configuration found
+[2026-02-25T13:33:39.361Z] Reloading hooks configuration...
+[2026-02-25T13:33:39.364Z] No Claude user settings found
+[2026-02-25T13:33:40.033Z] No enterprise hooks configuration found
+[2026-02-25T13:33:40.034Z] No user hooks configuration found
+[2026-02-25T13:33:40.035Z] No project hooks configuration found
+[2026-02-25T13:35:02.516Z] Reloading hooks configuration...
+[2026-02-25T13:35:02.521Z] No Claude user settings found
+[2026-02-25T13:35:03.209Z] No enterprise hooks configuration found
+[2026-02-25T13:35:03.213Z] No user hooks configuration found
+[2026-02-25T13:35:03.214Z] No project hooks configuration found
+[2026-02-25T13:35:12.872Z] Reloading hooks configuration...
+[2026-02-25T13:35:12.874Z] No Claude user settings found
+[2026-02-25T13:35:13.644Z] No enterprise hooks configuration found
+[2026-02-25T13:35:13.645Z] No user hooks configuration found
+[2026-02-25T13:35:13.646Z] No project hooks configuration found
+[2026-02-25T13:35:23.332Z] Reloading hooks configuration...
+[2026-02-25T13:35:23.334Z] No Claude user settings found
+[2026-02-25T13:35:24.214Z] No enterprise hooks configuration found
+[2026-02-25T13:35:24.216Z] No user hooks configuration found
+[2026-02-25T13:35:24.217Z] No project hooks configuration found
+[2026-02-25T13:39:00.721Z] Reloading hooks configuration...
+[2026-02-25T13:39:00.724Z] No Claude user settings found
+[2026-02-25T13:39:01.609Z] No enterprise hooks configuration found
+[2026-02-25T13:39:01.610Z] No user hooks configuration found
+[2026-02-25T13:39:01.611Z] No project hooks configuration found
+[2026-02-25T13:39:25.977Z] Reloading hooks configuration...
+[2026-02-25T13:39:25.980Z] No Claude user settings found
+[2026-02-25T13:39:28.633Z] No enterprise hooks configuration found
+[2026-02-25T13:39:28.635Z] No user hooks configuration found
+[2026-02-25T13:39:28.636Z] No project hooks configuration found
+[2026-02-25T13:40:35.666Z] Reloading hooks configuration...
+[2026-02-25T13:40:35.667Z] No Claude user settings found
+[2026-02-25T13:40:38.388Z] No enterprise hooks configuration found
+[2026-02-25T13:40:38.389Z] No user hooks configuration found
+[2026-02-25T13:40:38.389Z] No project hooks configuration found
+[2026-02-25T13:40:41.240Z] Reloading hooks configuration...
+[2026-02-25T13:40:41.241Z] No Claude user settings found
+[2026-02-25T13:40:43.755Z] No enterprise hooks configuration found
+[2026-02-25T13:40:43.756Z] No user hooks configuration found
+[2026-02-25T13:40:43.758Z] No project hooks configuration found
+[2026-02-25T13:41:12.172Z] Reloading hooks configuration...
+[2026-02-25T13:41:12.176Z] No Claude user settings found
+[2026-02-25T13:41:12.883Z] No enterprise hooks configuration found
+[2026-02-25T13:41:12.885Z] No user hooks configuration found
+[2026-02-25T13:41:12.887Z] No project hooks configuration found
+[2026-02-25T13:41:20.041Z] Reloading hooks configuration...
+[2026-02-25T13:41:20.045Z] No Claude user settings found
+[2026-02-25T13:41:20.701Z] No enterprise hooks configuration found
+[2026-02-25T13:41:20.703Z] No user hooks configuration found
+[2026-02-25T13:41:20.704Z] No project hooks configuration found
+[2026-02-25T13:41:45.909Z] Refreshing team hooks...
+[2026-02-25T13:42:22.341Z] Reloading hooks configuration...
+[2026-02-25T13:42:22.485Z] No Claude user settings found
+[2026-02-25T13:42:23.182Z] No enterprise hooks configuration found
+[2026-02-25T13:42:23.184Z] No user hooks configuration found
+[2026-02-25T13:42:23.185Z] No project hooks configuration found
+[2026-02-25T13:42:57.716Z] Reloading hooks configuration...
+[2026-02-25T13:42:57.718Z] No Claude user settings found
+[2026-02-25T13:42:58.475Z] No enterprise hooks configuration found
+[2026-02-25T13:42:58.478Z] No user hooks configuration found
+[2026-02-25T13:42:58.479Z] No project hooks configuration found
+[2026-02-25T13:43:12.517Z] Reloading hooks configuration...
+[2026-02-25T13:43:12.519Z] No Claude user settings found
+[2026-02-25T13:43:13.178Z] No enterprise hooks configuration found
+[2026-02-25T13:43:13.183Z] No user hooks configuration found
+[2026-02-25T13:43:13.185Z] No project hooks configuration found
+[2026-02-25T13:43:23.954Z] Reloading hooks configuration...
+[2026-02-25T13:43:23.956Z] No Claude user settings found
+[2026-02-25T13:43:25.164Z] No enterprise hooks configuration found
+[2026-02-25T13:43:25.165Z] No user hooks configuration found
+[2026-02-25T13:43:25.166Z] No project hooks configuration found
+[2026-02-25T13:43:36.753Z] Reloading hooks configuration...
+[2026-02-25T13:43:36.756Z] No Claude user settings found
+[2026-02-25T13:43:37.387Z] No enterprise hooks configuration found
+[2026-02-25T13:43:37.389Z] No user hooks configuration found
+[2026-02-25T13:43:37.390Z] No project hooks configuration found
+[2026-02-25T13:43:45.664Z] Reloading hooks configuration...
+[2026-02-25T13:43:45.666Z] No Claude user settings found
+[2026-02-25T13:43:46.392Z] No enterprise hooks configuration found
+[2026-02-25T13:43:46.394Z] No user hooks configuration found
+[2026-02-25T13:43:46.395Z] No project hooks configuration found
+[2026-02-25T13:43:56.424Z] Reloading hooks configuration...
+[2026-02-25T13:43:56.427Z] No Claude user settings found
+[2026-02-25T13:43:57.143Z] No enterprise hooks configuration found
+[2026-02-25T13:43:57.144Z] No user hooks configuration found
+[2026-02-25T13:43:57.145Z] No project hooks configuration found
+[2026-02-25T13:44:04.701Z] Reloading hooks configuration...
+[2026-02-25T13:44:04.704Z] No Claude user settings found
+[2026-02-25T13:44:05.346Z] No enterprise hooks configuration found
+[2026-02-25T13:44:05.347Z] No user hooks configuration found
+[2026-02-25T13:44:05.348Z] No project hooks configuration found
+[2026-02-25T13:44:18.306Z] Reloading hooks configuration...
+[2026-02-25T13:44:18.309Z] No Claude user settings found
+[2026-02-25T13:44:18.966Z] No enterprise hooks configuration found
+[2026-02-25T13:44:18.967Z] No user hooks configuration found
+[2026-02-25T13:44:18.968Z] No project hooks configuration found
+[2026-02-25T13:44:41.670Z] Reloading hooks configuration...
+[2026-02-25T13:44:41.673Z] No Claude user settings found
+[2026-02-25T13:44:42.302Z] No enterprise hooks configuration found
+[2026-02-25T13:44:42.303Z] No user hooks configuration found
+[2026-02-25T13:44:42.305Z] No project hooks configuration found
+[2026-02-25T13:45:33.936Z] Reloading hooks configuration...
+[2026-02-25T13:45:33.993Z] No Claude user settings found
+[2026-02-25T13:45:34.698Z] No enterprise hooks configuration found
+[2026-02-25T13:45:34.699Z] No user hooks configuration found
+[2026-02-25T13:45:34.700Z] No project hooks configuration found
+[2026-02-25T13:45:53.453Z] Reloading hooks configuration...
+[2026-02-25T13:45:53.456Z] No Claude user settings found
+[2026-02-25T13:45:54.186Z] No enterprise hooks configuration found
+[2026-02-25T13:45:54.187Z] No user hooks configuration found
+[2026-02-25T13:45:54.188Z] No project hooks configuration found
+[2026-02-25T13:46:09.330Z] Reloading hooks configuration...
+[2026-02-25T13:46:09.333Z] No Claude user settings found
+[2026-02-25T13:46:10.168Z] No enterprise hooks configuration found
+[2026-02-25T13:46:10.170Z] No user hooks configuration found
+[2026-02-25T13:46:10.171Z] No project hooks configuration found
+[2026-02-25T13:46:57.863Z] Reloading hooks configuration...
+[2026-02-25T13:46:57.866Z] No Claude user settings found
+[2026-02-25T13:46:58.686Z] No enterprise hooks configuration found
+[2026-02-25T13:46:58.687Z] No user hooks configuration found
+[2026-02-25T13:46:58.689Z] No project hooks configuration found
+[2026-02-25T13:47:17.524Z] Reloading hooks configuration...
+[2026-02-25T13:47:17.527Z] No Claude user settings found
+[2026-02-25T13:47:18.244Z] No enterprise hooks configuration found
+[2026-02-25T13:47:18.245Z] No user hooks configuration found
+[2026-02-25T13:47:18.246Z] No project hooks configuration found
+[2026-02-25T13:47:35.674Z] Reloading hooks configuration...
+[2026-02-25T13:47:35.676Z] No Claude user settings found
+[2026-02-25T13:47:36.388Z] No enterprise hooks configuration found
+[2026-02-25T13:47:36.389Z] No user hooks configuration found
+[2026-02-25T13:47:36.391Z] No project hooks configuration found
+[2026-02-25T13:47:48.562Z] Reloading hooks configuration...
+[2026-02-25T13:47:48.565Z] No Claude user settings found
+[2026-02-25T13:47:49.313Z] No enterprise hooks configuration found
+[2026-02-25T13:47:49.314Z] No user hooks configuration found
+[2026-02-25T13:47:49.316Z] No project hooks configuration found
+[2026-02-25T13:48:02.403Z] Reloading hooks configuration...
+[2026-02-25T13:48:02.407Z] No Claude user settings found
+[2026-02-25T13:48:03.070Z] No enterprise hooks configuration found
+[2026-02-25T13:48:03.071Z] No user hooks configuration found
+[2026-02-25T13:48:03.073Z] No project hooks configuration found
+[2026-02-25T13:48:45.898Z] Reloading hooks configuration...
+[2026-02-25T13:48:45.900Z] No Claude user settings found
+[2026-02-25T13:48:46.648Z] No enterprise hooks configuration found
+[2026-02-25T13:48:46.649Z] No user hooks configuration found
+[2026-02-25T13:48:46.650Z] No project hooks configuration found
+[2026-02-25T13:49:06.998Z] Reloading hooks configuration...
+[2026-02-25T13:49:06.999Z] No Claude user settings found
+[2026-02-25T13:49:07.643Z] No enterprise hooks configuration found
+[2026-02-25T13:49:07.645Z] No user hooks configuration found
+[2026-02-25T13:49:07.646Z] No project hooks configuration found
+[2026-02-25T13:49:16.413Z] Reloading hooks configuration...
+[2026-02-25T13:49:16.414Z] No Claude user settings found
+[2026-02-25T13:49:17.083Z] No enterprise hooks configuration found
+[2026-02-25T13:49:17.084Z] No user hooks configuration found
+[2026-02-25T13:49:17.086Z] No project hooks configuration found
+[2026-02-25T13:49:23.313Z] Reloading hooks configuration...
+[2026-02-25T13:49:23.316Z] No Claude user settings found
+[2026-02-25T13:49:24.013Z] No enterprise hooks configuration found
+[2026-02-25T13:49:24.014Z] No user hooks configuration found
+[2026-02-25T13:49:24.015Z] No project hooks configuration found
+[2026-02-25T13:50:01.792Z] Reloading hooks configuration...
+[2026-02-25T13:50:01.797Z] No Claude user settings found
+[2026-02-25T13:50:02.810Z] No enterprise hooks configuration found
+[2026-02-25T13:50:02.812Z] No user hooks configuration found
+[2026-02-25T13:50:02.813Z] No project hooks configuration found
+[2026-02-25T13:50:07.637Z] Reloading hooks configuration...
+[2026-02-25T13:50:07.641Z] No Claude user settings found
+[2026-02-25T13:50:08.355Z] No enterprise hooks configuration found
+[2026-02-25T13:50:08.358Z] No user hooks configuration found
+[2026-02-25T13:50:08.363Z] No project hooks configuration found
+[2026-02-25T13:50:33.105Z] Reloading hooks configuration...
+[2026-02-25T13:50:33.106Z] No Claude user settings found
+[2026-02-25T13:50:33.773Z] No enterprise hooks configuration found
+[2026-02-25T13:50:33.774Z] No user hooks configuration found
+[2026-02-25T13:50:33.778Z] No project hooks configuration found
+[2026-02-25T13:50:43.667Z] Reloading hooks configuration...
+[2026-02-25T13:50:43.670Z] No Claude user settings found
+[2026-02-25T13:50:44.309Z] No enterprise hooks configuration found
+[2026-02-25T13:50:44.310Z] No user hooks configuration found
+[2026-02-25T13:50:44.311Z] No project hooks configuration found
+[2026-02-25T13:51:15.057Z] Reloading hooks configuration...
+[2026-02-25T13:51:15.061Z] No Claude user settings found
+[2026-02-25T13:51:15.769Z] No enterprise hooks configuration found
+[2026-02-25T13:51:15.774Z] No user hooks configuration found
+[2026-02-25T13:51:15.775Z] No project hooks configuration found
+[2026-02-25T13:51:43.662Z] Reloading hooks configuration...
+[2026-02-25T13:51:43.667Z] No Claude user settings found
+[2026-02-25T13:51:44.327Z] No enterprise hooks configuration found
+[2026-02-25T13:51:44.328Z] No user hooks configuration found
+[2026-02-25T13:51:44.329Z] No project hooks configuration found
+[2026-02-25T13:52:11.217Z] Reloading hooks configuration...
+[2026-02-25T13:52:11.220Z] No Claude user settings found
+[2026-02-25T13:52:17.060Z] No enterprise hooks configuration found
+[2026-02-25T13:52:17.062Z] No user hooks configuration found
+[2026-02-25T13:52:17.063Z] No project hooks configuration found
+[2026-02-25T13:52:25.149Z] Reloading hooks configuration...
+[2026-02-25T13:52:25.154Z] No Claude user settings found
+[2026-02-25T13:52:25.760Z] No enterprise hooks configuration found
+[2026-02-25T13:52:25.761Z] No user hooks configuration found
+[2026-02-25T13:52:25.763Z] No project hooks configuration found
+[2026-02-25T13:52:47.151Z] Reloading hooks configuration...
+[2026-02-25T13:52:47.153Z] No Claude user settings found
+[2026-02-25T13:52:47.880Z] No enterprise hooks configuration found
+[2026-02-25T13:52:47.882Z] No user hooks configuration found
+[2026-02-25T13:52:47.883Z] No project hooks configuration found
+[2026-02-25T13:53:56.572Z] Reloading hooks configuration...
+[2026-02-25T13:53:56.576Z] No Claude user settings found
+[2026-02-25T13:53:57.502Z] No enterprise hooks configuration found
+[2026-02-25T13:53:57.503Z] No user hooks configuration found
+[2026-02-25T13:53:57.504Z] No project hooks configuration found
+[2026-02-25T13:54:21.077Z] Reloading hooks configuration...
+[2026-02-25T13:54:21.080Z] No Claude user settings found
+[2026-02-25T13:54:21.915Z] No enterprise hooks configuration found
+[2026-02-25T13:54:21.919Z] No user hooks configuration found
+[2026-02-25T13:54:21.925Z] No project hooks configuration found
+[2026-02-25T13:54:33.672Z] Reloading hooks configuration...
+[2026-02-25T13:54:33.675Z] No Claude user settings found
+[2026-02-25T13:54:34.398Z] No enterprise hooks configuration found
+[2026-02-25T13:54:34.400Z] No user hooks configuration found
+[2026-02-25T13:54:34.401Z] No project hooks configuration found
+[2026-02-25T13:55:31.263Z] Reloading hooks configuration...
+[2026-02-25T13:55:31.266Z] No Claude user settings found
+[2026-02-25T13:55:31.987Z] No enterprise hooks configuration found
+[2026-02-25T13:55:31.987Z] No user hooks configuration found
+[2026-02-25T13:55:31.988Z] No project hooks configuration found
+[2026-02-25T13:55:49.219Z] Reloading hooks configuration...
+[2026-02-25T13:55:49.222Z] No Claude user settings found
+[2026-02-25T13:55:50.192Z] No enterprise hooks configuration found
+[2026-02-25T13:55:50.194Z] No user hooks configuration found
+[2026-02-25T13:55:50.195Z] No project hooks configuration found
+[2026-02-25T13:55:59.148Z] Reloading hooks configuration...
+[2026-02-25T13:55:59.152Z] No Claude user settings found
+[2026-02-25T13:55:59.781Z] No enterprise hooks configuration found
+[2026-02-25T13:55:59.782Z] No user hooks configuration found
+[2026-02-25T13:55:59.783Z] No project hooks configuration found
+[2026-02-25T13:56:03.490Z] Reloading hooks configuration...
+[2026-02-25T13:56:03.493Z] No Claude user settings found
+[2026-02-25T13:56:04.715Z] No enterprise hooks configuration found
+[2026-02-25T13:56:04.716Z] No user hooks configuration found
+[2026-02-25T13:56:04.717Z] No project hooks configuration found
+[2026-02-25T13:56:33.304Z] Reloading hooks configuration...
+[2026-02-25T13:56:33.319Z] No Claude user settings found
+[2026-02-25T13:56:33.974Z] No enterprise hooks configuration found
+[2026-02-25T13:56:33.976Z] No user hooks configuration found
+[2026-02-25T13:56:33.978Z] No project hooks configuration found
+[2026-02-25T13:56:44.824Z] Reloading hooks configuration...
+[2026-02-25T13:56:44.827Z] No Claude user settings found
+[2026-02-25T13:56:45.561Z] No enterprise hooks configuration found
+[2026-02-25T13:56:45.563Z] No user hooks configuration found
+[2026-02-25T13:56:45.565Z] No project hooks configuration found
+[2026-02-25T13:57:25.501Z] Reloading hooks configuration...
+[2026-02-25T13:57:25.513Z] No Claude user settings found
+[2026-02-25T13:57:27.960Z] No enterprise hooks configuration found
+[2026-02-25T13:57:27.987Z] No user hooks configuration found
+[2026-02-25T13:57:28.052Z] No project hooks configuration found
+[2026-02-25T13:57:51.183Z] Reloading hooks configuration...
+[2026-02-25T13:57:51.186Z] No Claude user settings found
+[2026-02-25T13:57:51.906Z] No enterprise hooks configuration found
+[2026-02-25T13:57:51.908Z] No user hooks configuration found
+[2026-02-25T13:57:51.910Z] No project hooks configuration found
+[2026-02-25T13:58:18.625Z] Reloading hooks configuration...
+[2026-02-25T13:58:18.627Z] No Claude user settings found
+[2026-02-25T13:58:19.243Z] No enterprise hooks configuration found
+[2026-02-25T13:58:19.244Z] No user hooks configuration found
+[2026-02-25T13:58:19.245Z] No project hooks configuration found

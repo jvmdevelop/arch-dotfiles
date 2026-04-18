@@ -1,0 +1,77 @@
+2026-04-15 00:01:47.204 [info] [main] Log level: Info
+2026-04-15 00:01:47.204 [info] [main] Validating found git in: "git"
+2026-04-15 00:01:47.204 [info] [main] Using git "2.53.0" from "git"
+2026-04-15 00:01:47.204 [info] [Model][doInitialScan] Initial repository scan started
+2026-04-15 00:01:47.204 [info] > git rev-parse --show-toplevel [7ms]
+2026-04-15 00:01:47.204 [info] > git rev-parse --show-toplevel [24ms]
+2026-04-15 00:01:47.208 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:01:47.213 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:01:47.219 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:01:47.223 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:01:47.228 [info] > git rev-parse --show-toplevel [0ms]
+2026-04-15 00:01:47.231 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:01:47.233 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2026-04-15 00:01:48.171 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:01:48.402 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:01:48.749 [info] > git rev-parse --show-toplevel [2ms]
+2026-04-15 00:02:00.333 [info] [main] Log level: Info
+2026-04-15 00:02:00.333 [info] [main] Validating found git in: "git"
+2026-04-15 00:02:00.333 [info] [main] Using git "2.53.0" from "git"
+2026-04-15 00:02:00.333 [info] [Model][doInitialScan] Initial repository scan started
+2026-04-15 00:02:00.333 [info] > git rev-parse --show-toplevel [23ms]
+2026-04-15 00:02:00.338 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [1ms]
+2026-04-15 00:02:00.345 [info] [Model][openRepository] Opened repository (path): /home/dieno/projects/abot
+2026-04-15 00:02:00.345 [info] [Model][openRepository] Opened repository (real path): /home/dieno/projects/abot
+2026-04-15 00:02:00.346 [info] [Model][openRepository] Opened repository (kind): repository
+2026-04-15 00:02:00.354 [info] > git rev-parse --show-toplevel [1ms]
+2026-04-15 00:02:00.354 [info] > git config --get commit.template [4ms]
+2026-04-15 00:02:00.376 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2026-04-15 00:02:00.376 [info] > git rev-parse --show-toplevel [18ms]
+2026-04-15 00:02:00.394 [info] > git rev-parse --show-toplevel [8ms]
+2026-04-15 00:02:00.394 [info] > git status -z -uall [4ms]
+2026-04-15 00:02:00.398 [info] > git rev-parse --show-toplevel [2ms]
+2026-04-15 00:02:00.398 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-04-15 00:02:00.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2026-04-15 00:02:00.423 [info] > git config --get commit.template [4ms]
+2026-04-15 00:02:00.423 [info] > git rev-parse --show-toplevel [7ms]
+2026-04-15 00:02:00.446 [info] > git config --get --local branch.master.vscode-merge-base [24ms]
+2026-04-15 00:02:00.446 [warning] [Git][config] git config failed: Failed to execute git
+2026-04-15 00:02:00.464 [info] > git reflog master --grep-reflog=branch: Created from *. [15ms]
+2026-04-15 00:02:00.466 [info] > git rev-parse --show-toplevel [21ms]
+2026-04-15 00:02:00.471 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [5ms]
+2026-04-15 00:02:00.474 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2026-04-15 00:02:00.475 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2026-04-15 00:02:00.478 [info] > git rev-parse --show-toplevel [8ms]
+2026-04-15 00:02:00.484 [info] > git rev-parse --show-toplevel [2ms]
+2026-04-15 00:02:00.486 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-04-15 00:02:00.486 [info] > git config --add --local branch.master.vscode-merge-base origin/master [8ms]
+2026-04-15 00:02:00.492 [info] > git config --get commit.template [1ms]
+2026-04-15 00:02:00.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2026-04-15 00:02:00.524 [info] > git status -z -uall [4ms]
+2026-04-15 00:02:00.524 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-04-15 00:02:00.533 [info] > git merge-base refs/heads/master refs/remotes/origin/master [4ms]
+2026-04-15 00:02:00.537 [info] > git merge-base refs/heads/master refs/remotes/origin/master [5ms]
+2026-04-15 00:02:00.540 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% c2e1c64d5f9ec3b938ac1315f492e638fbcd3395...refs/remotes/origin/master -- [4ms]
+2026-04-15 00:02:00.541 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% c2e1c64d5f9ec3b938ac1315f492e638fbcd3395...refs/remotes/origin/master -- [1ms]
+2026-04-15 00:02:00.874 [info] > git check-ignore -v -z --stdin [3ms]
+2026-04-15 00:02:01.567 [info] > git config --get commit.template [4ms]
+2026-04-15 00:02:01.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2026-04-15 00:02:01.575 [info] > git status -z -uall [3ms]
+2026-04-15 00:02:01.580 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-04-15 00:02:06.603 [info] > git config --get commit.template [7ms]
+2026-04-15 00:02:06.603 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2026-04-15 00:02:06.612 [info] > git status -z -uall [4ms]
+2026-04-15 00:02:06.612 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms]
+2026-04-15 00:02:28.587 [info] > git config --get commit.template [1ms]
+2026-04-15 00:02:28.592 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2026-04-15 00:02:28.601 [info] > git status -z -uall [5ms]
+2026-04-15 00:02:28.602 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-04-15 00:02:57.798 [info] > git check-ignore -v -z --stdin [2ms]
+2026-04-15 00:02:58.187 [info] > git show --textconv :.github/workflows/deploy.yml [4ms]
+2026-04-15 00:02:58.188 [info] > git ls-files --stage -- .github/workflows/deploy.yml [1ms]
+2026-04-15 00:02:58.192 [info] > git cat-file -s dc6170a3c35e450e7a4d26deaae9b1f16081fc2c [1ms]
+2026-04-15 00:02:59.186 [info] > git blame --root --incremental c2e1c64d5f9ec3b938ac1315f492e638fbcd3395 -- .github/workflows/deploy.yml [1ms]
+2026-04-15 00:03:01.418 [info] > git config --get commit.template [3ms]
+2026-04-15 00:03:01.431 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2026-04-15 00:03:01.437 [info] > git status -z -uall [3ms]
+2026-04-15 00:03:01.438 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]

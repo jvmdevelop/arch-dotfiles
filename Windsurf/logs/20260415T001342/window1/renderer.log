@@ -1,0 +1,69 @@
+2026-04-15 00:13:45.291 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-04-15 00:13:45.396 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2026-04-15 00:13:45.634 [info] Started local extension host with pid 132213.
+2026-04-15 00:13:46.497 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-04-15 00:13:46.729 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at J6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-04-15 00:13:47.139 [info] [DiffZone] Watching repo: scm0
+2026-04-15 00:13:47.139 [info] [DiffZone] No historyProvider for scm0
+2026-04-15 00:13:47.144 [info] [DiffZone] No revision for scm0
+2026-04-15 00:13:47.233 [info] [DiffZone] Revision for scm0: c2e1c64, prev: none
+2026-04-15 00:13:50.299 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-15 00:13:50.392 [info] [perf] Render performance baseline is 21ms
+2026-04-15 00:13:54.793 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2026-04-15 00:13:54.897 [info] Started local extension host with pid 133353.
+2026-04-15 00:13:55.201 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-04-15 00:13:55.508 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at J6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-04-15 00:13:56.102 [info] [DiffZone] Watching repo: scm0
+2026-04-15 00:13:56.103 [info] [DiffZone] No historyProvider for scm0
+2026-04-15 00:13:56.106 [info] [DiffZone] No revision for scm0
+2026-04-15 00:13:56.195 [info] [DiffZone] Revision for scm0: c7359b9, prev: none
+2026-04-15 00:13:57.739 [info] [perf] Render performance baseline is 18ms
+2026-04-15 00:13:59.097 [error] An unknown error occurred. Please consult the log for more details.

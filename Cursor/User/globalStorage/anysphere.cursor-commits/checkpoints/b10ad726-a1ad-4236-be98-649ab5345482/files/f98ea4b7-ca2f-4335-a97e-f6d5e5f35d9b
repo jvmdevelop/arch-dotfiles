@@ -1,0 +1,37 @@
+use le_common::{init_metrics, init_tracing, load_settings};
+use le_proto::le::v1::{
+    similarity_service_server::{SimilarityService, SimilarityServiceServer},
+    SimilarityRequest, SimilarityResponse,
+};
+use tonic::{transport::Server, Request, Response, Status};
+use tracing::info;
+
+struct SimilaritySvc;
+
+#[tonic::async_trait]
+impl SimilarityService for SimilaritySvc {
+    async fn search(
+        &self,
+        _request: Request<SimilarityRequest>,
+    ) -> Result<Response<SimilarityResponse>, Status> {
+        Ok(Response::new(SimilarityResponse { hits: vec![] }))
+    }
+}
+
+#[tokio::main]
+async fn main() -> anyhow::Result<()> {
+    init_tracing();
+    let _metrics = init_metrics()?;
+
+    let settings = load_settings()?;
+    let addr = format!("{}:{}", settings.service.host, settings.service.port).parse()?;
+
+    info!(%addr, "starting similarity-service");
+
+    Server::builder()
+        .add_service(SimilarityServiceServer::new(SimilaritySvc))
+        .serve(addr)
+        .await?;
+
+    Ok(())
+}

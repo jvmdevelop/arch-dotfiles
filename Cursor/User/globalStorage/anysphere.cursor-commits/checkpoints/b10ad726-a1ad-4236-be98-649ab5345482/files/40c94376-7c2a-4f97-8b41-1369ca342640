@@ -1,0 +1,45 @@
+use le_common::{init_metrics, init_tracing, load_settings};
+use le_proto::le::v1::{
+    classification_service_server::{ClassificationService, ClassificationServiceServer},
+    ClassificationLabel, ClassifyRequest, ClassifyResponse, ConfidenceScore, NormType,
+};
+use tonic::{transport::Server, Request, Response, Status};
+use tracing::info;
+
+struct ClassificationSvc;
+
+#[tonic::async_trait]
+impl ClassificationService for ClassificationSvc {
+    async fn classify(
+        &self,
+        _request: Request<ClassifyRequest>,
+    ) -> Result<Response<ClassifyResponse>, Status> {
+        Ok(Response::new(ClassifyResponse {
+            norm_type: NormType::Unspecified as i32,
+            norm_type_confidence: Some(ConfidenceScore { value: 0.0 }),
+            regulation_domains: vec![],
+            document_level: Some(ClassificationLabel {
+                label: "unknown".to_string(),
+                confidence: Some(ConfidenceScore { value: 0.0 }),
+            }),
+        }))
+    }
+}
+
+#[tokio::main]
+async fn main() -> anyhow::Result<()> {
+    init_tracing();
+    let _metrics = init_metrics()?;
+
+    let settings = load_settings()?;
+    let addr = format!("{}:{}", settings.service.host, settings.service.port).parse()?;
+
+    info!(%addr, "starting classification-service");
+
+    Server::builder()
+        .add_service(ClassificationServiceServer::new(ClassificationSvc))
+        .serve(addr)
+        .await?;
+
+    Ok(())
+}

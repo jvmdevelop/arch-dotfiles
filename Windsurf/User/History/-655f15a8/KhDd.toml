@@ -1,0 +1,38 @@
+[package]
+name = "legis-entropy"
+version = "0.1.0"
+edition = "2021"
+description = "AI-powered legal analysis system for detecting contradictions in legislative documents"
+authors = ["jdev team"]
+license = "MIT"
+repository = "https://github.com/jvmdevelop/legis-entropy"
+keywords = ["legal", "analysis", "similarity", "documents", "ml", "neural-network"]
+categories = ["text-processing", "science"]
+
+[lib]
+name = "legis_entropy"
+path = "src/lib.rs"
+
+[[bin]]
+name = "legis-entropy"
+path = "src/main.rs"
+
+[dependencies]
+reqwest = { version = "0.12", features = ["json"] }
+tokio = { version = "1", features = ["full"] }
+scraper = "0.20"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "1.0"
+anyhow = "1.0"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+chrono = { version = "0.4.44", features = ["serde"] }
+dotenvy = "0.15"
+
+# ML dependencies for Rust
+tch = "0.15"          # PyTorch bindings for Rust
+ndarray = "0.15"       # N-dimensional arrays
+rand = "0.8"           # Random number generation
+regex = "1.10"         # Regular expressions
+unicode-segmentation = "1.11"  # Text tokenization

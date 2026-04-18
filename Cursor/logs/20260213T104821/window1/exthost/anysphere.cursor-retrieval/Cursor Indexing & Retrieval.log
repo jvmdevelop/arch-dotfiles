@@ -1,0 +1,708 @@
+2026-02-13 10:48:25.981 [error] Error getting repo info: Failed to execute git
+2026-02-13 10:48:25.981 [error] Error: Failed to execute git
+	at t.Git._execOld (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:38047)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:36390)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1466835)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1440077)
+2026-02-13 10:48:26.290 [error] Error getting repo info: Failed to execute git
+2026-02-13 10:48:26.305 [warning] Failed to get symbolic ref: Failed to execute git
+2026-02-13 10:48:26.320 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '.git/HEAD')
+2026-02-13 10:48:26.798 [warning] Failed to get branches from remote: Failed to execute git
+2026-02-13 10:48:26.805 [warning] Failed to get default branch from git config: Failed to execute git
+2026-02-13 10:48:27.920 [warning] [FastIndexer] getInitialValues: timeout waiting for auth {"hasCreds":true,"hasToken":false,"pollCount":10,"elapsedMs":2149}
+2026-02-13 10:48:27.924 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2026-02-13 10:49:55.646 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-02-13 10:49:55.646 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-02-13 10:49:55.646 [error] NoWorkspaceUriError
+2026-02-13 10:50:21.611 [error] Error getting repo info: Failed to execute git
+2026-02-13 10:50:21.612 [error] Error: Failed to execute git
+	at v.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2457817)
+	at Generator.next (<anonymous>)
+	at i (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:2455423)
+2026-02-13 10:50:21.753 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-02-13 10:50:21.753 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-02-13 10:50:21.756 [info] Making keys for a new index
+2026-02-13 10:50:21.761 [info] Using the default key from the server for a new index
+2026-02-13 10:50:21.761 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-02-13 10:50:21.788 [info] Starting RepoIndexWatcher for repo: bb6366f2-040e-4771-a9e2-26fffd7a7530, owner: google-oauth2|user_01KG51JZRHKHKZ6VMH7QDBS7W3
+2026-02-13 10:50:21.788 [info] Doing a startup handshake.
+2026-02-13 10:50:21.823 [info] Finished computing merkle tree in 8.273380000000088 ms.
+2026-02-13 10:50:21.824 [info] Doing the initial handshake with hash: 1a6347d4e480ab0e64f4e66a6b9259cb4f8b284477f3f5227a248b7330314d92
+2026-02-13 10:50:21.825 [info] Computed simhash vector of length: 256
+2026-02-13 10:50:21.825 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 10:50:21.827 [info] Handshake start
+2026-02-13 10:50:21.827 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/dieno/.config/Cursor/User/workspaceStorage/92bd1ba16aea43ff1f313b904236c6d4/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2026-02-13 10:50:22.006 [error] Error getting repo info: Failed to execute git
+2026-02-13 10:50:22.007 [warning] Failed to get symbolic ref: Failed to execute git
+2026-02-13 10:50:22.011 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/dieno/projects/race-it/.git/HEAD')
+2026-02-13 10:50:22.027 [warning] Failed to get branches from remote: Failed to execute git
+2026-02-13 10:50:22.028 [warning] Failed to get default branch from git config: Failed to execute git
+2026-02-13 10:50:22.767 [info] Handshake timing: 941.2974490000001, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_EMPTY_WITH_COPY_AVAILABLE","copyTaskHandle":""}]}
+2026-02-13 10:50:22.768 [info] Codebase is empty but similar codebase from within same domain is available
+2026-02-13 10:50:22.768 [info] Setting query only repo info for similar codebase a3acb06c-d64b-4631-8134-4e93c7dc55c6
+2026-02-13 10:50:22.774 [info] Handshake start
+2026-02-13 10:50:23.877 [info] Handshake timing: 1105.099443, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 10:50:23.878 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 10:50:23.878 [info] Starting fast remote sync.
+2026-02-13 10:50:23.878 [info] Total num embeddable files: 43
+2026-02-13 10:50:23.878 [info] Root hash: 1a6347d4e480ab0e64f4e66a6b9259cb4f8b284477f3f5227a248b7330314d92
+2026-02-13 10:50:23.879 [info] Finishing sync (hasUpdates: false, isErr: false)
+2026-02-13 10:50:24.079 [info] Finished indexing repository.
+2026-02-13 10:50:24.079 [info] Indexing job successfully done or aborted.
+2026-02-13 10:51:51.489 [error] Error getting git status: Failed to execute git
+2026-02-13 10:55:44.788 [info] multiCodebaseIndexingJob dispose
+2026-02-13 10:55:44.788 [info] Aborting indexing job.
+2026-02-13 10:55:44.788 [info] Setting global status from status tracker: synced
+2026-02-13 10:55:44.788 [info] Doing a startup handshake.
+2026-02-13 10:55:44.792 [info] Finished computing merkle tree in 2.043660000024829 ms.
+2026-02-13 10:55:44.793 [info] Doing the initial handshake with hash: 08c6f3e1f74a91dd6484d6853d86c0887360e569234dd7d670f86fecf3b6f68e
+2026-02-13 10:55:44.794 [info] Computed simhash vector of length: 256
+2026-02-13 10:55:44.794 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 10:55:44.796 [info] Handshake start
+2026-02-13 10:55:45.017 [info] Handshake timing: 222.5403600000427, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 10:55:45.017 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 10:55:45.017 [info] Starting fast remote sync.
+2026-02-13 10:55:45.018 [info] Total num embeddable files: 44
+2026-02-13 10:55:45.019 [info] Root hash: 08c6f3e1f74a91dd6484d6853d86c0887360e569234dd7d670f86fecf3b6f68e
+2026-02-13 10:55:45.020 [info] In the out of sync case.
+2026-02-13 10:55:45.022 [info] Waiting on semaphore to be released 1
+2026-02-13 10:55:45.221 [info] Waiting on semaphore to be released 1
+2026-02-13 10:55:45.422 [info] Waiting on semaphore to be released 1
+2026-02-13 10:55:45.622 [info] Waiting on semaphore to be released 1
+2026-02-13 10:55:45.827 [info] Waiting on semaphore to be released 1
+2026-02-13 10:55:46.026 [info] Waiting on semaphore to be released 1
+2026-02-13 10:55:46.229 [info] Waiting on semaphore to be released 1
+2026-02-13 10:55:46.428 [info] Waiting on semaphore to be released 1
+2026-02-13 10:55:46.630 [info] setting numJobsToGo to 1
+2026-02-13 10:55:46.630 [info] [startSync]: numJobs: 1
+2026-02-13 10:55:46.631 [info] Uploading 1 files.
+2026-02-13 10:55:46.632 [info] Total number of files to embed: 44
+2026-02-13 10:55:46.632 [info] Not aborted
+2026-02-13 10:55:46.632 [info] Starting while loop.
+2026-02-13 10:55:47.103 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/Hud.gd
+2026-02-13 10:55:47.315 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 10:55:47.699 [info] Finished indexing repository.
+2026-02-13 10:55:47.699 [info] Indexing job successfully done or aborted.
+2026-02-13 11:01:07.789 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:01:07.789 [info] Aborting indexing job.
+2026-02-13 11:01:07.789 [info] Setting global status from status tracker: synced
+2026-02-13 11:01:07.789 [info] Doing a startup handshake.
+2026-02-13 11:01:07.804 [info] Finished computing merkle tree in 9.745397999999113 ms.
+2026-02-13 11:01:07.805 [info] Doing the initial handshake with hash: 5a2e7d7957068b5b4657821cd3e838048271fe4ba24a152e23873970a3c3093c
+2026-02-13 11:01:07.806 [info] Computed simhash vector of length: 256
+2026-02-13 11:01:07.806 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:01:07.808 [info] Handshake start
+2026-02-13 11:01:08.032 [info] Handshake timing: 224.31771199998911, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:01:08.032 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:01:08.032 [info] Starting fast remote sync.
+2026-02-13 11:01:08.033 [info] Total num embeddable files: 48
+2026-02-13 11:01:08.034 [info] Root hash: 5a2e7d7957068b5b4657821cd3e838048271fe4ba24a152e23873970a3c3093c
+2026-02-13 11:01:08.034 [info] In the out of sync case.
+2026-02-13 11:01:08.036 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:08.235 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:08.434 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:08.635 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:08.836 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:09.039 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:09.237 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:09.441 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:09.639 [info] Waiting on semaphore to be released 1
+2026-02-13 11:01:09.841 [info] setting numJobsToGo to 6
+2026-02-13 11:01:09.841 [info] [startSync]: numJobs: 6
+2026-02-13 11:01:09.842 [info] Uploading 6 files.
+2026-02-13 11:01:09.844 [info] Total number of files to embed: 48
+2026-02-13 11:01:09.844 [info] Not aborted
+2026-02-13 11:01:09.844 [info] Starting while loop.
+2026-02-13 11:01:09.852 [info] syncing batch of 2 files and 14471 bytes
+2026-02-13 11:01:12.411 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./project.godot
+2026-02-13 11:01:12.412 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/BaseCar.tscn
+2026-02-13 11:01:12.416 [info] syncing batch of 4 files and 1890 bytes
+2026-02-13 11:01:13.393 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/Hud.gd.uid
+2026-02-13 11:01:13.393 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./ui/MainMenu.tscn
+2026-02-13 11:01:13.393 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./ui/MainMenu.gd.uid
+2026-02-13 11:01:13.393 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./ui/MainMenu.gd
+2026-02-13 11:01:13.609 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 11:01:14.136 [info] Finished indexing repository.
+2026-02-13 11:01:14.136 [info] Indexing job successfully done or aborted.
+2026-02-13 11:06:30.788 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:06:30.789 [info] Aborting indexing job.
+2026-02-13 11:06:30.789 [info] Setting global status from status tracker: synced
+2026-02-13 11:06:30.789 [info] Doing a startup handshake.
+2026-02-13 11:06:30.796 [info] Finished computing merkle tree in 3.5912910000188276 ms.
+2026-02-13 11:06:30.798 [info] Doing the initial handshake with hash: 8d66712f304bcf4005d7ae3bc48ab1c60effad10d405ee3f70a5c3bd31da3788
+2026-02-13 11:06:30.798 [info] Computed simhash vector of length: 256
+2026-02-13 11:06:30.798 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:06:30.800 [info] Handshake start
+2026-02-13 11:06:31.072 [info] Handshake timing: 272.9067489999579, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:06:31.073 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:06:31.073 [info] Starting fast remote sync.
+2026-02-13 11:06:31.074 [info] Total num embeddable files: 62
+2026-02-13 11:06:31.074 [info] Root hash: 8d66712f304bcf4005d7ae3bc48ab1c60effad10d405ee3f70a5c3bd31da3788
+2026-02-13 11:06:31.074 [info] In the out of sync case.
+2026-02-13 11:06:31.077 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:31.274 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:31.475 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:31.675 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:31.876 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:32.077 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:32.281 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:32.281 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-13 11:06:32.479 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:32.682 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:32.881 [info] Waiting on semaphore to be released 1
+2026-02-13 11:06:33.082 [info] setting numJobsToGo to 10
+2026-02-13 11:06:33.083 [info] [startSync]: numJobs: 10
+2026-02-13 11:06:33.084 [info] Uploading 10 files.
+2026-02-13 11:06:33.085 [info] Total number of files to embed: 62
+2026-02-13 11:06:33.085 [info] Not aborted
+2026-02-13 11:06:33.085 [info] Starting while loop.
+2026-02-13 11:06:33.090 [info] syncing batch of 2 files and 3712 bytes
+2026-02-13 11:06:35.513 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./ui/MainMenu.tscn
+2026-02-13 11:06:35.514 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/BaseCar.gd
+2026-02-13 11:06:35.516 [info] syncing batch of 4 files and 5868 bytes
+2026-02-13 11:06:36.614 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/scene_groups_cache.cfg
+2026-02-13 11:06:36.614 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/project_metadata.cfg
+2026-02-13 11:06:36.614 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/race_1.tscn-editstate-f8be2cdd1cfd08ebcbce18eaffbf1c07.cfg
+2026-02-13 11:06:36.614 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/script_editor_cache.cfg
+2026-02-13 11:06:36.617 [info] syncing batch of 4 files and 3744 bytes
+2026-02-13 11:06:37.633 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/filesystem_update4
+2026-02-13 11:06:37.633 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/race_1.tscn-folding-f8be2cdd1cfd08ebcbce18eaffbf1c07.cfg
+2026-02-13 11:06:37.634 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/editor_layout.cfg
+2026-02-13 11:06:37.634 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/main.tscn-folding-3070c538c03ee49b7677ff960a3f5195.cfg
+2026-02-13 11:06:37.848 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 11:06:38.296 [info] Finished indexing repository.
+2026-02-13 11:06:38.296 [info] Indexing job successfully done or aborted.
+2026-02-13 11:11:53.788 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:11:53.789 [info] Aborting indexing job.
+2026-02-13 11:11:53.789 [info] Setting global status from status tracker: synced
+2026-02-13 11:11:53.789 [info] Doing a startup handshake.
+2026-02-13 11:11:53.801 [info] Finished computing merkle tree in 9.517161999829113 ms.
+2026-02-13 11:11:53.802 [info] Doing the initial handshake with hash: 02b6a82e571324cad9fc9273d2baf16b3fb99fa937442d0892775440bef122b4
+2026-02-13 11:11:53.803 [info] Computed simhash vector of length: 256
+2026-02-13 11:11:53.803 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:11:53.803 [info] Handshake start
+2026-02-13 11:11:54.033 [info] Handshake timing: 229.22432199981995, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:11:54.033 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:11:54.033 [info] Starting fast remote sync.
+2026-02-13 11:11:54.034 [info] Total num embeddable files: 179
+2026-02-13 11:11:54.034 [info] Root hash: 02b6a82e571324cad9fc9273d2baf16b3fb99fa937442d0892775440bef122b4
+2026-02-13 11:11:54.034 [info] In the out of sync case.
+2026-02-13 11:11:54.037 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:54.235 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:54.436 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:54.637 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:54.840 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:54.840 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-13 11:11:55.037 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:55.239 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:55.240 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-13 11:11:55.438 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:55.641 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:55.838 [info] Waiting on semaphore to be released 1
+2026-02-13 11:11:56.040 [info] setting numJobsToGo to 16
+2026-02-13 11:11:56.040 [info] [startSync]: numJobs: 16
+2026-02-13 11:11:56.041 [info] Uploading 16 files.
+2026-02-13 11:11:56.042 [info] Total number of files to embed: 186
+2026-02-13 11:11:56.042 [info] Not aborted
+2026-02-13 11:11:56.042 [info] Starting while loop.
+2026-02-13 11:11:56.046 [info] syncing batch of 2 files and 8836 bytes
+2026-02-13 11:11:58.642 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/Hud.gd
+2026-02-13 11:11:58.643 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/BaseCar.tscn
+2026-02-13 11:11:58.647 [info] syncing batch of 4 files and 3450 bytes
+2026-02-13 11:12:00.711 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/script_editor_cache.cfg
+2026-02-13 11:12:00.711 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/project_metadata.cfg
+2026-02-13 11:12:00.711 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/editor_layout.cfg
+2026-02-13 11:12:00.711 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/filesystem_update4
+2026-02-13 11:12:00.715 [info] syncing batch of 8 files and 53430 bytes
+2026-02-13 11:12:02.859 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/impl/Doge.tscn
+2026-02-13 11:12:02.859 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/global_script_class_cache.cfg
+2026-02-13 11:12:02.859 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/BaseCar.tscn-editstate-c42eb636b4ecba772ac658153a5b4c65.cfg
+2026-02-13 11:12:02.859 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/BaseCar.tscn-folding-c42eb636b4ecba772ac658153a5b4c65.cfg
+2026-02-13 11:12:02.860 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/Doge.tscn-editstate-9ffd81a4a39c4dec1d63149a5867843a.cfg
+2026-02-13 11:12:02.860 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/Doge.tscn-folding-9ffd81a4a39c4dec1d63149a5867843a.cfg
+2026-02-13 11:12:02.860 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/Hud.gd-folding-3bb64abc514de5ef7d66fc64ddc4ac9a.cfg
+2026-02-13 11:12:02.860 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/shader_cache/PostShaderGLES3/74297d2ffdcb02f54fdad2f4cd99ecc3a158625aa5eb81deea6247622e3df93b/6bb7c9a2fd1c4a8fa77cb96555b9b4a720209981.cache
+2026-02-13 11:12:02.862 [info] syncing batch of 2 files and 581766 bytes
+2026-02-13 11:12:05.828 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/shader_cache/CanvasShaderGLES3/d8d672d290cd49b99015c6b0f9bde19e7e07e5ad920fbda52e047e2ab80dbff8/9ae08ef3e8f55cb78d87b359ee68b193a6485fca.cache
+2026-02-13 11:12:05.829 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/shader_cache/SceneShaderGLES3/5fda98cc870fc8074d17549e5a99d1d0a7e7bc830d021ff39577ef4166e42f6c/096ebd6030b12274a6b1453d62c740f485fab542.cache
+2026-02-13 11:12:06.042 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 11:12:06.457 [info] Finished indexing repository.
+2026-02-13 11:12:06.457 [info] Indexing job successfully done or aborted.
+2026-02-13 11:17:16.790 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:17:16.790 [info] Aborting indexing job.
+2026-02-13 11:17:16.790 [info] Setting global status from status tracker: synced
+2026-02-13 11:17:16.790 [info] Doing a startup handshake.
+2026-02-13 11:17:16.799 [info] Finished computing merkle tree in 6.012929999968037 ms.
+2026-02-13 11:17:16.800 [info] Doing the initial handshake with hash: 463432c4d56f3f299789cc6096e209c3e7690858b09bca89f76efe509ec1ff73
+2026-02-13 11:17:16.802 [info] Computed simhash vector of length: 256
+2026-02-13 11:17:16.802 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:17:16.803 [info] Handshake start
+2026-02-13 11:17:17.032 [info] Handshake timing: 229.39545900002122, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:17:17.032 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:17:17.032 [info] Starting fast remote sync.
+2026-02-13 11:17:17.033 [info] Total num embeddable files: 222
+2026-02-13 11:17:17.034 [info] Root hash: 463432c4d56f3f299789cc6096e209c3e7690858b09bca89f76efe509ec1ff73
+2026-02-13 11:17:17.034 [info] In the out of sync case.
+2026-02-13 11:17:17.036 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:17.234 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:17.435 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:17.634 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:17.835 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:18.035 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:18.239 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:18.239 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-13 11:17:18.437 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:18.638 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:18.638 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-13 11:17:18.838 [info] Waiting on semaphore to be released 1
+2026-02-13 11:17:19.038 [info] setting numJobsToGo to 6
+2026-02-13 11:17:19.039 [info] [startSync]: numJobs: 6
+2026-02-13 11:17:19.039 [info] Uploading 6 files.
+2026-02-13 11:17:19.040 [info] Total number of files to embed: 222
+2026-02-13 11:17:19.040 [info] Not aborted
+2026-02-13 11:17:19.040 [info] Starting while loop.
+2026-02-13 11:17:19.047 [info] syncing batch of 2 files and 4013 bytes
+2026-02-13 11:17:21.528 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/BaseCar.gd
+2026-02-13 11:17:21.528 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/editor_layout.cfg
+2026-02-13 11:17:21.530 [info] syncing batch of 4 files and 5761 bytes
+2026-02-13 11:17:23.579 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/project_metadata.cfg
+2026-02-13 11:17:23.579 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/script_editor_cache.cfg
+2026-02-13 11:17:23.579 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/Doge.tscn-editstate-9ffd81a4a39c4dec1d63149a5867843a.cfg
+2026-02-13 11:17:23.580 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./.godot/editor/BaseCar.gd-folding-8b856b2091572f216b46c3a1f404de06.cfg
+2026-02-13 11:17:23.795 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 11:17:24.222 [info] Finished indexing repository.
+2026-02-13 11:17:24.222 [info] Indexing job successfully done or aborted.
+2026-02-13 11:22:39.790 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:22:39.790 [info] Aborting indexing job.
+2026-02-13 11:22:39.790 [info] Setting global status from status tracker: synced
+2026-02-13 11:22:39.790 [info] Doing a startup handshake.
+2026-02-13 11:22:39.818 [info] Finished computing merkle tree in 9.677089999895543 ms.
+2026-02-13 11:22:39.819 [info] Doing the initial handshake with hash: 5bf6f62f54a21954e003baa0e32a407c0cc3e98ac0e712ac523ae9342fcd6335
+2026-02-13 11:22:39.819 [info] Computed simhash vector of length: 256
+2026-02-13 11:22:39.820 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:22:39.821 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:22:39.821 [info] Handshake start
+2026-02-13 11:22:40.100 [info] Handshake timing: 278.35937099996954, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:22:40.100 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:22:40.100 [info] Starting fast remote sync.
+2026-02-13 11:22:40.101 [info] Total num embeddable files: 48
+2026-02-13 11:22:40.102 [info] Root hash: 5bf6f62f54a21954e003baa0e32a407c0cc3e98ac0e712ac523ae9342fcd6335
+2026-02-13 11:22:40.102 [info] In the out of sync case.
+2026-02-13 11:22:40.104 [info] Waiting on semaphore to be released 1
+2026-02-13 11:22:40.302 [info] Waiting on semaphore to be released 1
+2026-02-13 11:22:40.503 [info] Waiting on semaphore to be released 1
+2026-02-13 11:22:40.704 [info] Waiting on semaphore to be released 1
+2026-02-13 11:22:40.904 [info] Waiting on semaphore to be released 1
+2026-02-13 11:22:41.108 [info] setting numJobsToGo to 0
+2026-02-13 11:22:41.109 [info] [startSync]: numJobs: 0
+2026-02-13 11:22:41.634 [info] Uploading 0 files.
+2026-02-13 11:22:41.635 [info] Total number of files to embed: 48
+2026-02-13 11:22:41.635 [info] Not aborted
+2026-02-13 11:22:41.635 [info] Starting while loop.
+2026-02-13 11:22:41.636 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:22:41.855 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 11:22:42.350 [info] Finished indexing repository.
+2026-02-13 11:22:42.350 [info] Indexing job successfully done or aborted.
+2026-02-13 11:23:01.428 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/dieno/projects/race-it/.gitmodules')
+2026-02-13 11:28:02.791 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:28:02.791 [info] Aborting indexing job.
+2026-02-13 11:28:02.791 [info] Setting global status from status tracker: synced
+2026-02-13 11:28:02.791 [info] Doing a startup handshake.
+2026-02-13 11:28:02.799 [info] Finished computing merkle tree in 3.6766949999146163 ms.
+2026-02-13 11:28:02.801 [info] Doing the initial handshake with hash: 4e3d802de3c02e4a0135ce1935482c336eb9a8d71cf0779b59e701149c7b710b
+2026-02-13 11:28:02.801 [info] Computed simhash vector of length: 256
+2026-02-13 11:28:02.801 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:28:02.804 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:28:02.805 [info] Handshake start
+2026-02-13 11:28:03.071 [info] Handshake timing: 266.4212790001184, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:28:03.071 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:28:03.071 [info] Starting fast remote sync.
+2026-02-13 11:28:03.072 [info] Total num embeddable files: 48
+2026-02-13 11:28:03.074 [info] Root hash: 4e3d802de3c02e4a0135ce1935482c336eb9a8d71cf0779b59e701149c7b710b
+2026-02-13 11:28:03.074 [info] In the out of sync case.
+2026-02-13 11:28:03.076 [info] Waiting on semaphore to be released 1
+2026-02-13 11:28:03.275 [info] Waiting on semaphore to be released 1
+2026-02-13 11:28:03.475 [info] Waiting on semaphore to be released 1
+2026-02-13 11:28:03.676 [info] Waiting on semaphore to be released 1
+2026-02-13 11:28:03.879 [info] Waiting on semaphore to be released 1
+2026-02-13 11:28:04.077 [info] Waiting on semaphore to be released 1
+2026-02-13 11:28:04.279 [info] Waiting on semaphore to be released 1
+2026-02-13 11:28:04.477 [info] Waiting on semaphore to be released 1
+2026-02-13 11:28:04.678 [info] setting numJobsToGo to 1
+2026-02-13 11:28:04.679 [info] [startSync]: numJobs: 1
+2026-02-13 11:28:04.679 [info] Uploading 1 files.
+2026-02-13 11:28:04.680 [info] Total number of files to embed: 48
+2026-02-13 11:28:04.680 [info] Not aborted
+2026-02-13 11:28:04.680 [info] Starting while loop.
+2026-02-13 11:28:14.744 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/BaseCar.gd
+2026-02-13 11:28:14.747 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:28:14.966 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 11:28:15.350 [info] Finished indexing repository.
+2026-02-13 11:28:15.350 [info] Indexing job successfully done or aborted.
+2026-02-13 11:33:25.792 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:33:25.792 [info] Aborting indexing job.
+2026-02-13 11:33:25.792 [info] Setting global status from status tracker: synced
+2026-02-13 11:33:25.792 [info] Doing a startup handshake.
+2026-02-13 11:33:25.799 [info] Finished computing merkle tree in 3.379699000157416 ms.
+2026-02-13 11:33:25.801 [info] Doing the initial handshake with hash: 4e3d802de3c02e4a0135ce1935482c336eb9a8d71cf0779b59e701149c7b710b
+2026-02-13 11:33:25.801 [info] Computed simhash vector of length: 256
+2026-02-13 11:33:25.801 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:33:25.802 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:33:25.803 [info] Handshake start
+2026-02-13 11:33:26.045 [info] Handshake timing: 242.52648600004613, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 11:33:26.046 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 11:33:26.046 [info] Starting fast remote sync.
+2026-02-13 11:33:26.047 [info] Total num embeddable files: 48
+2026-02-13 11:33:26.047 [info] Root hash: 4e3d802de3c02e4a0135ce1935482c336eb9a8d71cf0779b59e701149c7b710b
+2026-02-13 11:33:26.050 [info] Finishing sync (hasUpdates: false, isErr: false)
+2026-02-13 11:33:26.771 [info] Finished indexing repository.
+2026-02-13 11:33:26.771 [info] Indexing job successfully done or aborted.
+2026-02-13 11:38:48.792 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:38:48.792 [info] Aborting indexing job.
+2026-02-13 11:38:48.792 [info] Setting global status from status tracker: synced
+2026-02-13 11:38:48.792 [info] Doing a startup handshake.
+2026-02-13 11:38:48.798 [info] Finished computing merkle tree in 2.820634000003338 ms.
+2026-02-13 11:38:48.799 [info] Doing the initial handshake with hash: f07d02ca4c535032a633bcdfc1186cafde6c07772318e1c2a33e83715fe7dcff
+2026-02-13 11:38:48.799 [info] Computed simhash vector of length: 256
+2026-02-13 11:38:48.799 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:38:48.800 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:38:48.801 [info] Handshake start
+2026-02-13 11:38:49.031 [info] Handshake timing: 229.954504000023, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:38:49.031 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:38:49.031 [info] Starting fast remote sync.
+2026-02-13 11:38:49.033 [info] Total num embeddable files: 60
+2026-02-13 11:38:49.034 [info] Root hash: f07d02ca4c535032a633bcdfc1186cafde6c07772318e1c2a33e83715fe7dcff
+2026-02-13 11:38:49.034 [info] In the out of sync case.
+2026-02-13 11:38:49.035 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:49.235 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:49.436 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:49.636 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:49.838 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:50.039 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:50.242 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:50.440 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:50.642 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:50.840 [info] Waiting on semaphore to be released 1
+2026-02-13 11:38:51.042 [info] setting numJobsToGo to 2
+2026-02-13 11:38:51.042 [info] [startSync]: numJobs: 2
+2026-02-13 11:38:51.043 [info] Uploading 2 files.
+2026-02-13 11:38:51.044 [info] Total number of files to embed: 60
+2026-02-13 11:38:51.044 [info] Not aborted
+2026-02-13 11:38:51.044 [info] Starting while loop.
+2026-02-13 11:38:51.052 [info] syncing batch of 2 files and 4123 bytes
+2026-02-13 11:38:52.703 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/cars/BaseCar.gd
+2026-02-13 11:38:52.704 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./game/races/race_2.tscn
+2026-02-13 11:38:52.706 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:38:52.915 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 11:38:53.379 [info] Finished indexing repository.
+2026-02-13 11:38:53.379 [info] Indexing job successfully done or aborted.
+2026-02-13 11:44:11.792 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:44:11.793 [info] Aborting indexing job.
+2026-02-13 11:44:11.793 [info] Setting global status from status tracker: synced
+2026-02-13 11:44:11.793 [info] Doing a startup handshake.
+2026-02-13 11:44:11.800 [info] Finished computing merkle tree in 3.5929149999283254 ms.
+2026-02-13 11:44:11.801 [info] Doing the initial handshake with hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 11:44:11.802 [info] Computed simhash vector of length: 256
+2026-02-13 11:44:11.802 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:44:11.803 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:44:11.804 [info] Handshake start
+2026-02-13 11:44:12.094 [info] Handshake timing: 290.2850589998998, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:44:12.094 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 11:44:12.094 [info] Starting fast remote sync.
+2026-02-13 11:44:12.095 [info] Total num embeddable files: 64
+2026-02-13 11:44:12.096 [info] Root hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 11:44:12.096 [info] In the out of sync case.
+2026-02-13 11:44:12.099 [info] Waiting on semaphore to be released 1
+2026-02-13 11:44:12.297 [info] Waiting on semaphore to be released 1
+2026-02-13 11:44:12.498 [info] Waiting on semaphore to be released 1
+2026-02-13 11:44:12.699 [info] Waiting on semaphore to be released 1
+2026-02-13 11:44:12.902 [info] Waiting on semaphore to be released 1
+2026-02-13 11:44:12.902 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-13 11:44:13.101 [info] Waiting on semaphore to be released 1
+2026-02-13 11:44:13.302 [info] setting numJobsToGo to 2
+2026-02-13 11:44:13.305 [info] [startSync]: numJobs: 2
+2026-02-13 11:44:13.756 [info] Uploading 2 files.
+2026-02-13 11:44:13.757 [info] Total number of files to embed: 64
+2026-02-13 11:44:13.757 [info] Not aborted
+2026-02-13 11:44:13.757 [info] Starting while loop.
+2026-02-13 11:44:13.766 [info] syncing batch of 2 files and 2911 bytes
+2026-02-13 11:44:15.734 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./ui/MainMenu.gd
+2026-02-13 11:44:15.734 [info] Completed job successfully: 504614ea-a1d0-4d1c-bf0d-d38faa19b310 ./ui/MainMenu.tscn
+2026-02-13 11:44:15.737 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:44:15.988 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 11:44:16.498 [info] Finished indexing repository.
+2026-02-13 11:44:16.498 [info] Indexing job successfully done or aborted.
+2026-02-13 11:49:34.793 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:49:34.793 [info] Aborting indexing job.
+2026-02-13 11:49:34.793 [info] Setting global status from status tracker: synced
+2026-02-13 11:49:34.793 [info] Doing a startup handshake.
+2026-02-13 11:49:34.804 [info] Finished computing merkle tree in 5.742972000036389 ms.
+2026-02-13 11:49:34.806 [info] Doing the initial handshake with hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 11:49:34.808 [info] Computed simhash vector of length: 256
+2026-02-13 11:49:34.808 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:49:34.809 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:49:34.811 [info] Handshake start
+2026-02-13 11:49:35.068 [info] Handshake timing: 258.19624199997634, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 11:49:35.068 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 11:49:35.068 [info] Starting fast remote sync.
+2026-02-13 11:49:35.071 [info] Total num embeddable files: 67
+2026-02-13 11:49:35.072 [info] Root hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 11:49:35.076 [info] Finishing sync (hasUpdates: false, isErr: false)
+2026-02-13 11:49:35.819 [info] Finished indexing repository.
+2026-02-13 11:49:35.819 [info] Indexing job successfully done or aborted.
+2026-02-13 11:54:57.794 [info] multiCodebaseIndexingJob dispose
+2026-02-13 11:54:57.794 [info] Aborting indexing job.
+2026-02-13 11:54:57.794 [info] Setting global status from status tracker: synced
+2026-02-13 11:54:57.794 [info] Doing a startup handshake.
+2026-02-13 11:54:57.800 [info] Finished computing merkle tree in 3.095793000422418 ms.
+2026-02-13 11:54:57.801 [info] Doing the initial handshake with hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 11:54:57.802 [info] Computed simhash vector of length: 256
+2026-02-13 11:54:57.802 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 11:54:57.803 [info] Found 1 git remote(s) in workspace
+2026-02-13 11:54:57.804 [info] Handshake start
+2026-02-13 11:54:58.041 [info] Handshake timing: 237.96109599992633, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 11:54:58.041 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 11:54:58.041 [info] Starting fast remote sync.
+2026-02-13 11:54:58.043 [info] Total num embeddable files: 67
+2026-02-13 11:54:58.043 [info] Root hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 11:54:58.045 [info] Finishing sync (hasUpdates: false, isErr: false)
+2026-02-13 11:54:58.757 [info] Finished indexing repository.
+2026-02-13 11:54:58.757 [info] Indexing job successfully done or aborted.
+2026-02-13 12:00:20.793 [info] multiCodebaseIndexingJob dispose
+2026-02-13 12:00:20.793 [info] Aborting indexing job.
+2026-02-13 12:00:20.793 [info] Setting global status from status tracker: synced
+2026-02-13 12:00:20.793 [info] Doing a startup handshake.
+2026-02-13 12:00:20.795 [info] Finished computing merkle tree in 1.2139189997687936 ms.
+2026-02-13 12:00:20.796 [info] Doing the initial handshake with hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 12:00:20.796 [info] Computed simhash vector of length: 256
+2026-02-13 12:00:20.796 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 12:00:20.796 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:00:20.796 [info] Handshake start
+2026-02-13 12:00:21.022 [info] Handshake timing: 225.99659000057727, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 12:00:21.022 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"504614ea-a1d0-4d1c-bf0d-d38faa19b310","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2026-02-13 12:00:21.023 [info] Starting fast remote sync.
+2026-02-13 12:00:21.024 [info] Total num embeddable files: 67
+2026-02-13 12:00:21.024 [info] Root hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 12:00:21.026 [info] Finishing sync (hasUpdates: false, isErr: false)
+2026-02-13 12:00:21.638 [info] Finished indexing repository.
+2026-02-13 12:00:21.638 [info] Indexing job successfully done or aborted.
+2026-02-13 12:04:16.962 [info] multiCodebaseIndexingJob dispose
+2026-02-13 12:04:16.963 [info] Aborting indexing job.
+2026-02-13 12:04:16.963 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2026-02-13 12:04:22.750 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-02-13 12:04:22.750 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-02-13 12:04:22.751 [info] Using existing keys for an index
+2026-02-13 12:04:22.751 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-02-13 12:04:22.773 [info] Starting RepoIndexWatcher for repo: bb6366f2-040e-4771-a9e2-26fffd7a7530, owner: google-oauth2|user_01K65F52ZAE4B89JJMMRPNQQBH
+2026-02-13 12:04:22.773 [info] Doing a startup handshake.
+2026-02-13 12:04:23.067 [info] Finished computing merkle tree in 20.032988999970257 ms.
+2026-02-13 12:04:23.068 [info] Doing the initial handshake with hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 12:04:23.068 [info] Computed simhash vector of length: 256
+2026-02-13 12:04:23.068 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 12:04:23.068 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:04:23.069 [info] Handshake start
+2026-02-13 12:04:24.531 [info] Handshake timing: 1462.1370219998062, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"7ed4b6da-0b96-4607-b2f6-f9d772468193","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2026-02-13 12:04:24.531 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"7ed4b6da-0b96-4607-b2f6-f9d772468193","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2026-02-13 12:04:24.531 [info] Starting fast remote sync.
+2026-02-13 12:04:24.533 [info] Total num embeddable files: 48
+2026-02-13 12:04:24.533 [info] Root hash: e1dd916644aaa8ccfbbac3e9a63277a8b9e0e45c1c275cc1c0ebf0d3881e290d
+2026-02-13 12:04:24.534 [info] Starting repository upload from scratch.
+2026-02-13 12:04:24.534 [info] Uploading 48 files.
+2026-02-13 12:04:24.535 [info] Total number of files to embed: 48
+2026-02-13 12:04:24.535 [info] Not aborted
+2026-02-13 12:04:24.535 [info] Starting while loop.
+2026-02-13 12:04:24.541 [info] syncing batch of 2 files and 8875 bytes
+2026-02-13 12:04:24.909 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./project.godot
+2026-02-13 12:04:24.909 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./ui/MainMenu.gd.uid
+2026-02-13 12:04:24.912 [info] syncing batch of 4 files and 9307 bytes
+2026-02-13 12:04:26.117 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./ui/MainMenu.tscn
+2026-02-13 12:04:26.118 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./ui/MainMenu.gd
+2026-02-13 12:04:26.118 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./main.tscn
+2026-02-13 12:04:26.118 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/nurb.png.import
+2026-02-13 12:04:26.122 [info] syncing batch of 8 files and 6431 bytes
+2026-02-13 12:04:26.967 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/trava.obj.import
+2026-02-13 12:04:26.967 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/nurb.obj.import
+2026-02-13 12:04:26.967 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/S15-BODY.png.import
+2026-02-13 12:04:26.967 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/ae.png.import
+2026-02-13 12:04:26.967 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/h.png.import
+2026-02-13 12:04:26.967 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/road.obj.import
+2026-02-13 12:04:26.967 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/objects.obj.import
+2026-02-13 12:04:26.967 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/body.obj.import
+2026-02-13 12:04:26.969 [info] syncing batch of 16 files and 344155 bytes
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/body inside.obj.import
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/ae WHEEL.obj.import
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/S15-FRAME512.png.import
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/BaseCar.gd
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/BaseCar.tscn
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/Hud.gd
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/Hud.gd.uid
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/impl/Doge.tscn
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/BaseCar.gd.uid
+2026-02-13 12:04:29.079 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/camera/camera_3d.tscn
+2026-02-13 12:04:29.080 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/camera/CameraFollow.gd.uid
+2026-02-13 12:04:29.080 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/camera/CameraFollow.gd
+2026-02-13 12:04:29.080 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./README.md
+2026-02-13 12:04:29.080 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./LICENCE.txt
+2026-02-13 12:04:29.080 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/body.obj
+2026-02-13 12:04:29.080 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.gitignore
+2026-02-13 12:04:29.081 [info] syncing batch of 18 files and 373027 bytes
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/Doge.tscn
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/Screenshot.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-icon.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/texture_10.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-body.glb.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/Wheel.glb.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-body_UCB_BOTTOM_nrm.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-body_UCB_BOTTOM_DIF.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-body_Numberplates_dif.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/Wheel_RIMMUSCLE_01_NRM.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-body_Riverside88_lights_dif.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/Wheel_RIMMUSCLE_01_DIF.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-body_UCB_GLASS_CLEAN_dif.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-body_GENERIC_BADGES_DIF.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/doge-body_GEN4DR_INTERIOR_dif.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/body inside.obj
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/Doge/Wheel_RIMMUSCLE_01_MET-RIMMUSCLE_01_ROUGH.png.import
+2026-02-13 12:04:31.305 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./assets/test assets/ae WHEEL.obj
+2026-02-13 12:04:31.307 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:04:31.515 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 12:04:31.884 [info] Finished indexing repository.
+2026-02-13 12:04:31.884 [info] Indexing job successfully done or aborted.
+2026-02-13 12:04:50.991 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/dieno/projects/race-it/.gitmodules')
+2026-02-13 12:09:45.775 [info] multiCodebaseIndexingJob dispose
+2026-02-13 12:09:45.776 [info] Aborting indexing job.
+2026-02-13 12:09:45.776 [info] Setting global status from status tracker: synced
+2026-02-13 12:09:45.776 [info] Doing a startup handshake.
+2026-02-13 12:09:45.787 [info] Finished computing merkle tree in 5.736096000298858 ms.
+2026-02-13 12:09:45.789 [info] Doing the initial handshake with hash: e504b45e2558430eae1fab884878e87423379fb8be96a0ed554915b5f41bebd0
+2026-02-13 12:09:45.791 [info] Computed simhash vector of length: 256
+2026-02-13 12:09:45.791 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 12:09:45.791 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:09:45.792 [info] Handshake start
+2026-02-13 12:09:46.025 [info] Handshake timing: 233.2728220000863, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"7ed4b6da-0b96-4607-b2f6-f9d772468193","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 12:09:46.025 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"7ed4b6da-0b96-4607-b2f6-f9d772468193","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 12:09:46.026 [info] Starting fast remote sync.
+2026-02-13 12:09:46.027 [info] Total num embeddable files: 52
+2026-02-13 12:09:46.028 [info] Root hash: e504b45e2558430eae1fab884878e87423379fb8be96a0ed554915b5f41bebd0
+2026-02-13 12:09:46.028 [info] In the out of sync case.
+2026-02-13 12:09:46.033 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:46.230 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:46.431 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:46.630 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:46.831 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:47.033 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:47.232 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:47.433 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:47.632 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:47.834 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:48.031 [info] Waiting on semaphore to be released 1
+2026-02-13 12:09:48.233 [info] setting numJobsToGo to 7
+2026-02-13 12:09:48.233 [info] [startSync]: numJobs: 7
+2026-02-13 12:09:48.234 [info] Uploading 7 files.
+2026-02-13 12:09:48.239 [info] Total number of files to embed: 52
+2026-02-13 12:09:48.239 [info] Not aborted
+2026-02-13 12:09:48.240 [info] Starting while loop.
+2026-02-13 12:09:48.246 [info] syncing batch of 2 files and 11852 bytes
+2026-02-13 12:09:50.755 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/BaseCar.gd
+2026-02-13 12:09:50.755 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/Hud.gd
+2026-02-13 12:09:50.760 [info] syncing batch of 4 files and 8762 bytes
+2026-02-13 12:09:52.824 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/BaseCar.tscn
+2026-02-13 12:09:52.824 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/camera/CameraFollow.gd
+2026-02-13 12:09:52.824 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/scene_groups_cache.cfg
+2026-02-13 12:09:52.824 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/global_script_class_cache.cfg
+2026-02-13 12:09:53.747 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/editor/filesystem_update4
+2026-02-13 12:09:53.753 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:09:54.058 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 12:09:54.410 [info] Finished indexing repository.
+2026-02-13 12:09:54.410 [info] Indexing job successfully done or aborted.
+2026-02-13 12:15:08.776 [info] multiCodebaseIndexingJob dispose
+2026-02-13 12:15:08.776 [info] Aborting indexing job.
+2026-02-13 12:15:08.776 [info] Setting global status from status tracker: synced
+2026-02-13 12:15:08.776 [info] Doing a startup handshake.
+2026-02-13 12:15:08.784 [info] Finished computing merkle tree in 3.742959000170231 ms.
+2026-02-13 12:15:08.785 [info] Doing the initial handshake with hash: 4b0a969907f79e95f8f0ec151bab872af2b0244d5b7fc9453d35de82e74bf607
+2026-02-13 12:15:08.786 [info] Computed simhash vector of length: 256
+2026-02-13 12:15:08.786 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 12:15:08.787 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:15:08.789 [info] Handshake start
+2026-02-13 12:15:09.039 [info] Handshake timing: 250.78421199973673, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"7ed4b6da-0b96-4607-b2f6-f9d772468193","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 12:15:09.039 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"7ed4b6da-0b96-4607-b2f6-f9d772468193","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 12:15:09.039 [info] Starting fast remote sync.
+2026-02-13 12:15:09.040 [info] Total num embeddable files: 94
+2026-02-13 12:15:09.041 [info] Root hash: 4b0a969907f79e95f8f0ec151bab872af2b0244d5b7fc9453d35de82e74bf607
+2026-02-13 12:15:09.041 [info] In the out of sync case.
+2026-02-13 12:15:09.044 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:09.241 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:09.442 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:09.643 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:09.846 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:09.846 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-13 12:15:10.044 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:10.247 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:10.247 [info] [startSync]: sending sync merkle subtree batch of size 2
+2026-02-13 12:15:10.445 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:10.648 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:10.845 [info] Waiting on semaphore to be released 1
+2026-02-13 12:15:11.047 [info] setting numJobsToGo to 9
+2026-02-13 12:15:11.047 [info] [startSync]: numJobs: 9
+2026-02-13 12:15:11.047 [info] Uploading 9 files.
+2026-02-13 12:15:11.048 [info] Total number of files to embed: 94
+2026-02-13 12:15:11.048 [info] Not aborted
+2026-02-13 12:15:11.048 [info] Starting while loop.
+2026-02-13 12:15:11.054 [info] syncing batch of 2 files and 11458 bytes
+2026-02-13 12:15:13.489 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/BaseCar.gd
+2026-02-13 12:15:13.489 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/camera/CameraFollow.gd
+2026-02-13 12:15:13.490 [info] syncing batch of 4 files and 2584 bytes
+2026-02-13 12:15:14.515 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/editor/BaseCar.gd-folding-8b856b2091572f216b46c3a1f404de06.cfg
+2026-02-13 12:15:14.515 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/editor/CameraFollow.gd-folding-82db03a164b211c8a4db800107f6aa36.cfg
+2026-02-13 12:15:14.515 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/editor/editor_layout.cfg
+2026-02-13 12:15:14.515 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/editor/project_metadata.cfg
+2026-02-13 12:15:14.517 [info] syncing batch of 3 files and 5375 bytes
+2026-02-13 12:15:15.599 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/editor/race_2.tscn-editstate-d4d4115dafaa847d5306f8470954e741.cfg
+2026-02-13 12:15:15.599 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/editor/race_2.tscn-folding-d4d4115dafaa847d5306f8470954e741.cfg
+2026-02-13 12:15:15.599 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./.godot/editor/script_editor_cache.cfg
+2026-02-13 12:15:15.602 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:15:15.804 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 12:15:16.204 [info] Finished indexing repository.
+2026-02-13 12:15:16.204 [info] Indexing job successfully done or aborted.
+2026-02-13 12:20:29.575 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/dieno/projects/race-it/.gitmodules')
+2026-02-13 12:20:31.775 [info] multiCodebaseIndexingJob dispose
+2026-02-13 12:20:31.775 [info] Aborting indexing job.
+2026-02-13 12:20:31.775 [info] Setting global status from status tracker: synced
+2026-02-13 12:20:31.775 [info] Doing a startup handshake.
+2026-02-13 12:20:31.781 [info] Finished computing merkle tree in 5.278800000436604 ms.
+2026-02-13 12:20:31.782 [info] Doing the initial handshake with hash: 6f52e62e5e3a56e3b59a847f1a1cd713bd13b6afd70b24964c299e4dd17950e8
+2026-02-13 12:20:31.782 [info] Computed simhash vector of length: 256
+2026-02-13 12:20:31.782 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-13 12:20:31.782 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:20:31.783 [info] Handshake start
+2026-02-13 12:20:31.999 [info] Handshake timing: 216.28421299997717, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"7ed4b6da-0b96-4607-b2f6-f9d772468193","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 12:20:31.999 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"7ed4b6da-0b96-4607-b2f6-f9d772468193","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-13 12:20:31.999 [info] Starting fast remote sync.
+2026-02-13 12:20:32.000 [info] Total num embeddable files: 48
+2026-02-13 12:20:32.000 [info] Root hash: 6f52e62e5e3a56e3b59a847f1a1cd713bd13b6afd70b24964c299e4dd17950e8
+2026-02-13 12:20:32.000 [info] In the out of sync case.
+2026-02-13 12:20:32.002 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:32.201 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:32.401 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:32.602 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:32.801 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:33.002 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:33.201 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:33.402 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:33.602 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:33.803 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:34.003 [info] Waiting on semaphore to be released 1
+2026-02-13 12:20:34.203 [info] setting numJobsToGo to 1
+2026-02-13 12:20:34.204 [info] [startSync]: numJobs: 1
+2026-02-13 12:20:34.783 [info] Uploading 1 files.
+2026-02-13 12:20:34.784 [info] Total number of files to embed: 48
+2026-02-13 12:20:34.784 [info] Not aborted
+2026-02-13 12:20:34.784 [info] Starting while loop.
+2026-02-13 12:20:36.739 [info] Completed job successfully: 7ed4b6da-0b96-4607-b2f6-f9d772468193 ./game/cars/camera/CameraFollow.gd
+2026-02-13 12:20:36.740 [info] Found 1 git remote(s) in workspace
+2026-02-13 12:20:36.927 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-13 12:20:37.336 [info] Finished indexing repository.
+2026-02-13 12:20:37.336 [info] Indexing job successfully done or aborted.
+2026-02-13 12:25:35.324 [info] multiCodebaseIndexingJob dispose
+2026-02-13 12:25:35.324 [info] Aborting indexing job.

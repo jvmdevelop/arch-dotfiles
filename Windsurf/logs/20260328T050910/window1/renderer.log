@@ -1,0 +1,130 @@
+2026-03-28 05:09:12.470 [info] Started local extension host with pid 147775.
+2026-03-28 05:09:12.537 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-03-28 05:09:13.432 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2026-03-28 05:09:13.528 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-03-28 05:09:13.711 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at J6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-03-28 05:09:14.094 [info] [DiffZone] Watching repo: scm0
+2026-03-28 05:09:14.095 [info] [DiffZone] No historyProvider for scm0
+2026-03-28 05:09:14.100 [info] [DiffZone] No revision for scm0
+2026-03-28 05:09:14.242 [info] [DiffZone] Revision for scm0: f33e9a1, prev: none
+2026-03-28 05:09:16.182 [info] [perf] Render performance baseline is 14ms
+2026-03-28 05:09:17.337 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-28 05:09:44.128 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2026-03-28 05:09:44.741 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/dieno/projects/legis-entropy/src/legal_analyzer.py 
+2026-03-28 05:09:45.447 [info] Started local extension host with pid 149184.
+2026-03-28 05:09:45.503 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2026-03-28 05:09:45.884 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-03-28 05:09:46.104 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at J6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-03-28 05:09:48.283 [info] [perf] Render performance baseline is 24ms
+2026-03-28 05:09:49.731 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-28 05:10:52.900 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-03-28 05:11:25.028 [info] [DiffZone] Watching repo: scm0
+2026-03-28 05:11:25.028 [info] [DiffZone] No historyProvider for scm0
+2026-03-28 05:11:25.038 [info] [DiffZone] No revision for scm0
+2026-03-28 05:11:25.118 [info] [DiffZone] Revision for scm0: f33e9a1, prev: none
+2026-03-28 05:12:02.019 [warning] [backup tracker] suspended, ignoring unregister event file:///home/dieno/projects/legis-entropy/frontend/package.json 
+2026-03-28 05:12:03.071 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-03-28 05:12:03.170 [info] Started local extension host with pid 150623.
+2026-03-28 05:12:03.186 [error] Error: The editor could not be opened because the file was not found.
+    at $OWc.hc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:17191:97578)
+    at async $OWc.setInput (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:17191:96693)
+    at async $wlc.S (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1004:65280)
+    at async $wlc.L (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1004:63814)
+    at async $wlc.openEditor (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1004:62832)
+    at async vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1116:42322
+2026-03-28 05:12:03.604 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-03-28 05:12:03.864 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at J6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-03-28 05:12:04.525 [info] [DiffZone] Watching repo: scm0
+2026-03-28 05:12:04.525 [info] [DiffZone] No historyProvider for scm0
+2026-03-28 05:12:04.529 [info] [DiffZone] No revision for scm0
+2026-03-28 05:12:04.613 [info] [DiffZone] Revision for scm0: f33e9a1, prev: none
+2026-03-28 05:12:06.370 [info] [perf] Render performance baseline is 17ms
+2026-03-28 05:12:07.517 [error] An unknown error occurred. Please consult the log for more details.
+2026-03-28 06:03:08.182 [info] [DiffZone] Revision for scm0: a8f273f, prev: f33e9a1

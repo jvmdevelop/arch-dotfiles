@@ -1,0 +1,114 @@
+2026-02-25 08:10:28.987 [info] 	crepectlPath: /usr/share/cursor/resources/app/resources/helpers/crepectl
+2026-02-25 08:10:28.987 [info] Initializing GrepClient
+2026-02-25 08:10:28.987 [info] FileSystemWatcherService: Registered client (total: 1)
+2026-02-25 08:10:28.987 [info] FileSystemWatcherService: Creating filesystem watcher...
+2026-02-25 08:10:28.987 [info] FileSystemWatcherService: Filesystem watcher created
+2026-02-25 08:10:28.987 [info] GrepClient initialized successfully
+2026-02-25 08:10:28.987 [info] using external crepectl binary at '/usr/share/cursor/resources/app/resources/helpers/crepectl'
+2026-02-25 08:10:28.987 [info] initialized head tracking (current branch = 'master', current commit = d48172eda438b0dab7bb45765a4f81fff4a35c87)
+2026-02-25 08:10:28.987 [info] bootstrapping repository index at '/home/dieno/projects/walto-backend' (cache_path=/home/dieno/projects/walto-backend/.git/cursor/crepe)
+2026-02-25 08:10:28.987 [info] looking for best possible index (current_sha=d48172eda438b0dab7bb45765a4f81fff4a35c87)
+2026-02-25 08:10:28.987 [info] candidate index /home/dieno/projects/walto-backend/.git/cursor/crepe/d48172eda438b0dab7bb45765a4f81fff4a35c87 is 0 commits away
+2026-02-25 08:10:28.987 [info] loading index for commit d48172eda438b0dab7bb45765a4f81fff4a35c87
+2026-02-25 08:10:28.987 [info] reset index to head in 4.970214ms: 0 documents in commit, 2 in worktree
+2026-02-25 08:10:28.987 [info] index OK in 6.512923ms
+2026-02-25 08:11:53.740 [info] getTrackedState in 0.8523830000049202ms
+2026-02-25 08:11:53.740 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:12:12.886 [info] queryContent for '' in 1.1807720000069821ms
+2026-02-25 08:12:56.428 [info] getTrackedState in 0.555547000025399ms
+2026-02-25 08:12:56.428 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:15:14.522 [info] dropped 5 file events from ignored files in 389.852µs (14 -> 9)
+2026-02-25 08:15:14.522 [info] refreshing index (9 stale documents detected)
+2026-02-25 08:15:14.523 [info] refreshed 9 new documents in 1.000474ms
+2026-02-25 08:15:14.739 [info] getTrackedState in 0.3691730000427924ms
+2026-02-25 08:15:14.739 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:15:21.205 [info] queryContent for 'OkHttpClient' in 3.506721000012476ms
+2026-02-25 08:18:03.767 [info] dropped 2 file events from ignored files in 766.845µs (4 -> 2)
+2026-02-25 08:18:03.767 [info] refreshing index (2 stale documents detected)
+2026-02-25 08:18:03.769 [info] refreshed 2 new documents in 1.619395ms
+2026-02-25 08:18:03.909 [info] getTrackedState in 0.36657100002048537ms
+2026-02-25 08:18:03.909 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:18:10.651 [info] queryContent for '' in 1.707819000002928ms
+2026-02-25 08:18:10.651 [info] queryContent for '' in 1.7614609999582171ms
+2026-02-25 08:18:10.651 [info] queryContent for '' in 2.2213120000087656ms
+2026-02-25 08:19:17.384 [info] dropped 1 file events from ignored files in 610.743µs (2 -> 1)
+2026-02-25 08:19:17.384 [info] refreshing index (1 stale documents detected)
+2026-02-25 08:19:17.386 [info] refreshed 1 new documents in 1.571904ms
+2026-02-25 08:19:17.508 [info] getTrackedState in 0.3062200000276789ms
+2026-02-25 08:19:17.508 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:19:41.754 [error] failed to run query: cannot use the grep cache to perform this query
+2026-02-25 08:19:41.754 [error] failed to run query: cannot use the grep cache to perform this query
+2026-02-25 08:19:41.754 [info] Unsupported query '//'
+2026-02-25 08:19:41.754 [info] Unsupported query '/\*'
+2026-02-25 08:19:41.754 [info] queryContent for '' in 3.65403299999889ms
+2026-02-25 08:20:13.452 [info] queryContent for 'DonateService' in 36.61603300005663ms
+2026-02-25 08:28:11.104 [info] dropped 1 file events from ignored files in 744.701µs (12 -> 11)
+2026-02-25 08:28:11.105 [info] refreshing index (11 stale documents detected)
+2026-02-25 08:28:11.106 [info] refreshed 11 new documents in 1.342268ms
+2026-02-25 08:28:11.403 [info] getTrackedState in 7.279100000159815ms
+2026-02-25 08:28:11.403 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:29:06.748 [info] getTrackedState in 0.31670200009830296ms
+2026-02-25 08:29:06.748 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:29:19.476 [info] getTrackedState in 0.2255639999639243ms
+2026-02-25 08:29:19.476 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:29:26.626 [info] queryContent for '' in 0.7143449999857694ms
+2026-02-25 08:32:32.115 [info] expanded 6 directories into 25 file events
+2026-02-25 08:32:32.115 [info] dropped 0 file events from ignored files in 436.217µs (14 -> 14)
+2026-02-25 08:32:32.115 [info] refreshing index (14 stale documents detected)
+2026-02-25 08:32:32.117 [info] refreshed 14 new documents in 2.217718ms
+2026-02-25 08:32:32.467 [info] getTrackedState in 11.039404000155628ms
+2026-02-25 08:32:32.467 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:33:13.188 [info] expanded 829 directories into 75007 file events
+2026-02-25 08:33:13.538 [info] dropped 3271 file events from ignored files in 350.547287ms (36241 -> 32970)
+2026-02-25 08:33:13.539 [info] found 32970 pending documents; triggering a reset
+2026-02-25 08:33:13.539 [info] FORCE resetting index
+2026-02-25 08:33:13.539 [info] bootstrapping repository index at '/home/dieno/projects/walto-backend' (cache_path=/home/dieno/projects/walto-backend/.git/cursor/crepe)
+2026-02-25 08:33:13.545 [info] looking for best possible index (current_sha=d48172eda438b0dab7bb45765a4f81fff4a35c87)
+2026-02-25 08:33:13.545 [info] candidate index /home/dieno/projects/walto-backend/.git/cursor/crepe/d48172eda438b0dab7bb45765a4f81fff4a35c87 is 0 commits away
+2026-02-25 08:33:13.546 [info] loading index for commit d48172eda438b0dab7bb45765a4f81fff4a35c87
+2026-02-25 08:33:13.602 [error] failed to reset index: TooManyUntracked(16681)
+2026-02-25 08:33:28.682 [info] expanded 17 directories into 141 file events
+2026-02-25 08:33:28.683 [info] dropped 0 file events from ignored files in 1.117407ms (57 -> 57)
+2026-02-25 08:35:31.066 [info] getTrackedState in 0.2813540000934154ms
+2026-02-25 08:35:31.066 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:40:09.973 [info] expanded 1 directories into 2 file events
+2026-02-25 08:40:10.127 [info] getTrackedState in 0.40959900012239814ms
+2026-02-25 08:40:10.127 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:41:34.270 [info] getTrackedState in 1.8196870000101626ms
+2026-02-25 08:41:34.270 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:43:18.500 [info] expanded 154 directories into 4248 file events
+2026-02-25 08:43:18.532 [info] dropped 91 file events from ignored files in 32.164303ms (3685 -> 3594)
+2026-02-25 08:43:18.532 [info] found 3594 pending documents; triggering a reset
+2026-02-25 08:43:18.532 [info] FORCE resetting index
+2026-02-25 08:43:18.532 [info] bootstrapping repository index at '/home/dieno/projects/walto-backend' (cache_path=/home/dieno/projects/walto-backend/.git/cursor/crepe)
+2026-02-25 08:43:18.532 [info] looking for best possible index (current_sha=d48172eda438b0dab7bb45765a4f81fff4a35c87)
+2026-02-25 08:43:18.532 [info] candidate index /home/dieno/projects/walto-backend/.git/cursor/crepe/d48172eda438b0dab7bb45765a4f81fff4a35c87 is 0 commits away
+2026-02-25 08:43:18.532 [info] loading index for commit d48172eda438b0dab7bb45765a4f81fff4a35c87
+2026-02-25 08:43:18.616 [error] failed to reset index: TooManyUntracked(18038)
+2026-02-25 08:43:36.817 [info] expanded 13 directories into 79 file events
+2026-02-25 08:43:36.817 [info] dropped 0 file events from ignored files in 588.434µs (61 -> 61)
+2026-02-25 08:44:46.316 [info] getTrackedState in 0.24566200003027916ms
+2026-02-25 08:44:46.316 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:47:21.878 [info] getTrackedState in 0.42909099999815226ms
+2026-02-25 08:47:21.878 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:48:34.084 [info] dropped 0 file events from ignored files in 598.07µs (33 -> 33)
+2026-02-25 08:48:34.284 [info] getTrackedState in 0.30614699982106686ms
+2026-02-25 08:48:34.284 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:50:18.207 [info] dropped 0 file events from ignored files in 799.516µs (8 -> 8)
+2026-02-25 08:50:18.354 [info] getTrackedState in 0.5135139999911189ms
+2026-02-25 08:50:18.354 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:53:28.017 [info] dropped 0 file events from ignored files in 714.109µs (47 -> 47)
+2026-02-25 08:53:28.170 [info] getTrackedState in 10.660972000099719ms
+2026-02-25 08:53:28.170 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:55:05.287 [info] dropped 0 file events from ignored files in 753.297µs (29 -> 29)
+2026-02-25 08:55:05.497 [info] getTrackedState in 0.6149229998700321ms
+2026-02-25 08:55:05.497 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:56:23.266 [info] getTrackedState in 0.4430899997241795ms
+2026-02-25 08:56:23.266 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:57:38.360 [info] dropped 0 file events from ignored files in 415.719µs (52 -> 52)
+2026-02-25 08:59:32.685 [info] dropped 0 file events from ignored files in 300.959µs (42 -> 42)
+2026-02-25 08:59:32.862 [info] getTrackedState in 0.34503600001335144ms
+2026-02-25 08:59:32.862 [info] 	/home/dieno/projects/walto-backend: git_status: true, git_branch_name: true
+2026-02-25 08:59:45.944 [info] FileSystemWatcherService: Disposing filesystem watcher...
+2026-02-25 08:59:45.944 [info] FileSystemWatcherService: Filesystem watcher disposed
+2026-02-25 08:59:45.944 [info] FileSystemWatcherService: Unregistered client (total: 0)

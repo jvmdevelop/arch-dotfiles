@@ -1,0 +1,177 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: #f8f6fa;
+  --foreground: #1a0e24;
+  --card: #ffffff;
+  --card-foreground: #1a0e24;
+  --popover: #ffffff;
+  --popover-foreground: #1a0e24;
+  --primary: #11004e;
+  --primary-foreground: #f0e8f5;
+  --secondary: #ede6f3;
+  --secondary-foreground: #2a1538;
+  --muted: #e8e0ef;
+  --muted-foreground: #5c4470;
+  --accent: #4a2d5e;
+  --accent-foreground: #f0e8f5;
+  --destructive: #b91c1c;
+  --destructive-foreground: #fef2f2;
+  --border: #d4c6e0;
+  --input: #d4c6e0;
+  --ring: #381E49;
+  --chart-1: #381E49;
+  --chart-2: #4a2d5e;
+  --chart-3: #5c3d73;
+  --chart-4: #6e4d88;
+  --chart-5: #805d9d;
+  --radius: 0.625rem;
+  --sidebar: #f0e8f5;
+  --sidebar-foreground: #1a0e24;
+  --sidebar-primary: #381E49;
+  --sidebar-primary-foreground: #f0e8f5;
+  --sidebar-accent: #ede6f3;
+  --sidebar-accent-foreground: #2a1538;
+  --sidebar-border: #d4c6e0;
+  --sidebar-ring: #381E49;
+}
+
+.dark {
+  --background: #0d0714;
+  --foreground: #e8dff0;
+  --card: #150e1f;
+  --card-foreground: #e8dff0;
+  --popover: #150e1f;
+  --popover-foreground: #e8dff0;
+  --primary: #040139;
+  --primary-foreground: #f0e8f5;
+  --secondary: #1f1430;
+  --secondary-foreground: #d4c6e0;
+  --muted: #1f1430;
+  --muted-foreground: #8b72a0;
+  --accent: #2a1538;
+  --accent-foreground: #e8dff0;
+  --destructive: #7f1d1d;
+  --destructive-foreground: #fecaca;
+  --border: #2a1538;
+  --input: #2a1538;
+  --ring: #6e4d88;
+  --chart-1: #6e4d88;
+  --chart-2: #805d9d;
+  --chart-3: #9270b2;
+  --chart-4: #a483c7;
+  --chart-5: #b696dc;
+  --sidebar: #150e1f;
+  --sidebar-foreground: #e8dff0;
+  --sidebar-primary: #6e4d88;
+  --sidebar-primary-foreground: #f0e8f5;
+  --sidebar-accent: #1f1430;
+  --sidebar-accent-foreground: #e8dff0;
+  --sidebar-border: #2a1538;
+  --sidebar-ring: #8e00ff;
+}
+
+@theme inline {
+  --font-sans: var(--font-pixelify), 'Pixelify Sans', sans-serif;
+  --font-mono: var(--font-jetbrains), 'JetBrains Mono', monospace;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@keyframes orbit {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes orbit-wavy {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes orbit-wavy-reverse {
+  from {
+    transform: rotate(360deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.animate-orbit {
+  animation: orbit 3s linear infinite;
+}
+
+.animate-orbit-wavy {
+  animation: orbit-wavy 4s linear infinite;
+}
+
+.animate-orbit-wavy-reverse {
+  animation: orbit-wavy-reverse 6s linear infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}

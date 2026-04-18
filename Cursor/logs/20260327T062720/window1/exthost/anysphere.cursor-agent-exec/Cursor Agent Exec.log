@@ -1,0 +1,35 @@
+2026-03-27 06:27:27.350 [info] rg_diagnostics.startup {"rgPath":"/usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg","rgPathExists":true,"rgParentDirExists":true,"platform":"linux","arch":"x64","nodeVersion":"v22.22.1","extensionPath":"/usr/share/cursor/resources/app/extensions/cursor-agent-exec","execPath":"/usr/share/cursor/cursor","uiKind":"desktop","rgFileSize":5416872,"rgFileMode":"100755","rgIsFile":true,"parentDirContents":["rg"],"grandparentDirExists":true,"grandparentDirContents":["LICENSE","bin","build","jsconfig.json","lib","node_modules","package.json"]}
+2026-03-27 06:27:27.350 [info] cursor_agent_exec.startup.workspace_paths {"workspacePathCount":0,"workspacePaths":[]}
+2026-03-27 06:27:27.394 [info] cloud_agent_plugins: initializing CursorPluginsAgentSkillsService {"importThirdPartyPlugins":true}
+2026-03-27 06:27:27.394 [info] cloud_agent_plugins: loading plugin-backed agent skills {"reloadPlugins":false,"importThirdPartyPlugins":true}
+2026-03-27 06:27:28.670 [info] cloud_agent_plugins: fetched plugins for CursorPluginsAgentSkillsService {"reloadPlugins":false,"originalPluginCount":0,"plugins":[]}
+2026-03-27 06:27:28.670 [info] cloud_agent_plugins: translated plugin skills and rules {"translatedSkillCount":0,"translatedRuleCount":0}
+2026-03-27 06:27:28.670 [info] cloud_agent_plugins: built plugin-backed cursor rules and agent skills {"cursorRuleCount":0,"agentSkillCount":0}
+2026-03-27 06:27:28.678 [info] cloud_agent_plugins: reloading CursorPluginsAgentSkillsService {"importThirdPartyPlugins":true}
+2026-03-27 06:27:28.678 [info] cloud_agent_plugins: loading plugin-backed agent skills {"reloadPlugins":true,"importThirdPartyPlugins":true}
+2026-03-27 06:27:28.679 [info] cloud_agent_plugins: reloading CursorPluginsAgentSkillsService {"importThirdPartyPlugins":true}
+2026-03-27 06:27:28.679 [info] cloud_agent_plugins: loading plugin-backed agent skills {"reloadPlugins":true,"importThirdPartyPlugins":true}
+2026-03-27 06:27:29.561 [info] cloud_agent_plugins: fetched plugins for CursorPluginsAgentSkillsService {"reloadPlugins":true,"originalPluginCount":0,"plugins":[]}
+2026-03-27 06:27:29.561 [info] cloud_agent_plugins: translated plugin skills and rules {"translatedSkillCount":0,"translatedRuleCount":0}
+2026-03-27 06:27:29.561 [info] cloud_agent_plugins: built plugin-backed cursor rules and agent skills {"cursorRuleCount":0,"agentSkillCount":0}
+2026-03-27 06:27:29.561 [info] cloud_agent_plugins: fetched plugins for CursorPluginsAgentSkillsService {"reloadPlugins":true,"originalPluginCount":0,"plugins":[]}
+2026-03-27 06:27:29.561 [info] cloud_agent_plugins: translated plugin skills and rules {"translatedSkillCount":0,"translatedRuleCount":0}
+2026-03-27 06:27:29.561 [info] cloud_agent_plugins: built plugin-backed cursor rules and agent skills {"cursorRuleCount":0,"agentSkillCount":0}
+2026-03-27 07:11:08.286 [info] rg_diagnostics.startup {"rgPath":"/usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg","rgPathExists":true,"rgParentDirExists":true,"platform":"linux","arch":"x64","nodeVersion":"v22.22.1","extensionPath":"/usr/share/cursor/resources/app/extensions/cursor-agent-exec","execPath":"/usr/share/cursor/cursor","uiKind":"desktop","rgFileSize":5416872,"rgFileMode":"100755","rgIsFile":true,"parentDirContents":["rg"],"grandparentDirExists":true,"grandparentDirContents":["LICENSE","bin","build","jsconfig.json","lib","node_modules","package.json"]}
+2026-03-27 07:11:08.286 [info] cursor_agent_exec.startup.workspace_paths {"workspacePathCount":1,"workspacePaths":["/home/dieno/projects/legis-entropy"]}
+2026-03-27 07:11:08.286 [info] cloud_agent_plugins: initializing CursorPluginsAgentSkillsService {"importThirdPartyPlugins":true}
+2026-03-27 07:11:08.286 [info] cloud_agent_plugins: loading plugin-backed agent skills {"reloadPlugins":false,"importThirdPartyPlugins":true}
+2026-03-27 07:11:09.643 [info] cloud_agent_plugins: fetched plugins for CursorPluginsAgentSkillsService {"reloadPlugins":false,"originalPluginCount":0,"plugins":[]}
+2026-03-27 07:11:09.643 [info] cloud_agent_plugins: translated plugin skills and rules {"translatedSkillCount":0,"translatedRuleCount":0}
+2026-03-27 07:11:09.643 [info] cloud_agent_plugins: built plugin-backed cursor rules and agent skills {"cursorRuleCount":0,"agentSkillCount":0}
+2026-03-27 07:11:09.653 [info] cloud_agent_plugins: reloading CursorPluginsAgentSkillsService {"importThirdPartyPlugins":true}
+2026-03-27 07:11:09.653 [info] cloud_agent_plugins: loading plugin-backed agent skills {"reloadPlugins":true,"importThirdPartyPlugins":true}
+2026-03-27 07:11:09.659 [info] cloud_agent_plugins: reloading CursorPluginsAgentSkillsService {"importThirdPartyPlugins":true}
+2026-03-27 07:11:09.659 [info] cloud_agent_plugins: loading plugin-backed agent skills {"reloadPlugins":true,"importThirdPartyPlugins":true}
+2026-03-27 07:11:10.434 [info] cloud_agent_plugins: fetched plugins for CursorPluginsAgentSkillsService {"reloadPlugins":true,"originalPluginCount":0,"plugins":[]}
+2026-03-27 07:11:10.434 [info] cloud_agent_plugins: translated plugin skills and rules {"translatedSkillCount":0,"translatedRuleCount":0}
+2026-03-27 07:11:10.434 [info] cloud_agent_plugins: built plugin-backed cursor rules and agent skills {"cursorRuleCount":0,"agentSkillCount":0}
+2026-03-27 07:11:10.434 [info] cloud_agent_plugins: fetched plugins for CursorPluginsAgentSkillsService {"reloadPlugins":true,"originalPluginCount":0,"plugins":[]}
+2026-03-27 07:11:10.434 [info] cloud_agent_plugins: translated plugin skills and rules {"translatedSkillCount":0,"translatedRuleCount":0}
+2026-03-27 07:11:10.434 [info] cloud_agent_plugins: built plugin-backed cursor rules and agent skills {"cursorRuleCount":0,"agentSkillCount":0}
+2026-03-27 07:48:44.859 [warning] Failed to sync managed skills from dashboard {"error":"ConnectError: [unauthenticated] User is unauthorized"}

@@ -1,0 +1,192 @@
+2026-03-27 08:19:03.267 [error] Error getting repo info: Failed to execute git
+2026-03-27 08:19:03.267 [error] Error: Failed to execute git
+	at x.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:4274439)
+	at Generator.next (<anonymous>)
+	at o (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:4272045)
+2026-03-27 08:19:03.418 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-03-27 08:19:03.418 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-03-27 08:19:03.418 [error] NoWorkspaceUriError
+2026-03-27 08:19:03.457 [error] Error getting repo info: Failed to execute git
+2026-03-27 08:19:03.458 [warning] Failed to get symbolic ref: Failed to execute git
+2026-03-27 08:19:03.462 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '.git/HEAD')
+2026-03-27 08:19:03.492 [warning] Failed to get branches from remote: Failed to execute git
+2026-03-27 08:19:03.493 [warning] Failed to get default branch from git config: Failed to execute git
+2026-03-27 08:20:11.032 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-03-27 08:20:11.032 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-03-27 08:20:11.036 [info] Making keys for a new index
+2026-03-27 08:20:11.045 [info] Using the default key from the server for a new index
+2026-03-27 08:20:11.045 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-03-27 08:20:11.087 [info] Starting RepoIndexWatcher for repo: 812deed3-9353-404d-bd5c-c56da7d1015d, owner: auth0|user_01KMQKNXZJKJ1S17YSCA7CA5X0
+2026-03-27 08:20:11.087 [info] Doing a startup handshake.
+2026-03-27 08:20:11.108 [info] Finished computing merkle tree in 5.324849999999969 ms.
+2026-03-27 08:20:11.109 [info] Doing the initial handshake with hash: ada60988e9186e50641ce0575719d3e2e737a3ed57f8bfccd5f38ae92f3173d5
+2026-03-27 08:20:11.109 [info] Computed simhash vector of length: 256
+2026-03-27 08:20:11.109 [info] Path key hash: 7ccc1057a7256b4548fa32f08679cd0a6e0c7e9e5eb2e6696323551b7fc174ff
+2026-03-27 08:20:11.111 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/dieno/.config/Cursor/User/workspaceStorage/2d98c5cd28138c698e23c91d489680ab/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2026-03-27 08:20:11.112 [info] Found 1 git remote(s) in workspace
+2026-03-27 08:20:11.143 [info] Handshake start
+2026-03-27 08:20:11.901 [warning] Error computing full high level folder description. Ignoring. [unauthenticated] User is unauthorized
+2026-03-27 08:20:13.845 [warning] Retrying handshake with timeout 4000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:20:13.845 [info] Handshake start
+2026-03-27 08:20:18.123 [warning] Retrying handshake with timeout 8000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:20:18.123 [info] Handshake start
+2026-03-27 08:20:26.320 [warning] Retrying handshake with timeout 16000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:20:26.320 [info] Handshake start
+2026-03-27 08:20:42.515 [warning] Retrying handshake with timeout 32000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:20:42.515 [info] Handshake start
+2026-03-27 08:21:14.726 [warning] Retrying handshake with timeout 64000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:21:14.726 [info] Handshake start
+2026-03-27 08:22:18.917 [warning] Retrying handshake with timeout 128000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:22:18.918 [error] Handshake failed:
+2026-03-27 08:22:18.919 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:772461)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:767362)
+	at async J.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3503070)
+	at async J.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3505605)
+2026-03-27 08:22:18.920 [error] Handshake failed.
+2026-03-27 08:22:18.920 [info] Indexing job successfully done or aborted.
+2026-03-27 08:24:50.088 [info] multiCodebaseIndexingJob dispose
+2026-03-27 08:24:50.088 [info] Aborting indexing job.
+2026-03-27 08:24:50.088 [info] Doing a startup handshake.
+2026-03-27 08:24:50.102 [info] Finished computing merkle tree in 7.929675999970641 ms.
+2026-03-27 08:24:50.104 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-03-27 08:24:50.104 [info] Computed simhash vector of length: 0
+2026-03-27 08:24:50.104 [info] Path key hash: 7ccc1057a7256b4548fa32f08679cd0a6e0c7e9e5eb2e6696323551b7fc174ff
+2026-03-27 08:24:50.106 [info] Found 1 git remote(s) in workspace
+2026-03-27 08:24:50.108 [info] Handshake start
+2026-03-27 08:24:52.300 [warning] Retrying handshake with timeout 4000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:24:52.300 [info] Handshake start
+2026-03-27 08:24:56.552 [warning] Retrying handshake with timeout 8000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:24:56.552 [info] Handshake start
+2026-03-27 08:25:04.853 [warning] Retrying handshake with timeout 16000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:25:04.854 [info] Handshake start
+2026-03-27 08:25:21.148 [warning] Retrying handshake with timeout 32000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:25:21.149 [info] Handshake start
+2026-03-27 08:25:53.347 [warning] Retrying handshake with timeout 64000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:25:53.347 [info] Handshake start
+2026-03-27 08:26:57.992 [warning] Retrying handshake with timeout 128000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:26:57.993 [error] Handshake failed:
+2026-03-27 08:26:57.993 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:772461)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:767362)
+	at async J.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3503070)
+	at async J.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3505605)
+2026-03-27 08:26:57.994 [error] Handshake failed.
+2026-03-27 08:26:57.994 [info] Indexing job successfully done or aborted.
+2026-03-27 08:29:29.087 [info] multiCodebaseIndexingJob dispose
+2026-03-27 08:29:29.087 [info] Aborting indexing job.
+2026-03-27 08:29:29.087 [info] Doing a startup handshake.
+2026-03-27 08:29:29.095 [info] Finished computing merkle tree in 3.0323220000136644 ms.
+2026-03-27 08:29:29.096 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-03-27 08:29:29.096 [info] Computed simhash vector of length: 0
+2026-03-27 08:29:29.096 [info] Path key hash: 7ccc1057a7256b4548fa32f08679cd0a6e0c7e9e5eb2e6696323551b7fc174ff
+2026-03-27 08:29:29.097 [info] Found 1 git remote(s) in workspace
+2026-03-27 08:29:29.099 [info] Handshake start
+2026-03-27 08:29:31.306 [warning] Retrying handshake with timeout 4000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:29:31.306 [info] Handshake start
+2026-03-27 08:29:35.595 [warning] Retrying handshake with timeout 8000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:29:35.595 [info] Handshake start
+2026-03-27 08:29:43.894 [warning] Retrying handshake with timeout 16000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:29:43.894 [info] Handshake start
+2026-03-27 08:30:00.191 [warning] Retrying handshake with timeout 32000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:30:00.191 [info] Handshake start
+2026-03-27 08:30:10.911 [info] Get user commits took 10.310761000029743ms for 75 commits
+2026-03-27 08:30:32.471 [warning] Retrying handshake with timeout 64000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:30:32.472 [info] Handshake start
+2026-03-27 08:31:36.726 [warning] Retrying handshake with timeout 128000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:31:36.726 [error] Handshake failed:
+2026-03-27 08:31:36.726 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:772461)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:767362)
+	at async J.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3503070)
+	at async J.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3505605)
+2026-03-27 08:31:36.727 [error] Handshake failed.
+2026-03-27 08:31:36.727 [info] Indexing job successfully done or aborted.
+2026-03-27 08:34:08.088 [info] multiCodebaseIndexingJob dispose
+2026-03-27 08:34:08.088 [info] Aborting indexing job.
+2026-03-27 08:34:08.088 [info] Doing a startup handshake.
+2026-03-27 08:34:08.095 [info] Finished computing merkle tree in 1.837100000004284 ms.
+2026-03-27 08:34:08.096 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-03-27 08:34:08.096 [info] Computed simhash vector of length: 0
+2026-03-27 08:34:08.096 [info] Path key hash: 7ccc1057a7256b4548fa32f08679cd0a6e0c7e9e5eb2e6696323551b7fc174ff
+2026-03-27 08:34:08.097 [info] Found 1 git remote(s) in workspace
+2026-03-27 08:34:08.099 [info] Handshake start
+2026-03-27 08:34:10.387 [warning] Retrying handshake with timeout 4000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:34:10.387 [info] Handshake start
+2026-03-27 08:34:15.034 [warning] Retrying handshake with timeout 8000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:34:15.034 [info] Handshake start
+2026-03-27 08:34:23.246 [warning] Retrying handshake with timeout 16000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:34:23.246 [info] Handshake start
+2026-03-27 08:34:39.542 [warning] Retrying handshake with timeout 32000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:34:39.542 [info] Handshake start
+2026-03-27 08:35:11.748 [warning] Retrying handshake with timeout 64000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:35:11.748 [info] Handshake start
+2026-03-27 08:36:15.976 [warning] Retrying handshake with timeout 128000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:36:15.976 [error] Handshake failed:
+2026-03-27 08:36:15.976 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:772461)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:767362)
+	at async J.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3503070)
+	at async J.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3505605)
+2026-03-27 08:36:15.977 [error] Handshake failed.
+2026-03-27 08:36:15.977 [info] Indexing job successfully done or aborted.
+2026-03-27 08:38:47.089 [info] multiCodebaseIndexingJob dispose
+2026-03-27 08:38:47.089 [info] Aborting indexing job.
+2026-03-27 08:38:47.089 [info] Doing a startup handshake.
+2026-03-27 08:38:47.096 [info] Finished computing merkle tree in 2.791824000189081 ms.
+2026-03-27 08:38:47.097 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-03-27 08:38:47.097 [info] Computed simhash vector of length: 0
+2026-03-27 08:38:47.097 [info] Path key hash: 7ccc1057a7256b4548fa32f08679cd0a6e0c7e9e5eb2e6696323551b7fc174ff
+2026-03-27 08:38:47.098 [info] Found 1 git remote(s) in workspace
+2026-03-27 08:38:47.099 [info] Handshake start
+2026-03-27 08:38:49.302 [warning] Retrying handshake with timeout 4000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:38:49.303 [info] Handshake start
+2026-03-27 08:38:53.577 [warning] Retrying handshake with timeout 8000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:38:53.577 [info] Handshake start
+2026-03-27 08:39:01.779 [warning] Retrying handshake with timeout 16000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:39:01.779 [info] Handshake start
+2026-03-27 08:39:17.978 [warning] Retrying handshake with timeout 32000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:39:17.978 [info] Handshake start
+2026-03-27 08:39:50.254 [warning] Retrying handshake with timeout 64000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:39:50.254 [info] Handshake start
+2026-03-27 08:40:10.914 [info] Get user commits took 17.945815999992192ms for 75 commits
+2026-03-27 08:40:55.121 [warning] Retrying handshake with timeout 128000. Error:  [unauthenticated] User is unauthorized
+2026-03-27 08:40:55.122 [error] Handshake failed:
+2026-03-27 08:40:55.122 [error] Error: timeout in handshake with retry
+	at t.RepoClientMultiplexer.tryHandshake (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:772461)
+	at async t.RepoClientMultiplexer.handshakeWithRetry (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:767362)
+	at async J.getServerStatus (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3503070)
+	at async J.startIndexingRepository (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:3505605)
+2026-03-27 08:40:55.122 [error] Handshake failed.
+2026-03-27 08:40:55.122 [info] Indexing job successfully done or aborted.
+2026-03-27 08:42:53.102 [info] multiCodebaseIndexingJob dispose
+2026-03-27 08:42:53.102 [info] Aborting indexing job.
+2026-03-27 08:42:53.102 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2026-03-27 08:42:57.148 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-03-27 08:42:57.148 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-03-27 08:42:57.149 [info] Using existing keys for an index
+2026-03-27 08:42:57.149 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-03-27 08:42:57.191 [info] Starting RepoIndexWatcher for repo: 812deed3-9353-404d-bd5c-c56da7d1015d, owner: google-oauth2|user_01KMQQA76TXTTDXCG6VR13NPC7
+2026-03-27 08:42:57.191 [info] Doing a startup handshake.
+2026-03-27 08:42:57.235 [info] Finished computing merkle tree in 4.116016000043601 ms.
+2026-03-27 08:42:57.235 [info] Doing the initial handshake with hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-03-27 08:42:57.235 [info] Computed simhash vector of length: 0
+2026-03-27 08:42:57.235 [info] Path key hash: 7ccc1057a7256b4548fa32f08679cd0a6e0c7e9e5eb2e6696323551b7fc174ff
+2026-03-27 08:42:57.236 [info] Found 1 git remote(s) in workspace
+2026-03-27 08:42:57.238 [info] Handshake start
+2026-03-27 08:42:57.952 [info] Handshake timing: 714.4542459999211, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5dd47cfc-3570-4087-8ecb-ba6a59685f1f","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2026-03-27 08:42:57.952 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5dd47cfc-3570-4087-8ecb-ba6a59685f1f","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2026-03-27 08:42:57.952 [info] Starting fast remote sync.
+2026-03-27 08:42:57.953 [info] Total num embeddable files: 0
+2026-03-27 08:42:57.953 [info] Root hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-03-27 08:42:57.953 [info] Starting repository upload from scratch.
+2026-03-27 08:42:57.954 [info] Uploading 0 files.
+2026-03-27 08:42:57.955 [info] Total number of files to embed: 0
+2026-03-27 08:42:57.955 [info] Not aborted
+2026-03-27 08:42:57.955 [info] Starting while loop.
+2026-03-27 08:42:57.955 [info] Found 1 git remote(s) in workspace
+2026-03-27 08:42:58.154 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-03-27 08:42:58.347 [info] Finished indexing repository.
+2026-03-27 08:42:58.347 [info] Indexing job successfully done or aborted.
+2026-03-27 08:45:42.301 [info] multiCodebaseIndexingJob dispose
+2026-03-27 08:45:42.301 [info] Aborting indexing job.

@@ -1,0 +1,16 @@
+2026-02-25 08:06:51.405 [info] Constructor: scheduling initial write
+2026-02-25 08:06:51.406 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-02-25 08:06:51.406 [info] fetchAndWrite clients: 
+2026-02-25 08:06:51.406 [info] Clearing mcps directory {"mcpsPath":"/home/dieno/.cursor/projects/tmp-d60f3dde-af3c-4bd9-807c-5b95c075c386/mcps"}
+2026-02-25 08:06:51.974 [info] Lease change event received
+2026-02-25 08:06:52.074 [info] fetchAndWrite: lease returned 0 tools across 1 clients
+2026-02-25 08:06:52.075 [info] fetchAndWrite clients: cursor-ide-browser(status=connected,tools=0,res=0)
+2026-02-25 08:06:52.076 [info] Clearing mcps directory {"mcpsPath":"/home/dieno/.cursor/projects/tmp-d60f3dde-af3c-4bd9-807c-5b95c075c386/mcps"}
+2026-02-25 08:07:00.968 [info] Constructor: scheduling initial write
+2026-02-25 08:07:00.968 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-02-25 08:07:00.968 [info] fetchAndWrite clients: 
+2026-02-25 08:07:01.498 [info] Incremental write: 0 changed, 0 removed, 0 unchanged
+2026-02-25 08:07:01.511 [info] Lease change event received
+2026-02-25 08:07:01.613 [info] fetchAndWrite: lease returned 0 tools across 1 clients
+2026-02-25 08:07:01.614 [info] fetchAndWrite clients: cursor-ide-browser(status=connected,tools=0,res=0)
+2026-02-25 08:07:01.615 [info] Incremental write: 1 changed, 0 removed, 0 unchanged

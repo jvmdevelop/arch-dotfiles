@@ -1,0 +1,24 @@
+2026-04-14 21:54:15.403 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"6b30f5ffcf42be62b066df08abc88923","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum","external":"file:///home/dieno/projects/lyceum","path":"/home/dieno/projects/lyceum","scheme":"file"}}}
+2026-04-14 21:54:15.403 [info] update#setState idle
+2026-04-14 21:54:45.393 [info] update#setState checking for updates
+2026-04-14 21:54:45.634 [info] update#setState available for download
+2026-04-14 21:57:22.100 [info] Extension host with pid 43746 exited with code: 0, signal: unknown.
+2026-04-14 21:57:22.130 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"6b30f5ffcf42be62b066df08abc88923","uri":{"$mid":1,"fsPath":"/home/dieno/projects/lyceum","external":"file:///home/dieno/projects/lyceum","path":"/home/dieno/projects/lyceum","scheme":"file"}}}
+2026-04-14 21:57:22.143 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state
+2026-04-14 21:57:22.154 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 43718]: crashed with code 15 and reason 'killed'
+2026-04-14 21:57:22.155 [error] === UTILITY PROCESS CRASH REPORT ===
+2026-04-14 21:57:22.155 [error] Time: 2026-04-14T16:57:22.155Z
+2026-04-14 21:57:22.155 [error] PID: 43718, Exit Code: 15 (Unknown exit code (15)), Reason: killed
+2026-04-14 21:57:22.155 [error] Process Type: fileWatcher
+2026-04-14 21:57:22.155 [error] Process ID: 1
+2026-04-14 21:57:22.155 [error] Entry Point: vs/platform/files/node/watcher/watcherMain
+2026-04-14 21:57:22.155 [error] Main Process Memory: RSS=327MB, Heap=16MB, External=4MB
+2026-04-14 21:57:22.155 [error] System Information:
+2026-04-14 21:57:22.155 [error]   - Node Version: v22.22.0
+2026-04-14 21:57:22.156 [error]   - Platform: linux_x64
+2026-04-14 21:57:22.156 [error]   - Electron Version: 39.5.2
+2026-04-14 21:57:22.156 [error] Active Utility Processes: 2 processes
+2026-04-14 21:57:22.156 [error] Sample Processes:
+2026-04-14 21:57:22.156 [error]   - shared-process (PID: 43717)
+2026-04-14 21:57:22.156 [error]   - pty-host (PID: 43779)
+2026-04-14 21:57:22.156 [error] === END UTILITY PROCESS CRASH REPORT ===

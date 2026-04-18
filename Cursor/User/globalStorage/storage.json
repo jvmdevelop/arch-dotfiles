@@ -1,0 +1,88 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "c541a4fcb16275391048fa5a468cba599d5514b3600b0ff1333b01b3da4f9594",
+    "telemetry.macMachineId": "2a269cd9762040f88312caba31572d6b5c6b398b25de0f0da5b04047da016751",
+    "telemetry.devDeviceId": "f675cc49-a863-4492-98c5-f64a25da7e39",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/dieno/legis-entropy"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1774617537074"
+            }
+        ]
+    },
+    "windowControlHeight": 29,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/dieno/projects/race-it": "__default__profile__",
+            "file:///home/dieno/projects/walto-backend": "__default__profile__",
+            "file:///home/dieno/projects/legis-entropy": "__default__profile__",
+            "file:///home/dieno/legis-entropy": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1774617537074": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#181818",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(228, 228, 228, 0.92)",
+            "background": "#181818",
+            "editorBackground": "#181818",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(228, 228, 228, 0.07)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(228, 228, 228, 0.07)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(228, 228, 228, 0.07)",
+            "statusBarNoFolderBackground": "#141414"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 214,
+            "auxiliarySideBarWidth": 892,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/dieno/legis-entropy",
+            "backupPath": "/home/dieno/.config/Cursor/Backups/f79acd8a905a395214a52df2343fc686",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080,
+                "zoomLevel": -1
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                892,
+                [
+                    "92bd1ba16aea43ff1f313b904236c6d4",
+                    "45077d89e3a220e4b6553cf9ed47e37a",
+                    "726bd548fbe129e724b91d7c4b4456ee",
+                    "2d98c5cd28138c698e23c91d489680ab"
+                ]
+            ]
+        }
+    }
+}

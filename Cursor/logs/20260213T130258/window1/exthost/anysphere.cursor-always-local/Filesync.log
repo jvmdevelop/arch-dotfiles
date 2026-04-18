@@ -1,0 +1,56 @@
+2026-02-13 13:03:02.629 [error] Failed to check if file sync is enabled for user {}
+2026-02-13 13:03:02.629 [error] Failed to fetch fsConfig File sync is disabled
+2026-02-13 13:03:02.629 [error] Failed to fetch fsConfig File sync is disabled
+2026-02-13 13:03:02.755 [info] [registerEventListeners] Registering event listeners
+2026-02-13 13:03:04.323 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-13 13:03:04.519 [info] Fetched fsConfig in 195.50716899999952ms
+2026-02-13 13:03:04.519 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-13 13:03:04.935 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-13 13:03:05.623 [info] Fetched fsConfig in 687.9672469999996ms
+2026-02-13 13:03:05.623 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-13 13:03:05.624 [info] File sync enabled status: true
+2026-02-13 13:03:05.624 [info] Starting sync of visible tabs
+2026-02-13 13:03:05.624 [info] Synced all visible tabs in 0.47536700000000565ms
+2026-02-13 13:03:05.745 [info] Starting sync of visible tabs
+2026-02-13 13:03:05.745 [info] Synced all visible tabs in 0.21687800000017887ms
+2026-02-13 13:03:05.958 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-02-13 13:03:06.171 [info] Fetched fsConfig in 211.7991549999997ms
+2026-02-13 13:03:06.171 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-02-13 13:07:15.170 [info] Uploaded file setup_android_sdk.sh modelVersion=2 in 953.095376000012ms
+2026-02-13 13:14:43.300 [info] Uploaded file install_sdk_components.sh modelVersion=2 in 998.1001170000527ms
+2026-02-13 13:14:51.287 [info] Synced file install_sdk_components.sh modelVersion=3 in 417.0358019999694ms
+2026-02-13 13:14:51.622 [info] Synced file install_sdk_components.sh modelVersion=4 in 347.0045229999814ms
+2026-02-13 13:14:59.489 [info] Handled visible editors change in 0.3011549999937415ms
+2026-02-13 13:14:59.647 [info] Handled visible editors change in 0.22498499997891486ms
+2026-02-13 13:15:00.640 [info] Handled visible editors change in 0.15492700005415827ms
+2026-02-13 13:15:00.656 [info] Handled visible editors change in 0.06583500001579523ms
+2026-02-13 13:15:00.759 [info] Handled visible editors change in 0.11997700005304068ms
+2026-02-13 13:15:00.761 [info] Handled visible editors change in 0.12260300002526492ms
+2026-02-13 13:15:00.762 [info] Handled visible editors change in 0.12108999991323799ms
+2026-02-13 13:15:00.764 [info] Handled visible editors change in 0.12286400003358722ms
+2026-02-13 13:15:00.766 [info] Handled visible editors change in 0.12411900004372001ms
+2026-02-13 13:15:00.768 [info] Handled visible editors change in 0.1143530000699684ms
+2026-02-13 13:15:00.769 [info] Handled visible editors change in 0.11227299994789064ms
+2026-02-13 13:15:00.771 [info] Handled visible editors change in 0.09817900008056313ms
+2026-02-13 13:15:00.772 [info] Handled visible editors change in 0.10017600003629923ms
+2026-02-13 13:15:00.774 [info] Handled visible editors change in 0.10464999999385327ms
+2026-02-13 13:15:00.777 [info] Handled visible editors change in 0.13025400007609278ms
+2026-02-13 13:15:00.780 [info] Handled visible editors change in 0.06401799991726875ms
+2026-02-13 13:15:00.783 [info] Handled visible editors change in 0.06898600002750754ms
+2026-02-13 13:15:00.786 [info] Handled visible editors change in 0.07424600003287196ms
+2026-02-13 13:15:00.789 [info] Handled visible editors change in 0.05265600001439452ms
+2026-02-13 13:15:05.631 [info] Handled visible editors change in 0.11695800011511892ms
+2026-02-13 13:15:05.632 [info] Handled visible editors change in 0.09940099995583296ms
+2026-02-13 13:15:05.633 [info] Handled visible editors change in 0.10064499999862164ms
+2026-02-13 13:15:05.634 [info] Handled visible editors change in 0.09738000005017966ms
+2026-02-13 13:15:05.635 [info] Handled visible editors change in 0.08346700004767627ms
+2026-02-13 13:15:05.636 [info] Handled visible editors change in 0.09554100001696497ms
+2026-02-13 13:15:05.637 [info] Handled visible editors change in 0.08625499997287989ms
+2026-02-13 13:15:05.639 [info] Handled visible editors change in 0.08617400005459785ms
+2026-02-13 13:15:05.641 [info] Handled visible editors change in 0.08514700003433973ms
+2026-02-13 13:15:05.643 [info] Handled visible editors change in 0.08412700006738305ms
+2026-02-13 13:15:05.645 [info] Handled visible editors change in 0.08906400005798787ms
+2026-02-13 13:15:05.649 [info] Handled visible editors change in 0.0859570000320673ms
+2026-02-13 13:15:05.651 [info] Handled visible editors change in 0.08760400000028312ms
+2026-02-13 13:15:05.652 [info] Handled visible editors change in 0.08212600008118898ms
+2026-02-13 13:15:05.653 [info] Handled visible editors change in 0.05475600005593151ms

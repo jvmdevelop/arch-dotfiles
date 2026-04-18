@@ -1,0 +1,222 @@
+2026-02-14 03:56:08.762 [info] Extension host with pid 82142 started
+2026-02-14 03:56:08.762 [info] Skipping acquiring lock for /home/dieno/.config/Cursor/User/workspaceStorage/92bd1ba16aea43ff1f313b904236c6d4.
+2026-02-14 03:56:08.762 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-14 03:56:08.762 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-14 03:56:08.762 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-14 03:56:08.762 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:08.762 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-14 03:56:08.762 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-14 03:56:08.762 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-14 03:56:08.762 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-14 03:56:08.762 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:08.762 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-14 03:56:08.762 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:08.762 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-02-14 03:56:08.762 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-14 03:56:08.762 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-14 03:56:08.864 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-02-14 03:56:09.000 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent, startup: true, activationEvent: '*'
+2026-02-14 03:56:09.370 [info] ExtensionService#_doActivateExtension anysphere.cursor-polyfills-remote, startup: true, activationEvent: '*'
+2026-02-14 03:56:09.402 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-02-14 03:56:09.426 [info] Extension activated success: anysphere.cursor-agent — 372ms (code loading: 361ms, activate call: 3ms, activate resolved: 8ms)
+2026-02-14 03:56:09.431 [info] ExtHostSearch [cursorIgnore] internal fileSearch start reason=cursorIgnoreCheck roots=1 include=**/.cursorignore maxResults=0 numThreads=(default) folderQueries=[{"cwd":"/home/dieno/projects/race-it","disregardIgnoreFiles":false,"disregardParentIgnoreFiles":true,"disregardGlobalIgnoreFiles":true,"ignoreSymlinks":false,"rgNoIgnore":false,"rgNoIgnoreParent":true,"rgNoIgnoreGlobal":true,"rgFollow":true}]
+2026-02-14 03:56:10.483 [info] Extension activated success: anysphere.cursor-polyfills-remote — 32ms (code loading: 32ms, activate call: 0ms, activate resolved: 0ms)
+2026-02-14 03:56:10.483 [info] Extension activated success: vscode.git-base — 3ms (code loading: 3ms, activate call: 0ms, activate resolved: 0ms)
+2026-02-14 03:56:10.491 [info] ExtHostSearch /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg --files --hidden --case-sensitive --no-require-git -g '**/.cursorignore' -g '!**/.git' -g '!**/.svn' -g '!**/.hg' -g '!**/.DS_Store' -g '!**/Thumbs.db' -g '!**/node_modules' -g '!**/bower_components' -g '!**/*.code-search' --no-ignore-parent --follow --threads '10' --no-config --no-ignore-global
+ - cwd: /home/dieno/projects/race-it
+ - Sibling clauses: {}
+2026-02-14 03:56:10.496 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-14 03:56:10.515 [info] ExtHostSearch Search finished. Stats: {"cmdTime":28,"fileWalkTime":28,"directoriesWalked":0,"filesWalked":0,"cmdResultCount":0}
+2026-02-14 03:56:10.515 [info] ExtHostSearch [cursorIgnore] internal fileSearch done in 1085ms limitHit=false failed=false resultCount=0 cmdTime=28 fileWalkTime=28 providerTime=(unknown)
+2026-02-14 03:56:10.515 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-02-14 03:56:10.562 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-02-14 03:56:10.608 [info] Extension activated success: vscode.emmet — 33ms (code loading: 17ms, activate call: 16ms, activate resolved: 0ms)
+2026-02-14 03:56:10.617 [info] Extension host with pid 82169 started
+2026-02-14 03:56:10.617 [info] Skipping acquiring lock for /home/dieno/.config/Cursor/User/workspaceStorage/92bd1ba16aea43ff1f313b904236c6d4.
+2026-02-14 03:56:10.617 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-14 03:56:10.617 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-14 03:56:10.617 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-14 03:56:10.617 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:10.617 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-14 03:56:10.617 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-14 03:56:10.617 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-14 03:56:10.617 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-14 03:56:10.617 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:10.617 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-14 03:56:10.617 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:10.617 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-02-14 03:56:10.617 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-14 03:56:10.617 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-14 03:56:10.622 [info] Extension host with pid 82170 started
+2026-02-14 03:56:10.622 [info] Skipping acquiring lock for /home/dieno/.config/Cursor/User/workspaceStorage/92bd1ba16aea43ff1f313b904236c6d4.
+2026-02-14 03:56:10.622 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-02-14 03:56:10.622 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-02-14 03:56:10.622 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-02-14 03:56:10.622 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:10.622 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-02-14 03:56:10.622 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-02-14 03:56:10.622 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-02-14 03:56:10.622 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-02-14 03:56:10.622 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:10.622 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-02-14 03:56:10.622 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-02-14 03:56:10.622 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/dieno
+2026-02-14 03:56:10.622 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-02-14 03:56:10.622 [info] [ExtHostShellExec] Sandbox support detected: true
+2026-02-14 03:56:10.631 [info] Eager extensions activated
+2026-02-14 03:56:10.725 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-02-14 03:56:10.740 [info] Extension activated success: vscode.github — 36ms (code loading: 29ms, activate call: 2ms, activate resolved: 5ms)
+2026-02-14 03:56:10.753 [info] [ExtHostShellExec] Initializing terminal executor with userTerminalHint: /usr/bin/bash
+2026-02-14 03:56:10.760 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:10.769 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: true, activationEvent: '*'
+2026-02-14 03:56:10.797 [info] Extension activated success: vscode.git — 234ms (code loading: 47ms, activate call: 4ms, activate resolved: 183ms)
+2026-02-14 03:56:10.800 [info] Eager extensions activated
+2026-02-14 03:56:10.864 [info] ExtensionService#_doActivateExtension anysphere.cursor-android-emulator-connect, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:10.883 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:10.905 [info] ExtensionService#_doActivateExtension anysphere.cursor-commits, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:11.120 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:11.209 [info] ExtensionService#_doActivateExtension anysphere.cursor-ios-simulator-connect, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:11.240 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:11.360 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:11.505 [info] Extension activated success: anysphere.cursor-always-local — 484ms (code loading: 478ms, activate call: 6ms, activate resolved: 0ms)
+2026-02-14 03:56:11.585 [info] Extension activated success: anysphere.cursor-agent-exec — 809ms (code loading: 455ms, activate call: 5ms, activate resolved: 349ms)
+2026-02-14 03:56:11.586 [info] Eager extensions activated
+2026-02-14 03:56:11.601 [info] Extension activated success: anysphere.cursor-retrieval — 348ms (code loading: 258ms, activate call: 1ms, activate resolved: 89ms)
+2026-02-14 03:56:11.721 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:11.802 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:11.825 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-14 03:56:11.863 [info] Extension activated success: anysphere.cursor-android-emulator-connect — 21ms (code loading: 19ms, activate call: 2ms, activate resolved: 0ms)
+2026-02-14 03:56:11.866 [info] Extension activated success: cursor.cursor-browser-automation — 17ms (code loading: 15ms, activate call: 1ms, activate resolved: 1ms)
+2026-02-14 03:56:11.870 [info] Extension activated success: anysphere.cursor-commits — 217ms (code loading: 214ms, activate call: 1ms, activate resolved: 2ms)
+2026-02-14 03:56:11.872 [info] Extension activated success: anysphere.cursor-deeplink — 89ms (code loading: 88ms, activate call: 1ms, activate resolved: 0ms)
+2026-02-14 03:56:11.873 [info] Extension activated success: anysphere.cursor-ios-simulator-connect — 152ms (code loading: 151ms, activate call: 1ms, activate resolved: 0ms)
+2026-02-14 03:56:11.880 [info] Extension activated success: anysphere.cursor-mcp — 362ms (code loading: 361ms, activate call: 1ms, activate resolved: 0ms)
+2026-02-14 03:56:11.881 [info] Extension activated success: anysphere.cursor-shadow-workspace — 82ms (code loading: 81ms, activate call: 1ms, activate resolved: 0ms)
+2026-02-14 03:56:11.908 [info] Extension activated success: vscode.debug-auto-launch — 1ms (code loading: 1ms, activate call: 0ms, activate resolved: 0ms)
+2026-02-14 03:56:11.924 [info] Extension activated success: vscode.merge-conflict — 31ms (code loading: 24ms, activate call: 4ms, activate resolved: 3ms)
+2026-02-14 03:56:12.053 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-02-14 03:56:12.108 [info] Extension activated success: vscode.github-authentication — 30ms (code loading: 26ms, activate call: 2ms, activate resolved: 2ms)
+2026-02-14 04:14:50.687 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2026-02-14 04:14:50.701 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-02-14 04:14:50.767 [info] Extension activated success: vscode.extension-editing — 15ms (code loading: 14ms, activate call: 1ms, activate resolved: 0ms)
+2026-02-14 04:14:50.940 [info] Extension activated success: vscode.markdown-language-features — 238ms (code loading: 65ms, activate call: 7ms, activate resolved: 166ms)
+2026-02-14 04:16:16.530 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-02-14 04:16:16.635 [info] Extension activated success: vscode.markdown-math — 10ms (code loading: 10ms, activate call: 0ms, activate resolved: 0ms)
+2026-02-14 05:14:33.153 [error] ConnectError: [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+	at o.from (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:912302)
+	at B (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:347486)
+	at Promise.reject (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:359593)
+	at ClientHttp2Stream.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:358125)
+	at ClientHttp2Stream.emit (node:events:519:28)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-02-14 05:14:33.155 [error] ConnectError: [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+	at o.from (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:912302)
+	at B (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:347486)
+	at Promise.reject (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:359593)
+	at ClientHttp2Stream.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:358125)
+	at ClientHttp2Stream.emit (node:events:519:28)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-02-14 05:14:33.156 [error] ConnectError: [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+	at o.from (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:912302)
+	at B (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:347486)
+	at Promise.reject (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:359593)
+	at ClientHttp2Stream.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:358125)
+	at ClientHttp2Stream.emit (node:events:519:28)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-02-14 05:14:33.156 [error] ConnectError: [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+	at o.from (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:912302)
+	at B (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:347486)
+	at Promise.reject (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:359593)
+	at ClientHttp2Stream.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:358125)
+	at ClientHttp2Stream.emit (node:events:519:28)
+	at emitErrorNT (node:internal/streams/destroy:170:8)
+	at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2026-02-14 06:28:34.124 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-14 06:28:34.126 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-14 06:28:34.126 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-14 06:28:34.126 [info] Extension host with pid 82170 exiting with code 0
+2026-02-14 06:28:34.133 [info] Extension host with pid 82169 exiting with code 0
+2026-02-14 06:28:34.164 [error] Canceled: Canceled
+	at new out (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:119405)
+	at Al._remoteCall (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:126068)
+	at r.<computed>.a.charCodeAt.r.<computed> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:122692)
+	at CNe._doExecuteCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:49822)
+	at CNe.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:49261)
+	at t.registerCommand.description (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:48525)
+	at CNe._executeContributedCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:50392)
+	at CNe._doExecuteCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:49394)
+	at CNe.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:49261)
+	at Object.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:145236)
+	at vke.N [as value] (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:110885)
+	at x._deliver (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:2961)
+	at x._deliverQueue (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:3052)
+	at x.fire (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:3389)
+	at Object.v [as dispose] (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:179707)
+	at /usr/share/cursor/resources/app/extensions/git/dist/main.js:2:186072
+	at Array.forEach (<anonymous>)
+	at R.dispose (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:186059)
+	at bbe.<anonymous> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:10091)
+	at bbe.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:10187)
+	at bbe.<anonymous> (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:113362)
+	at bbe.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:10187)
+	at yi (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:706)
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:20479
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:1019
+	at Object.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1256)
+	at hgs._deactivate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:15323)
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:12594
+	at Array.map (<anonymous>)
+	at hgs._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:12582)
+	at hgs.terminate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:12936)
+	at det.terminate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:1617)
+	at Jr (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:671:7954)
+	at MessagePortMain.<anonymous> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:671:4385)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959) setContext undefined
+2026-02-14 06:28:34.165 [error] Canceled: Canceled
+	at new out (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:119405)
+	at Al._remoteCall (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:126068)
+	at r.<computed>.a.charCodeAt.r.<computed> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:46:122692)
+	at CNe._doExecuteCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:49822)
+	at CNe.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:49261)
+	at t.registerCommand.description (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:48525)
+	at CNe._executeContributedCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:50392)
+	at CNe._doExecuteCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:49394)
+	at CNe.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:49261)
+	at Object.executeCommand (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:145236)
+	at set hasGitHubRepositories (/usr/share/cursor/resources/app/extensions/github/dist/extension.js:2:270497)
+	at /usr/share/cursor/resources/app/extensions/github/dist/extension.js:2:271447
+	at vke.value (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:600709)
+	at x._deliver (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:2961)
+	at x._deliverQueue (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:3052)
+	at x.fire (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:3389)
+	at Object.v [as dispose] (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:179707)
+	at /usr/share/cursor/resources/app/extensions/git/dist/main.js:2:186072
+	at Array.forEach (<anonymous>)
+	at R.dispose (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:186059)
+	at bbe.<anonymous> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:10091)
+	at bbe.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:10187)
+	at bbe.<anonymous> (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:113362)
+	at bbe.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:10187)
+	at yi (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:706)
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:20479
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:42:1019
+	at Object.dispose (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1256)
+	at hgs._deactivate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:15323)
+	at file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:12594
+	at Array.map (<anonymous>)
+	at hgs._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:12582)
+	at hgs.terminate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:12936)
+	at det.terminate (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:146:1617)
+	at Jr (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:671:7954)
+	at MessagePortMain.<anonymous> (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:671:4385)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959) setContext undefined
+2026-02-14 06:28:34.165 [info] Extension host with pid 82142 exiting with code 0

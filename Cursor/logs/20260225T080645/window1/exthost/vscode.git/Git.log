@@ -1,0 +1,118 @@
+2026-02-25 08:06:50.577 [info] [main] Log level: Info
+2026-02-25 08:06:50.577 [info] [main] Validating found git in: "/usr/bin/git"
+2026-02-25 08:06:50.577 [info] [main] Using git "2.53.0" from "/usr/bin/git"
+2026-02-25 08:06:50.577 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-25 08:06:50.577 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-25 08:06:50.779 [info] > git config --get remote.origin.url [3ms] 
+2026-02-25 08:06:51.035 [info] > git config --get remote.origin.url [6ms] 
+2026-02-25 08:06:51.035 [info] > git log --skip=0 --max-count=1 --pretty=format:%H [9ms] 
+2026-02-25 08:06:51.035 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:51.038 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [6ms] 
+2026-02-25 08:06:51.038 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:51.047 [info] > git rev-parse --verify origin/main [5ms] 
+2026-02-25 08:06:51.047 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:51.052 [info] > git rev-parse --verify origin/master [1ms] 
+2026-02-25 08:06:51.052 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:51.057 [info] > git rev-parse --verify origin/develop [1ms] 
+2026-02-25 08:06:51.057 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:51.061 [info] > git branch -r [0ms] 
+2026-02-25 08:06:51.061 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:51.066 [info] > git config --get init.defaultBranch [1ms] 
+2026-02-25 08:06:51.426 [info] > git rev-parse --show-toplevel [2ms] (getGitRepoPathForWorkspacePath)
+2026-02-25 08:06:51.426 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:52.472 [info] > git remote get-url --push origin [2ms] 
+2026-02-25 08:06:52.472 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:52.472 [info] > git remote get-url --push origin [6ms] 
+2026-02-25 08:06:52.472 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:52.472 [info] > git remote get-url --push origin [9ms] 
+2026-02-25 08:06:52.472 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-25 08:06:59.903 [info] [main] Log level: Info
+2026-02-25 08:06:59.903 [info] [main] Validating found git in: "/usr/bin/git"
+2026-02-25 08:06:59.918 [info] [main] Using git "2.53.0" from "/usr/bin/git"
+2026-02-25 08:06:59.918 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-25 08:06:59.929 [info] > git rev-parse --show-toplevel [4ms] (getRepositoryRoot)
+2026-02-25 08:07:00.136 [info] > git config --get remote.origin.url [7ms] 
+2026-02-25 08:07:00.366 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [231ms] 
+2026-02-25 08:07:00.374 [info] [Model][openRepository] Opened repository: /home/dieno/projects/walto-backend
+2026-02-25 08:07:00.374 [info] [Model][openRepository] Opened repository (kind): repository
+2026-02-25 08:07:00.376 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-25 08:07:00.420 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [8ms] 
+2026-02-25 08:07:00.420 [info] > git rev-parse --show-toplevel [13ms] 
+2026-02-25 08:07:00.420 [info] > git rev-parse --show-toplevel [17ms] 
+2026-02-25 08:07:00.421 [info] > git rev-parse --show-toplevel [21ms] 
+2026-02-25 08:07:00.421 [info] > git rev-parse --show-toplevel [25ms] 
+2026-02-25 08:07:00.421 [info] > git rev-parse --show-toplevel [29ms] 
+2026-02-25 08:07:00.421 [info] > git rev-parse --show-toplevel [33ms] 
+2026-02-25 08:07:00.421 [info] > git rev-parse --show-toplevel [37ms] 
+2026-02-25 08:07:00.442 [info] > git rev-parse --abbrev-ref HEAD [23ms] (GitProvider.getCurrentBranch)
+2026-02-25 08:07:00.443 [info] > git config --get commit.template [26ms] 
+2026-02-25 08:07:00.473 [info] > git log --skip=0 --max-count=1 --pretty=format:%H [11ms] 
+2026-02-25 08:07:00.481 [info] > git rev-parse --abbrev-ref HEAD [9ms] (GitProvider.getCurrentBranch)
+2026-02-25 08:07:00.481 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [15ms] 
+2026-02-25 08:07:00.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms] 
+2026-02-25 08:07:00.487 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dieno/projects/walto-backend/.git/refs/remotes/origin/master'
+2026-02-25 08:07:00.492 [info] > git rev-parse refs/remotes/origin/master [5ms] 
+2026-02-25 08:07:00.502 [info] > git status -z -uall [6ms]
+2026-02-25 08:07:00.503 [info] > git rev-parse --abbrev-ref HEAD [11ms] (GitProvider.getCurrentBranch)
+2026-02-25 08:07:00.504 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms] 
+2026-02-25 08:07:00.529 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms] 
+2026-02-25 08:07:00.541 [info] > git config --get --local branch.master.vscode-merge-base [8ms] 
+2026-02-25 08:07:00.542 [warning] [Git][config] git config failed: Failed to execute git
+2026-02-25 08:07:00.545 [info] > git config --get commit.template [16ms] 
+2026-02-25 08:07:00.564 [info] > git reflog master --grep-reflog=branch: Created from *. [19ms] 
+2026-02-25 08:07:00.568 [info] > git rev-parse --abbrev-ref HEAD [27ms] (GitProvider.getCurrentBranch)
+2026-02-25 08:07:00.569 [info] > git rev-parse --abbrev-ref HEAD [31ms] (GitProvider.getCurrentBranch)
+2026-02-25 08:07:00.591 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [23ms] 
+2026-02-25 08:07:00.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [14ms] 
+2026-02-25 08:07:00.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms] 
+2026-02-25 08:07:00.626 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dieno/projects/walto-backend/.git/refs/remotes/origin/master'
+2026-02-25 08:07:00.627 [info] > git config --add --local branch.master.vscode-merge-base origin/master [11ms] 
+2026-02-25 08:07:00.637 [info] > git rev-parse refs/remotes/origin/master [11ms] 
+2026-02-25 08:07:00.648 [info] > git config --get commit.template [12ms] 
+2026-02-25 08:07:00.650 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms] 
+2026-02-25 08:07:00.663 [info] > git config --get --local branch.master.vscode-merge-base [7ms] 
+2026-02-25 08:07:00.671 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms] 
+2026-02-25 08:07:00.696 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dieno/projects/walto-backend/.git/refs/remotes/origin/master'
+2026-02-25 08:07:00.696 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [26ms] 
+2026-02-25 08:07:00.707 [info] > git merge-base refs/heads/master refs/remotes/origin/master [3ms] 
+2026-02-25 08:07:00.713 [info] > git rev-parse refs/remotes/origin/master [17ms] 
+2026-02-25 08:07:00.725 [info] > git rev-parse --show-toplevel [35ms] (findGitRoot)
+2026-02-25 08:07:00.767 [info] > git status -z -uall [48ms]
+2026-02-25 08:07:00.767 [info] > git rev-parse --show-toplevel [12ms] (findGitRoot)
+2026-02-25 08:07:00.780 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [55ms] 
+2026-02-25 08:07:00.792 [info] > git diff --name-status -z --diff-filter=ADMR d48172eda438b0dab7bb45765a4f81fff4a35c87...refs/remotes/origin/master [79ms] 
+2026-02-25 08:07:00.796 [info] > git merge-base refs/heads/master refs/remotes/origin/master [5ms] 
+2026-02-25 08:07:00.800 [info] > git merge-base refs/heads/master refs/remotes/origin/master [14ms] 
+2026-02-25 08:07:00.916 [info] > git diff --name-status -z --diff-filter=ADMR d48172eda438b0dab7bb45765a4f81fff4a35c87...refs/remotes/origin/master [112ms] 
+2026-02-25 08:07:00.917 [info] > git diff --name-status -z --diff-filter=ADMR d48172eda438b0dab7bb45765a4f81fff4a35c87...refs/remotes/origin/master [117ms] 
+2026-02-25 08:07:00.939 [info] > git check-ignore -v -z --stdin [2ms]
+2026-02-25 08:07:00.981 [info] > git rev-parse --show-toplevel [4ms] (getGitRepoPathForWorkspacePath)
+2026-02-25 08:07:01.500 [info] > git config --get remote.origin.url [515ms] (getGitRemoteUrl)
+2026-02-25 08:07:01.536 [info] > git rev-parse --show-toplevel [28ms] 
+2026-02-25 08:07:01.817 [info] > git config --get commit.template [5ms] 
+2026-02-25 08:07:01.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms] 
+2026-02-25 08:07:01.825 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/dieno/projects/walto-backend/.git/refs/remotes/origin/master'
+2026-02-25 08:07:01.825 [info] > git rev-parse refs/remotes/origin/master [0ms] 
+2026-02-25 08:07:01.835 [info] > git status -z -uall [5ms]
+2026-02-25 08:07:01.835 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms] 
+2026-02-25 08:07:01.859 [info] > git remote get-url --push origin [3ms] 
+2026-02-25 08:07:02.743 [info] > git rev-parse --show-toplevel [1ms] (findGitRoot)
+2026-02-25 08:07:02.753 [info] > git rev-parse --show-toplevel [17ms] (findGitRoot)
+2026-02-25 08:07:04.060 [info] > git check-ignore -v -z --stdin [1ms]
+2026-02-25 08:07:06.966 [info] > git --no-optional-locks status [2ms] (GitProvider.getGitStatusRaw)
+2026-02-25 08:07:09.924 [info] > git config --global user.name [2ms] 
+2026-02-25 08:07:09.932 [info] > git config --global user.email [2ms] 
+2026-02-25 08:07:09.932 [info] [main] Stored git author name in global state: jvmd <jvmdevelop@gmail.com>
+2026-02-25 08:07:20.199 [info] > git rev-parse --show-toplevel [0ms] 
+2026-02-25 08:07:35.583 [info] > git rev-parse --show-toplevel [2ms] (findGitRoot)
+2026-02-25 08:07:45.410 [info] > git rev-parse --show-toplevel [2ms] (findGitRoot)

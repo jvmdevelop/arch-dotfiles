@@ -1,0 +1,187 @@
+syntax = "proto3";
+
+package le.v1;
+
+import "google/protobuf/timestamp.proto";
+
+// ---- Shared message types ----
+
+message TextDocument {
+  string id = 1;
+  string language = 2; // "ru" | "kk" | "auto"
+  string text = 3;
+}
+
+message ConfidenceScore {
+  float value = 1; // [0..1]
+}
+
+message DateRange {
+  google.protobuf.Timestamp from = 1;
+  google.protobuf.Timestamp to = 2;
+}
+
+// ---- NLP pipeline ----
+
+message Token {
+  string text = 1;
+  uint32 start = 2; // byte offset
+  uint32 end = 3;   // byte offset (exclusive)
+}
+
+message Sentence {
+  uint32 index = 1;
+  uint32 start = 2;
+  uint32 end = 3;
+  string text = 4;
+}
+
+message StructuralElement {
+  string kind = 1; // "article" | "part" | "point" | ...
+  string label = 2; // e.g. "Статья 12" / "п. 3"
+  uint32 start = 3;
+  uint32 end = 4;
+}
+
+message NamedEntity {
+  string kind = 1;   // "legal_term" | "date" | "amount" | "npa_ref" | ...
+  string text = 2;
+  uint32 start = 3;
+  uint32 end = 4;
+}
+
+message NormalizeRequest {
+  TextDocument doc = 1;
+}
+
+message NormalizeResponse {
+  string normalized_text = 1;
+}
+
+message TokenizeRequest {
+  TextDocument doc = 1;
+}
+
+message TokenizeResponse {
+  repeated Token tokens = 1;
+  repeated Sentence sentences = 2;
+  repeated StructuralElement structure = 3;
+}
+
+message LemmatizeRequest {
+  TextDocument doc = 1;
+}
+
+message LemmatizeResponse {
+  repeated string lemmas = 1;
+}
+
+message NerRequest {
+  TextDocument doc = 1;
+}
+
+message NerResponse {
+  repeated NamedEntity entities = 1;
+}
+
+service NlpService {
+  rpc Normalize(NormalizeRequest) returns (NormalizeResponse);
+  rpc Tokenize(TokenizeRequest) returns (TokenizeResponse);
+  rpc Lemmatize(LemmatizeRequest) returns (LemmatizeResponse);
+  rpc Ner(NerRequest) returns (NerResponse);
+}
+
+// ---- Embeddings ----
+
+message EmbedRequest {
+  repeated TextDocument docs = 1;
+  bool use_cache = 2;
+}
+
+message EmbeddingVector {
+  // 768 float values for BERT-like models.
+  repeated float values = 1;
+}
+
+message EmbedResponse {
+  repeated EmbeddingVector embeddings = 1;
+}
+
+service EmbeddingService {
+  rpc Embed(EmbedRequest) returns (EmbedResponse);
+}
+
+// ---- Classification ----
+
+enum NormType {
+  NORM_TYPE_UNSPECIFIED = 0;
+  NORM_TYPE_IMPERATIVE = 1;
+  NORM_TYPE_DISPOSITIVE = 2;
+  NORM_TYPE_DECLARATIVE = 3;
+}
+
+message ClassificationLabel {
+  string label = 1;
+  ConfidenceScore confidence = 2;
+}
+
+message ClassifyRequest {
+  TextDocument doc = 1;
+}
+
+message ClassifyResponse {
+  NormType norm_type = 1;
+  ConfidenceScore norm_type_confidence = 2;
+  repeated ClassificationLabel regulation_domains = 3;
+  ClassificationLabel document_level = 4;
+}
+
+service ClassificationService {
+  rpc Classify(ClassifyRequest) returns (ClassifyResponse);
+}
+
+// ---- Conflict detection ----
+
+message ConflictFeatures {
+  // Higher-level signals used for explanation.
+  float temporal_overlap = 1;
+  float hierarchy_conflict = 2;
+  float semantic_similarity = 3;
+}
+
+message DetectConflictRequest {
+  TextDocument a = 1;
+  TextDocument b = 2;
+}
+
+message DetectConflictResponse {
+  bool conflict = 1;
+  ConfidenceScore confidence = 2;
+  ConflictFeatures features = 3;
+  string explanation = 4;
+}
+
+service ConflictService {
+  rpc Detect(DetectConflictRequest) returns (DetectConflictResponse);
+}
+
+// ---- Similarity ----
+
+message SimilarityRequest {
+  TextDocument query = 1;
+  uint32 top_k = 2;
+}
+
+message SimilarityHit {
+  string doc_id = 1;
+  float score = 2; // cosine similarity
+}
+
+message SimilarityResponse {
+  repeated SimilarityHit hits = 1;
+}
+
+service SimilarityService {
+  rpc Search(SimilarityRequest) returns (SimilarityResponse);
+}
+

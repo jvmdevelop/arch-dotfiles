@@ -1,0 +1,32 @@
+[
+  {
+    "description": "simple cube with 10 unit sides",
+    "vdsl_code": "0: 0 0 0\n1: 10 0 0\n2: 10 10 0\n3: 0 10 0\n4: 0 0 10\n5: 10 0 10\n6: 10 10 10\n7: 0 10 10\nl: 0 1\nl: 1 2\nl: 2 3\nl: 3 0\nl: 4 5\nl: 5 6\nl: 6 7\nl: 7 4\nl: 0 4\nl: 1 5\nl: 2 6\nl: 3 7\n",
+    "features": [8.0, 12.0, 0.0, 20.0, 0.0, 10.0, 10.0, 10.0]
+  },
+  {
+    "description": "small pyramid 5 units tall",
+    "vdsl_code": "0: 0 0 0\n1: 5 0 0\n2: 5 5 0\n3: 0 5 0\n4: 2.5 2.5 5\nl: 0 1\nl: 1 2\nl: 2 3\nl: 3 0\nl: 0 4\nl: 1 4\nl: 2 4\nl: 3 4\n",
+    "features": [5.0, 8.0, 0.0, 13.0, 0.0, 5.0, 5.0, 5.0]
+  },
+  {
+    "description": "simple square plane",
+    "vdsl_code": "0: 0 0 0\n1: 10 0 0\n2: 10 10 0\n3: 0 10 0\nl: 0 1\nl: 1 2\nl: 2 3\nl: 3 0\n",
+    "features": [4.0, 4.0, 0.0, 8.0, 0.0, 10.0, 10.0, 0.0]
+  },
+  {
+    "description": "large complex structure",
+    "vdsl_code": "0: 0 0 0\n1: 20 0 0\n2: 20 20 0\n3: 0 20 0\n4: 0 0 20\n5: 20 0 20\n6: 20 20 20\n7: 0 20 20\n8: 10 0 0\n9: 20 10 0\n10: 10 20 0\n11: 0 10 0\nl: 0 1\nl: 1 2\nl: 2 3\nl: 3 0\nl: 4 5\nl: 5 6\nl: 6 7\nl: 7 4\nl: 0 4\nl: 1 5\nl: 2 6\nl: 3 7\nl: 0 8\nl: 8 1\nl: 1 9\nl: 9 2\nl: 2 10\nl: 10 3\nl: 3 11\nl: 11 0\n",
+    "features": [12.0, 18.0, 0.0, 30.0, 0.0, 20.0, 20.0, 20.0]
+  },
+  {
+    "description": "tiny cube 2 units",
+    "vdsl_code": "0: 0 0 0\n1: 2 0 0\n2: 2 2 0\n3: 0 2 0\n4: 0 0 2\n5: 2 0 2\n6: 2 2 2\n7: 0 2 2\nl: 0 1\nl: 1 2\nl: 2 3\nl: 3 0\nl: 4 5\nl: 5 6\nl: 6 7\nl: 7 4\nl: 0 4\nl: 1 5\nl: 2 6\nl: 3 7\n",
+    "features": [8.0, 12.0, 0.0, 20.0, 0.0, 2.0, 2.0, 2.0]
+  },
+  {
+    "description": "rectangular prism 15x10x5",
+    "vdsl_code": "0: 0 0 0\n1: 15 0 0\n2: 15 10 0\n3: 0 10 0\n4: 0 0 5\n5: 15 0 5\n6: 15 10 5\n7: 0 10 5\nl: 0 1\nl: 1 2\nl: 2 3\nl: 3 0\nl: 4 5\nl: 5 6\nl: 6 7\nl: 7 4\nl: 0 4\nl: 1 5\nl: 2 6\nl: 3 7\n",
+    "features": [8.0, 12.0, 0.0, 20.0, 0.0, 15.0, 10.0, 5.0]
+  }
+]

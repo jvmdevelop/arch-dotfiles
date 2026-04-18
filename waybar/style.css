@@ -1,0 +1,115 @@
+/*
+ * Palette: IntelliJ IDEA Islands Dark
+ * --bg0:     #1E1F22  darkest background
+ * --bg1:     #2B2D30  panel / sidebar
+ * --bg2:     #393B3F  inactive / hover
+ * --accent:  #5C5F66  grey accent
+ * --text:    #BCBEC4  primary text
+ * --text-hi: #DFE1E5  bright text
+ * --red:     #F75464
+ * --yellow:  #E2C07A
+ */
+
+* {
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    font-family: "JetBrains Mono", "monospace";
+    font-weight: bold;
+    font-size: 13px;
+    padding: 0;
+}
+
+window#waybar {
+    background: #1E1F22;
+    color: #BCBEC4;
+}
+
+tooltip {
+    background-color: #2B2D30;
+    border: 1px solid #5C5F66;
+    color: #DFE1E5;
+}
+
+/* ── Workspaces ─────────────────────────────────────────────────────────────── */
+
+#workspaces {
+    background: transparent;
+    margin: 4px 0 4px 6px;
+}
+
+#workspaces button {
+    all: initial;
+    min-width: 0;
+    padding: 2px 10px;
+    color: #7A7E85;
+    background: transparent;
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s ease;
+}
+
+#workspaces button:hover {
+    color: #DFE1E5;
+    background: #2B2D30;
+    border-bottom: 2px solid #5C5F66;
+}
+
+#workspaces button.active,
+#workspaces button.focused {
+    color: #DFE1E5;
+    border-bottom: 2px solid #5C5F66;
+}
+
+#workspaces button.urgent {
+    color: #F75464;
+    border-bottom: 2px solid #F75464;
+}
+
+/* ── Right-side modules ─────────────────────────────────────────────────────── */
+
+#clock,
+#tray,
+#cpu,
+#memory,
+#battery,
+#network,
+#pulseaudio {
+    background: #2B2D30;
+    color: #BCBEC4;
+    border: 1px solid #393B3F;
+    border-radius: 4px;
+    margin: 4px 0 4px 6px;
+    padding: 2px 10px;
+}
+
+#tray {
+    padding: 2px 6px;
+}
+
+#clock {
+    color: #DFE1E5;
+    border-color: #393B3F;
+}
+
+/* ── State colors ───────────────────────────────────────────────────────────── */
+
+#cpu.critical,
+#memory.critical {
+    color: #F75464;
+    border-color: #F75464;
+}
+
+#battery.warning {
+    color: #E2C07A;
+    border-color: #E2C07A;
+}
+
+#battery.critical {
+    color: #F75464;
+    border-color: #F75464;
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    50% { opacity: 0.4; }
+}

@@ -1,0 +1,74 @@
+/*
+ * Palette: IntelliJ IDEA Islands Dark
+ * --bg0:    #1E1F22  darkest background
+ * --bg1:    #2B2D30  panel background
+ * --bg2:    #393B3F  hover / inactive
+ * --accent: #3574F0  primary blue
+ * --select: #214283  selection
+ * --text:   #BCBEC4  primary text
+ * --text-hi:#DFE1E5  bright text
+ */
+
+window {
+    opacity: 1;
+    border-radius: 8px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 15px;
+    background-color: #1E1F22;
+    border: 1px solid #3574F0;
+}
+
+#input {
+    border-radius: 7px 7px 0 0;
+    border: none;
+    border-bottom: 1px solid #393B3F;
+    padding: 10px 14px;
+    margin: 0;
+    font-size: 16px;
+    color: #DFE1E5;
+    background-color: #2B2D30;
+    caret-color: #3574F0;
+}
+
+#inner-box {
+    margin: 0;
+    color: #BCBEC4;
+    background: #1E1F22;
+}
+
+#outer-box {
+    margin: 0;
+    border-radius: 0 0 7px 7px;
+    background: #1E1F22;
+}
+
+#scroll {
+    margin: 4px;
+}
+
+#entry {
+    padding: 0;
+    margin: 0;
+    border-radius: 4px;
+}
+
+#entry:hover {
+    background-color: #2B2D30;
+    border-left: 3px solid #CC785C;
+}
+
+#entry:selected,
+#entry.selected {
+    background-color: #214283;
+}
+
+#text {
+    margin: 0;
+    padding: 6px 12px;
+    color: #BCBEC4;
+}
+
+#entry:selected #text,
+#entry.selected #text {
+    color: #DFE1E5;
+}

@@ -1,0 +1,22 @@
+2026-03-31 07:16:29.250 [info] (Windsurf) 2026-03-31 07:16:29.250 [INFO]: [windsurf#terminal] Shell integration DETECTED for unknown
+2026-03-31 07:16:29.775 [info] (Windsurf) 2026-03-31 07:16:29.775 [INFO]: [windsurf#terminal] Shell integration DETECTED for managed
+2026-03-31 07:16:29.905 [info] 2026/03/31 07:16:29 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+2026-03-31 07:16:29.938 [info] I0331 07:16:29.937993 130414 main.go:604] Setting GOMAXPROCS to 4
+2026-03-31 07:16:29.938 [info] I0331 07:16:29.938143 130414 main.go:819] Starting language server process with pid 130414
+2026-03-31 07:16:29.941 [info] I0331 07:16:29.941569 130414 server.go:359] Language server will attempt to listen on host 127.0.0.1
+2026-03-31 07:16:29.941 [info] I0331 07:16:29.941722 130414 server.go:366] Language server listening on random port at 43465
+2026-03-31 07:16:30.626 [info] I0331 07:16:30.624755 130414 server.go:500] Created extension server client at port 46717
+2026-03-31 07:16:30.676 [info] (Windsurf) 2026-03-31 07:16:30.675 [INFO]: Language server started
+2026-03-31 07:16:30.701 [info] (Windsurf) 2026-03-31 07:16:30.701 [INFO]: LS lspClient started successfully
+2026-03-31 07:16:34.266 [info] (Windsurf) 2026-03-31 07:16:34.266 [INFO]: Shutting down all 0 managed language servers
+2026-03-31 07:16:37.673 [info] (Windsurf) 2026-03-31 07:16:37.673 [INFO]: [windsurf#terminal] Shell integration DETECTED for unknown
+2026-03-31 07:16:38.259 [info] (Windsurf) 2026-03-31 07:16:38.259 [INFO]: [windsurf#terminal] Shell integration DETECTED for managed
+2026-03-31 07:16:38.314 [info] 2026/03/31 07:16:38 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+2026-03-31 07:16:38.335 [info] I0331 07:16:38.323289 131089 main.go:604] Setting GOMAXPROCS to 4
+2026-03-31 07:16:38.335 [info] I0331 07:16:38.323406 131089 main.go:819] Starting language server process with pid 131089
+2026-03-31 07:16:38.335 [info] I0331 07:16:38.323737 131089 server.go:359] Language server will attempt to listen on host 127.0.0.1
+2026-03-31 07:16:38.335 [info] I0331 07:16:38.323926 131089 server.go:366] Language server listening on random port at 41457
+2026-03-31 07:16:38.977 [info] I0331 07:16:38.971150 131089 server.go:500] Created extension server client at port 46293
+2026-03-31 07:16:39.018 [info] (Windsurf) 2026-03-31 07:16:39.018 [INFO]: Language server started
+2026-03-31 07:16:39.035 [info] (Windsurf) 2026-03-31 07:16:39.035 [INFO]: LS lspClient started successfully
+2026-03-31 07:17:01.368 [info] (Windsurf) 2026-03-31 07:17:01.367 [INFO]: Shutting down all 0 managed language servers

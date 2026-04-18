@@ -1,0 +1,44 @@
+2026-02-14 07:06:10.526 [warning] Failed to get symbolic ref: Failed to execute git
+2026-02-14 07:06:10.526 [warning] Failed to get symbolic ref: Failed to execute git
+2026-02-14 07:06:10.526 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-02-14 07:06:10.526 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-02-14 07:06:10.526 [info] Using existing keys for an index
+2026-02-14 07:06:10.526 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-02-14 07:06:10.526 [info] Using existing keys for an index
+2026-02-14 07:06:10.526 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-02-14 07:06:10.526 [info] Starting RepoIndexWatcher for repo: bb6366f2-040e-4771-a9e2-26fffd7a7530, owner: google-oauth2|user_01KHDTCZGHEXF94HRQVBT2TYPT
+2026-02-14 07:06:10.526 [info] Setting global status from status tracker: synced
+2026-02-14 07:06:10.526 [info] Doing a startup handshake.
+2026-02-14 07:06:10.528 [info] Picked default branch from method 1.
+2026-02-14 07:06:10.529 [info] Picked default branch from method 1.
+2026-02-14 07:06:10.557 [info] Finished computing merkle tree in 18.64115700000002 ms.
+2026-02-14 07:06:10.582 [info] Doing the initial handshake with hash: ebf822e98167de8eaede625c4eaf5de12dfcb34aaeee3d48d2f312799e5b879f
+2026-02-14 07:06:10.586 [info] Computed simhash vector of length: 256
+2026-02-14 07:06:10.586 [info] Path key hash: b9feb0a58eebdb5c125edf4049baba26f56c69b2d13e6909102bc6b9bc8da98f
+2026-02-14 07:06:10.589 [info] Found 1 git remote(s) in workspace
+2026-02-14 07:06:10.592 [info] Handshake start
+2026-02-14 07:06:11.880 [info] Handshake timing: 1289.177154, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"c310dbc5-0a24-4073-a1dc-bccdfba3426a","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-14 07:06:11.880 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"c310dbc5-0a24-4073-a1dc-bccdfba3426a","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-02-14 07:06:11.880 [info] Starting fast remote sync.
+2026-02-14 07:06:11.892 [info] Total num embeddable files: 41
+2026-02-14 07:06:11.893 [info] Root hash: ebf822e98167de8eaede625c4eaf5de12dfcb34aaeee3d48d2f312799e5b879f
+2026-02-14 07:06:11.893 [info] In the out of sync case.
+2026-02-14 07:06:11.895 [info] Waiting on semaphore to be released 1
+2026-02-14 07:06:12.094 [info] Waiting on semaphore to be released 1
+2026-02-14 07:06:12.296 [info] Waiting on semaphore to be released 1
+2026-02-14 07:06:12.495 [info] Waiting on semaphore to be released 1
+2026-02-14 07:06:12.697 [info] Waiting on semaphore to be released 1
+2026-02-14 07:06:12.897 [info] Waiting on semaphore to be released 1
+2026-02-14 07:06:13.100 [info] setting numJobsToGo to 1
+2026-02-14 07:06:13.104 [info] [startSync]: numJobs: 1
+2026-02-14 07:06:13.555 [info] Uploading 1 files.
+2026-02-14 07:06:13.556 [info] Total number of files to embed: 41
+2026-02-14 07:06:13.556 [info] Not aborted
+2026-02-14 07:06:13.556 [info] Starting while loop.
+2026-02-14 07:06:15.612 [info] Completed job successfully: c310dbc5-0a24-4073-a1dc-bccdfba3426a ./game/cars/Hud.gd
+2026-02-14 07:06:15.616 [info] Found 1 git remote(s) in workspace
+2026-02-14 07:06:15.822 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-02-14 07:06:16.216 [info] Finished indexing repository.
+2026-02-14 07:06:16.216 [info] Indexing job successfully done or aborted.
+2026-02-14 07:07:49.242 [info] multiCodebaseIndexingJob dispose
+2026-02-14 07:07:49.242 [info] Aborting indexing job.

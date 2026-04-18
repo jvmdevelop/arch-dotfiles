@@ -1,0 +1,133 @@
+2026-02-25 08:06:48.230 [warning] Missing property "extensionSigningSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-02-25 08:06:48.231 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-02-25 08:06:48.237 [info] [CursorExtensionIsolationService] Extension isolation is disabled
+2026-02-25 08:06:48.237 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.237 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.238 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.238 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.238 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.238 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.238 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.239 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.239 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:48.315 [info] [storage] Database optimization (VACUUM) is disabled via feature flag
+2026-02-25 08:06:48.693 [info] Started local extension host with pid 17560.
+2026-02-25 08:06:49.184 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2026-02-25 08:06:49.184 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2026-02-25 08:06:50.112 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/bash
+2026-02-25 08:06:50.113 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/bash
+2026-02-25 08:06:50.158 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=6.18.9-arch1-2
+2026-02-25 08:06:50.159 [info] [MainThreadShellExec] AppArmor suggestion skipped: sandboxSupported=true, linuxKernelVersion=6.18.9-arch1-2
+2026-02-25 08:06:50.771 [error] [Extension Host] (node:17560) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-02-25 08:06:51.268 [info] [Debug] Registered command palette action: debug.getLayoutState
+2026-02-25 08:06:51.269 [info] [Debug] Registered command palette action: debug.simulateSidebarBug
+2026-02-25 08:06:51.270 [info] [Debug] Registered command palette action: debug.simulateLeftIconFlippedHenryBug
+2026-02-25 08:06:51.270 [info] [Debug] Registered command palette action: debug.setSidebarPosition
+2026-02-25 08:06:51.272 [info] [Debug] Registered command palette action: debug.toggleSyncMode
+2026-02-25 08:06:51.274 [info] [Debug] Registered command palette action: debug.toggleAgentMode
+2026-02-25 08:06:51.274 [info] [Debug] Registered command palette action: debug.testLayoutPersistence
+2026-02-25 08:06:51.275 [info] [Debug] Registered command palette action: debug.classifyRecentConversations
+2026-02-25 08:06:51.275 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2026-02-25 08:06:51.276 [info] [Debug] Registered command palette action: debug.logComposer
+2026-02-25 08:06:51.276 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2026-02-25 08:06:51.276 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2026-02-25 08:06:51.276 [info] [Debug] Registered command palette action: debug.resetThirdPartyExtensibilityNotification
+2026-02-25 08:06:51.277 [info] [Debug] Registered command palette action: debug.triggerThirdPartyExtensibilityNotification
+2026-02-25 08:06:51.296 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2026-02-25 08:06:51.307 [info] [ShellExec] Created session 8691c99f-a73a-428c-b087-1cc77139de8a on LocalProcess host
+2026-02-25 08:06:51.365 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2026-02-25 08:06:52.597 [info] [perf] Render performance baseline is 17ms
+2026-02-25 08:06:57.864 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-02-25 08:06:57.868 [info] [CursorExtensionIsolationService] Extension isolation is disabled
+2026-02-25 08:06:57.869 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.869 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.869 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.869 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.869 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.870 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.870 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.870 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.870 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-02-25 08:06:57.905 [info] [storage] Database optimization (VACUUM) is disabled via feature flag
+2026-02-25 08:06:58.089 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.090 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.090 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.090 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.090 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.090 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.091 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.091 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.091 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.091 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.092 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.092 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.092 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.092 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.092 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.093 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.093 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.093 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.093 [warning] Unexpected error checking unified sidebar visibility: Index out of bounds
+2026-02-25 08:06:58.310 [info] Started local extension host with pid 18819.
+2026-02-25 08:06:58.746 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2026-02-25 08:06:58.747 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2026-02-25 08:06:59.469 [info] [LocalProcessExtensionHost] getDefaultShell result: /usr/bin/bash
+2026-02-25 08:06:59.470 [info] [LocalProcessExtensionHost] Final userTerminalHint: /usr/bin/bash
+2026-02-25 08:06:59.506 [warning] No search provider registered for scheme: file, waiting
+2026-02-25 08:06:59.509 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=6.18.9-arch1-2
+2026-02-25 08:06:59.509 [info] [MainThreadShellExec] AppArmor suggestion skipped: sandboxSupported=true, linuxKernelVersion=6.18.9-arch1-2
+2026-02-25 08:06:59.805 [info] [ShellExec] Created session b5f161c6-817d-446c-b5cd-bf73e6da1dd4 on LocalProcess host
+2026-02-25 08:07:00.124 [error] [Extension Host] (node:18819) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-02-25 08:07:00.587 [info] [Debug] Registered command palette action: debug.getLayoutState
+2026-02-25 08:07:00.587 [info] [Debug] Registered command palette action: debug.simulateSidebarBug
+2026-02-25 08:07:00.587 [info] [Debug] Registered command palette action: debug.simulateLeftIconFlippedHenryBug
+2026-02-25 08:07:00.588 [info] [Debug] Registered command palette action: debug.setSidebarPosition
+2026-02-25 08:07:00.588 [info] [Debug] Registered command palette action: debug.toggleSyncMode
+2026-02-25 08:07:00.588 [info] [Debug] Registered command palette action: debug.toggleAgentMode
+2026-02-25 08:07:00.588 [info] [Debug] Registered command palette action: debug.testLayoutPersistence
+2026-02-25 08:07:00.588 [info] [Debug] Registered command palette action: debug.classifyRecentConversations
+2026-02-25 08:07:00.588 [info] [Debug] Registered command palette action: debug.logComposer
+2026-02-25 08:07:00.588 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2026-02-25 08:07:00.589 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2026-02-25 08:07:00.589 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2026-02-25 08:07:00.589 [info] [Debug] Registered command palette action: debug.resetThirdPartyExtensibilityNotification
+2026-02-25 08:07:00.589 [info] [Debug] Registered command palette action: debug.triggerThirdPartyExtensibilityNotification
+2026-02-25 08:07:00.736 [info] [RepositoryTracker] Stored repository path: github.com/jvmdevelop/walto-backend -> file:///home/dieno/projects/walto-backend
+2026-02-25 08:07:00.739 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2026-02-25 08:07:00.759 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2026-02-25 08:07:01.116 [info] [perf] Render performance baseline is 19ms
+2026-02-25 08:07:24.886 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:43352:36310)
+    at async Object.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:31947:4386)
+    at async rjo.getTeams (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46166:40530)
+    at async rjo.refreshMembership (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46166:26056)
+    at async rjo.refreshAuthentication (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46167:5884) [unauthenticated] Error
+2026-02-25 08:07:25.429 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:43352:36310)
+    at async Object.availableModels (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:31947:4386)
+    at async Bnu.keepCppModelStateUpdated (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:47259:16501)
+    at async Bnu.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:47269:1259) [unauthenticated] Error
+2026-02-25 08:07:25.435 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:43352:36310)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:31947:4386)
+    at async q4l.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:44241:23939) [unauthenticated] Error
+2026-02-25 08:07:25.439 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:43352:36310)
+    at async Object.availableModels (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:31947:4386)
+    at async Bnu.keepCppModelStateUpdated (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:47259:16501)
+    at async Bnu.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:47269:1259) [unauthenticated] Error
+2026-02-25 08:07:25.445 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:43352:36310)
+    at async Object.getEmail (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:31947:4386)
+    at async rjo.getEmailAndSignUpType (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46167:836) [unauthenticated] Error
+2026-02-25 08:07:25.464 [error] Error fetching user pricing info: [unauthenticated] Error
+2026-02-25 08:07:25.526 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:43352:36310)
+    at async Object.getDefaultModelNudgeData (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:31947:4386)
+    at async q4l.performDefaultModelRequest (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:44241:23939) [unauthenticated] Error
+2026-02-25 08:07:25.528 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:43352:36310)
+    at async Object.getEmail (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:31947:4386)
+    at async rjo.getEmailAndSignUpType (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:46167:836) [unauthenticated] Error
