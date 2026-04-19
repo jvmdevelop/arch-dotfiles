@@ -16,8 +16,7 @@ CONFIGS=(
   htop
   vesktop
   obs-studio
-  Cursor
-  Windsurf
+  rmpc
 )
 
 for cfg in "${CONFIGS[@]}"; do
