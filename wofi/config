@@ -1,0 +1,5 @@
+allow_images=true
+image_size=24
+insensitive=true
+allow_markup=false
+no_actions=true

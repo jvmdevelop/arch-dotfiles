@@ -59,7 +59,12 @@ window {
 
 #entry:selected,
 #entry.selected {
-    background-color: #214283;
+    background-color: #3D2B24;
+    border-left: 3px solid #CC785C;
+}
+
+#img {
+    margin: 4px 8px 4px 8px;
 }
 
 #text {
